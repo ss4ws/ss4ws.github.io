@@ -66,4 +66,4 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer -->
 
-Last updated: February 2018
+`Last updated: February 2018`
