@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: "#b63b3b" #"#CC0000"
-lowlight-color:  "#5c745b" #"#000"
+highlight-color: "#CD666A" #"#CC0000"
+lowlight-color:  "#6F7D72" #"#000"
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
