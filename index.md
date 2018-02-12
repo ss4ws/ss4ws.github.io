@@ -7,6 +7,6 @@ I am a PhD candidate in French, in the University of Virginia. My research focus
 
 This year, I am also a Praxis program fellow, working alongside five other graduate students and Scholars’ Lab staff on an Augmented Reality project. Our project seeks to connect archival documents residing on the selves of our libraries, to public spaces on UVa Grounds. By overlaying documents over public spaces through augmented reality techniques, we envision an enhanced, more contextualized experience of our surroundings.
 
-## Current Interests and Projects:
+||## Current Interests and Projects:
 
-- Praxis Program
+||- Praxis Program
