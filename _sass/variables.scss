@@ -9,8 +9,8 @@
 $doc-font-size: 16;
 $doc-line-height: 30;
 $paragraph-indent: 0;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'Verdana', sans-serif;
+$heading-font: 'Avenir Next', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -18,9 +18,9 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : #f6e9e9 /*#fff*/;
 $body-color     : $bodycolor;
-$textcolor      : #333332;
+$textcolor      : #717173 /*#333332*/;
 $text-color     : $textcolor;
 $border-color   : $text-color;
 $basecolor 		  : #343434;
@@ -28,7 +28,7 @@ $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
-$accentcolor    : $black;
+$accentcolor    : #1e3928 /*$black*/;
 
 /* buttons */
 $primary			: $black;
