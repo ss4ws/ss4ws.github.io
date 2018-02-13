@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "About my research, computers and Digital-Humanities"
-excerpt: Where I break the ice by introducing myself.
+excerpt: Where I break more ice, talking about more things I care about.
 modified: 10/09/2017
 tags: [my research, computers, DH]
 comments: true
 category: blog
 ---
-
+`cross posted in the Scholars' Lab blog`
 In my inaugural post a few days ago, I introduced myself to the world in kind of an oblique way. Some people may wonder what I am studying or what my research interests are. This post is here to mend this omission. In large brush strokes, I will talk about my dissertation and then about some general research interests that connect me to digital humanities. Coincidentally, a brief mention of a computer prototype from the late 60’s, will echo for the Praxis folks our last meeting (Sept. 5, 2017) and the lesson on the history of computers.
 
 My current project focuses on three French contemporary authors who are using new technologies to create and disseminate their work, as well as connect with their audience. More specifically, I am looking at the ways in which new technologies expand the boundaries of literature to include practices often reserved to other artistic disciplines. I am also interested in the new online literary communities clustering around the websites of my corpus and in the margins of the print and prize-driven French literature.
