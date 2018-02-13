@@ -9,7 +9,7 @@ category: presentation
 ---
 
 <section data-markdown>
-#### Video Making Workshop
+#### Video Making Workshop with Spyridon Simotas
 </section>
 
 <section data-markdown>

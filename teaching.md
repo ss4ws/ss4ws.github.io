@@ -1,5 +1,4 @@
 ---
 layout: page-index
-title: Teaching
-excerpt: "Teaching Statement, Syllabi, Materials, etc."
+title: "Teaching Statement, Syllabi, Materials, etc."
 ---
