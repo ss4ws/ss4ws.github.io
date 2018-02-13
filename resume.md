@@ -1,11 +1,11 @@
 ---
 layout: resume
 ---
-### CURRENTLY
+## CURRENTLY
 - PhD candidate in the Department of French in University of Virginia
 - Praxis Fellow at the Scholars' Lab
 
-### EDUCATION
+## EDUCATION
 
 `2013 - (in progress)`  
 __University of Virginia__  
@@ -21,26 +21,26 @@ __University Paris 8__
 Maîtrise (MA1) Lettres Modernes   
 Dissertation: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
-### RESEARCH INTERESTS
+## RESEARCH INTERESTS
 20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
 
 Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
 
 Visual Studies.
 
-### PUBLICATIONS
+## PUBLICATIONS
 `2018`  
 __“Entrées par ordre alphabétique dans l’espace du dedans.”__ In Contemporary French & Francophone Studies: Sites (Forthcoming)
 
 `2003`  
 __“Pierre Michon et la question de la filiation.”__ In Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_, Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
 
-#### Fiction
+### Fiction
 `2009`  
 __“Past Life.”__ In 19 new steps, The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
 
-### CONFERENCES & TALKS
-#### Conferences
+## CONFERENCES & TALKS
+### Conferences
 `2017`  
 __“Désordre de Philippe de Jonckheere: Fracas visuel dans l’espace mémoire”__, annual 20th–21st Century French and Francophone Studies International Colloquium: Le sens et les sens, Bloomington, Indiana.
 
@@ -53,7 +53,7 @@ __“François Bon à haute voix dans les ronds points”__, annual graduate stu
 `2016`  
 __"E-portfolio's reliance on technology (digital literacy)”__, AAEEBL Southeast Regional Conference, Virginia Tech.
 
-#### Presentations & workshops
+### Presentations & workshops
 `2017`  
 __“Workshop on video making with a smartphone”__, Architecture School, University of Virginia.
 
@@ -67,8 +67,8 @@ __“Un siècle de bruits, du studio d’essai à Justin Bieber”__ Quartier Fr
 __“Teaching vocabulary in context”__, annual graduate students’ orientation week, University of Virginia.
 
 
-### TEACHING EXPERIENCE
-#### Full responsibility
+## TEACHING EXPERIENCE
+### Full responsibility
 `2013-2016`  
 __Teaching Assistant__, University of Virginia
 Representative courses: different sections of beginner and intermediate French.
@@ -80,7 +80,7 @@ __Instructor at the Summer Language Institute__, University of Virginia
 __Lecturer__, University of California, Santa Barbara
 Representative courses: different sections of beginner and intermediate French.
 
-#### Tutoring
+### Tutoring
 `2014-2016`  
 __French tutor__, Charlottesville, Virginia.  
 
@@ -91,8 +91,8 @@ __Undergraduate students' assistant__, Université Paris 8.
 __Modern Greek tutor__, Phonie-Graphie, Paris, France, .
 
 
-### HONORS AND AWARDS
-#### Fellowships   
+## HONORS AND AWARDS
+### Fellowships   
 `2017-2018`  
 __Praxis Program__, Scholars' Lab, University of Virginia.  
 
@@ -114,8 +114,7 @@ __Mellon Foundation Graduate Fellowship__: “Composing the Humanities in a Digi
 `2016-2018`  
 __Travel Grants__, Department of Frecnh, University of Virginia   
 
-### PROFESSIONAL DEVELOPMENT
-
+## PROFESSIONAL DEVELOPMENT
 `2017`  
 __Certificate in Fundamentals of Programming/Coding for Human(s|ists).__ Digital Humanities Summer Institute at the University of Victoria.
 
@@ -131,7 +130,7 @@ __Workshop on e-portfolios for program-level assessment in world languages, with
 `2014`  
 __Certificat de formation « Enseigner le Français des Affaires », sponsored by the French Embassy in Washington and the Paris Chamber of Commerce.__ University of Virginia.
 
-### OTHER PROFESSIONAL EXPERIENCE
+## OTHER PROFESSIONAL EXPERIENCE
 `2016–2017`
 __Makerspace Technologist__, Scholars’ Lab at the University of Virginia.
 
@@ -160,7 +159,7 @@ __Research Assistant__, FLLEP Grant, funded initiative for the implementation of
 `2013-2014`  
 __Co-organizer of the French Film Festival__, University of Virginia
 
-### REFERENCES
+## REFERENCES
 Available upon request.
 <!-- ### Footer -->
 
