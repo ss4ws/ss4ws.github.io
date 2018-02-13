@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World
-excerpt: Where I talk a little bit about me to break the ice.
+title: Hello World!
+excerpt: Where I break the ice by introducing myself.
 modified: 06/09/2017, 9:00:24
 tags: [intro, beginner, praxis]
 comments: true

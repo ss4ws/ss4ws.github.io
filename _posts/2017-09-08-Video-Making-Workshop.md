@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Video Making Workshop
-excerpt: How to make videos with a smart phone and simple editing software
+excerpt: Where I talk about video making with a smartphone.
 theme: solarized
 transition: convex
 tags: [presentation, architecture school, workshop, video, making]
