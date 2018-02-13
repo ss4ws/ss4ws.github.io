@@ -1,4 +1,4 @@
 ---
-layout: teaching-page-index
+layout: teaching-post-index
 title: "Teaching Statement, Syllabi, Materials, etc."
 ---

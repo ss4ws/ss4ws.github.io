@@ -2,14 +2,14 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
-
 - title: Resume
   url: /resume/
 
 - title: Teaching
   url: /teaching/
+
+- title: Presentations
+  url: /presentations/
 
 - title: Blog
   url: /blog/
