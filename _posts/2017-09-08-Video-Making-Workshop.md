@@ -2,18 +2,18 @@
 layout: slide
 title: Video Making Workshop
 excerpt: How to make videos with a smart phone and simple editing software
-theme: beige
+theme: solarized
 transition: convex
 tags: [presentation, architecture school, workshop, video, making]
 category: presentation
 ---
 
 <section data-markdown>
-# Video Making Workshop
+#### Video Making Workshop
 </section>
 
 <section data-markdown>
-# Who Am I & Why am I here
+#### Who Am I & Why am I here
 - PhD Candidate at the French Department
 - Praxis Fellow at the Scholars' Lab
 - Ex-copywriter and photographer
@@ -21,7 +21,7 @@ category: presentation
 </section>
 
 <section data-markdown>
-# What this workshop is about  
+#### What this workshop is about  
  **Video making**   
 1. Video taking (Friday, Sept. 8, 2017)   
 2. Video editing (Monday, Sept. 11, 2017)   
@@ -29,7 +29,7 @@ category: presentation
 </section>
 
 <section data-markdown>
-# A few examples  1   
+#### A few examples  1   
 - One Yr in 40seconds/Erik Solheim
 http://vimeo.com/2639782
 
@@ -44,7 +44,7 @@ http://vimeo.com/18370836
 </section>
 
 <section data-markdown>
-# More examples 2   
+#### More examples 2   
 - City-symphony movies by Wim Wenders, Terence Davies ("Of Time and the City"), Patrick Keiller ("London", "Robinson in Ruins" etc) etc.  
 - http://thelondoni.com/patrick-keillers-london-then-now/  
  - https://www.youtube.com/watch?v=2zgHBACzfkI  
@@ -53,7 +53,7 @@ http://vimeo.com/18370836
 </section>
 
 <section data-markdown>
-# Even more examples 3
+#### Even more examples 3
 - Some of my videos   
 - With footage from Fralin Museum   
  https://www.youtube.com/watch?v=WkI_P8KxjwY  
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=nr3GSHWTJxg
 </section>
 
 <section data-markdown>
-# What are we doing today (Friday, Sept. 8, 2017)  
+#### What are we doing today (Friday, Sept. 8, 2017)  
  1. 20-30 minutes hands-on activity (students are taking videos in/out/around the A School Building)     
   <small>- Before you start, check the storage on your phone!</small>
   <small>- At this point don't bother about video taking techniques. Think about the atmosphere of this place.</small>
@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=nr3GSHWTJxg
 </section>
 
 <section data-markdown>
-# Useful shooting tips (to address during the discussion)
+#### Useful shooting tips (to address during the discussion)
 - Portrait vs Landscape
 - Use of light   
  -- How to set manual exposure
@@ -89,14 +89,14 @@ https://www.youtube.com/watch?v=nr3GSHWTJxg
 </section>  
 
 <section data-markdown>
-# Looking forward to next time   
+#### Looking forward to next time   
 - Next time we are focusing on **video editing**.
 - Until then, enjoy your field trip and take a lot of footage!
 - Come back having uploaded your footage to your computer.
 </section>
 
 <section data-markdown>
-# Video editing (Monday, Sept. 11, 2017)
+#### Video editing (Monday, Sept. 11, 2017)
 1. Import footage to imovie
 2. Create a new project
 3. Drop media to timeline
