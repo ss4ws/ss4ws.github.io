@@ -7,7 +7,7 @@ tags: [intro, beginner, praxis]
 comments: true
 category: blog
 ---
-`cross posted in the Scholars' Lab blog`
+###### cross posted in the Scholars' Lab blog  
 My name is Spyros Simotas and I am a PhD candidate at the French Department at UVa. This year, I am also a Praxis fellow at the Scholars’ Lab. In this first blog post I would like to briefly introduce myself honoring [Brandon’s] ice-breakers.
 
 Brandon always comes to our meetings with an ice-breaker. Here are the three we have had so far:   
