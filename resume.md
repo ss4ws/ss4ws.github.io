@@ -35,12 +35,11 @@ __“Entrées par ordre alphabétique dans l’espace du dedans.”__ In Contemp
 `2003`  
 __“Pierre Michon et la question de la filiation.”__ In Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_, Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
 
-### Fiction
+## Fiction
 `2009`  
 __“Past Life.”__ In 19 new steps, The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
 
-## CONFERENCES & TALKS
-### Conferences
+## CONFERENCES
 `2017`  
 __“Désordre de Philippe de Jonckheere: Fracas visuel dans l’espace mémoire”__, annual 20th–21st Century French and Francophone Studies International Colloquium: Le sens et les sens, Bloomington, Indiana.
 
@@ -53,7 +52,7 @@ __“François Bon à haute voix dans les ronds points”__, annual graduate stu
 `2016`  
 __"E-portfolio's reliance on technology (digital literacy)”__, AAEEBL Southeast Regional Conference, Virginia Tech.
 
-### Presentations & workshops
+## PRESENTATIONS & WORKSHOPS
 `2017`  
 __“Workshop on video making with a smartphone”__, Architecture School, University of Virginia.
 
@@ -68,7 +67,6 @@ __“Teaching vocabulary in context”__, annual graduate students’ orientatio
 
 
 ## TEACHING EXPERIENCE
-### Full responsibility
 `2013-2016`  
 __Teaching Assistant__, University of Virginia
 Representative courses: different sections of beginner and intermediate French.
@@ -80,7 +78,6 @@ __Instructor at the Summer Language Institute__, University of Virginia
 __Lecturer__, University of California, Santa Barbara
 Representative courses: different sections of beginner and intermediate French.
 
-### Tutoring
 `2014-2016`  
 __French tutor__, Charlottesville, Virginia.  
 
@@ -91,8 +88,7 @@ __Undergraduate students' assistant__, Université Paris 8.
 __Modern Greek tutor__, Phonie-Graphie, Paris, France, .
 
 
-## HONORS AND AWARDS
-### Fellowships   
+## HONORS AND AWARDS   
 `2017-2018`  
 __Praxis Program__, Scholars' Lab, University of Virginia.  
 
