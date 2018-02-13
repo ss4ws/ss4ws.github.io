@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About my research, computers and Digital-Humanities"
+title: "About my research, computers and Digital Humanities"
 excerpt: Where I break more ice, talking about more things I care about.
 modified: 10/09/2017
 tags: [my research, computers, DH]
