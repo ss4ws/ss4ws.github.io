@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: a minuscule , in an ∞ text
+title: ss4ws
 locale: en_US
 logo: #logo.png # filename of a logo image that has been placed into your images directory
 
@@ -44,6 +44,18 @@ owner:
 # you may do so in _sass/variables.scss
 highlight-color: "#CD666A" #"#CC0000"
 lowlight-color:  "#6F7D72" #"#000"
+collections:
+   - Teaching:
+     output: true
+     permalink: /:collection/:path
+   - Projects:
+     output: true
+     permalink: /:collection/:path
+   - Haikus:
+     output: true
+     permalink: /:collection/:path
+
+
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
