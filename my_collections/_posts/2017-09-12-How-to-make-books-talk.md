@@ -21,9 +21,12 @@ The leap was enormous. Uzanne’s reverie, not only depicted books as a dying me
 >"You will surely agree with me that reading, as we practice it today, soon brings on great weariness; for not only does it require of the brain a sustained attention which consumes a large proportion of the cerebral phosphates, but it also forces our bodies into various fatiguing attitudes."
 
 >"Our eyes (…) have been too long abused, and I like to fancy that some one will soon discover the need there is that they should be relieved by laying a greater burden upon our ears.”
-What is in the book that can not live in another recorded medium? Ideas, scientific knowledge and scholarship, literary work, can all exist in an audible format. For Uzanne, phonography not only can afford the contents of the book, but this change of reception through another sensory organ, the ear instead of the eye, has clear benefits for the overall mental and physical health of the listener."
+
+What is in the book that can not live in another recorded medium? Ideas, scientific knowledge and scholarship, literary work, can all exist in an audible format. For Uzanne, phonography not only can afford the contents of the book, but this change of reception through another sensory organ, the ear instead of the eye, has clear benefits for the overall mental and physical health of the listener.
 
 >"Hearers will not regret the time when they were readers; with eyes unwearied, with countenances refreshed, their air of careless freedom will witness to the benefits of the contemplative life."
+
+![Phonographic Literature](/images/phonographic-lit.png) 
 
 >"At home, walking, sightseeing, these fortunate hearers will experience the ineffable delight of reconciling hygiene with instruction; of nourishing their minds while exercising their muscles for there will be pocket phono-operagraphs, for use during excursions among Alpine mountains or in the canyons of the Colorado.”
 
