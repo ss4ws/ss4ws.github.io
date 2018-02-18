@@ -1,15 +1,16 @@
 # Site navigation links
-- title: Home
-  url: /
 
-- title: Resume
-  url: /resume/
+ - title: Home
+   url: /
 
-- title: Teaching
-  url: /teaching/
+ - title: Resume
+   url: /resume/
 
-- title: Presentations
-  url: /presentations/
+ - title: Teaching
+   url: /teaching/
 
-- title: Blog
-  url: /blog/
+ - title: Presentations
+   url: /presentations/
+
+ - title: Blog
+   url: /blog/

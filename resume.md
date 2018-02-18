@@ -1,5 +1,7 @@
 ---
 layout: resume
+title: Curriculum Vitæ
+toc: true
 ---
 ## CURRENTLY
 - PhD candidate in the Department of French in University of Virginia

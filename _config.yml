@@ -45,13 +45,13 @@ owner:
 highlight-color: "#CD666A" #"#CC0000"
 lowlight-color:  "#6F7D72" #"#000"
 collections:
-   - Teaching:
+   Teaching:
      output: true
      permalink: /:collection/:path
-   - Projects:
+   Projects:
      output: true
      permalink: /:collection/:path
-   - Haikus:
+   Haikus:
      output: true
      permalink: /:collection/:path
 
@@ -74,6 +74,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-toc
 
 kramdown:
   auto_ids: true

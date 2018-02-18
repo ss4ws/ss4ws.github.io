@@ -5,3 +5,4 @@ gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-gist"
 gem "octopress"
+gem 'jekyll-toc'
