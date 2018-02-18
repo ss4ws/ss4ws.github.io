@@ -89,7 +89,7 @@ __French tutor__, Charlottesville, Virginia.
 __Undergraduate students' assistant__, Université Paris 8.
 
 `1996–2001`  
-__Modern Greek tutor__, Phonie-Graphie, Paris, France, .
+__Modern Greek tutor__, Phonie-Graphie, Paris, France.
 
 
 ## HONORS AND AWARDS   

@@ -12,7 +12,7 @@ This year, I am also a Praxis program fellow, working alongside five other gradu
 - Praxis Program
 
 ## To Do
-- [X] Fix build CSS invalid syntax
+- [X] Fix CSS invalid syntax
 - [ ] Add collections
 - [ ] Nav-bar animated logo
 - [ ] Fix links on posts
