@@ -3,9 +3,9 @@ layout: resume
 title: Curriculum Vitæ
 toc: true
 ---
-## CURRENTLY
+<!-- ## CURRENTLY
 - PhD candidate in the Department of French in University of Virginia
-- Praxis Fellow at the Scholars' Lab
+- Praxis Fellow at the Scholars' Lab -->
 
 ## EDUCATION
 
