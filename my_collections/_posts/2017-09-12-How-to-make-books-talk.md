@@ -5,6 +5,7 @@ excerpt: A journey where books are no longer written, nor pressed into rectangul
 modified: 12/09/2017, 9:00:24
 tags: [books, audiobooks, flânerie, tutorial]
 comments: true
+toc: true 
 category: blog
 ---
 ###### cross posted in the Scholars' Lab blog  
@@ -26,7 +27,7 @@ What is in the book that can not live in another recorded medium? Ideas, scienti
 
 >"Hearers will not regret the time when they were readers; with eyes unwearied, with countenances refreshed, their air of careless freedom will witness to the benefits of the contemplative life."
 
-![Phonographic Literature](/images/phonographic-lit.png) 
+![Phonographic Literature](/images/phonographic-lit.png)
 
 >"At home, walking, sightseeing, these fortunate hearers will experience the ineffable delight of reconciling hygiene with instruction; of nourishing their minds while exercising their muscles for there will be pocket phono-operagraphs, for use during excursions among Alpine mountains or in the canyons of the Colorado.”
 
