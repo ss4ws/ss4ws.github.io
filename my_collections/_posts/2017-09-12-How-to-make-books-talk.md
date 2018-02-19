@@ -5,7 +5,7 @@ excerpt: A journey where books are no longer written, nor pressed into rectangul
 modified: 12/09/2017, 9:00:24
 tags: [books, audiobooks, flânerie, tutorial]
 comments: true
-toc: true 
+toc: true
 category: blog
 ---
 ###### cross posted in the Scholars' Lab blog  
