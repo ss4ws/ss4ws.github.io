@@ -33,13 +33,7 @@ category: presentation
          data-separator-vertical="^\n\n"  
          data-separator-notes="^Note:">  
 
-## Contact info
-Christian Howard
-
- 
+ ## Contact info
+Christian Howard  
 Spyros Simotas          
-</section>
-
-<section data-markdown>
-
 </section>
