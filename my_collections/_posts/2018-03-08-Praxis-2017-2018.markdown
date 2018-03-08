@@ -44,11 +44,12 @@ category: presentation
           data-separator="^\n\n\n"  
           data-separator-vertical="^\n\n"  
           data-separator-notes="^Note:">
-## Contact info:
+## Contact info
 Christian Howard  
 ch4zs@virginia.edu
 
 
+## Contact info
 Spyros Simotas  
 ss4ws@virginia.edu       
 </section>
