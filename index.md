@@ -13,7 +13,7 @@ This year, I am also a Praxis program fellow, working alongside five other gradu
 
 ## To Do
 - [X] Fix CSS invalid syntax
-- [ ] Add collections
+- [X] Add collections
 - [ ] Add TOC to pages
-- [ ] Nav-bar animated logo
+- [X] Nav-bar animated logo
 - [ ] Fix links on posts

@@ -2,11 +2,14 @@
 	<div class="site-name">
 		{% if site.logo %}
 		<a href="{{ site.url }}/">
+			<!-- uncomment this if you want the animation -->
 			<!-- <img src="{{ site.url }}/images/{{ site.logo }} "> -->
         <h2 id="logo" style="display: inline-block;" class="b">ss4ws</h2>
 		</a>
 		{% else %}
 		<a href="{{ site.url }}/">{{ site.title }}</a>
+		<!-- uncomment this if you want the animation -->
+		<!-- <a href="{{ site.url }}/"><h4 id="logo">ss4ws</h4></a> -->
 		{% endif %}
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
@@ -24,163 +27,3 @@
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
-
-<script>
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-// ——————————————————————————————————————————————————
-// TextScramble
-// ——————————————————————————————————————————————————
-
-var TextScramble = function () {
-  function TextScramble(el) {
-    _classCallCheck(this, TextScramble);
-
-    this.el = el;
-    this.chars = '!<>-_\\/[]{}—=+*^?#________';
-    this.update = this.update.bind(this);
-  }
-
-  _createClass(TextScramble, [{
-    key: 'setText',
-    value: function setText(newText) {
-      var _this = this;
-
-      var oldText = this.el.innerText;
-      var length = Math.max(oldText.length, newText.length);
-      var promise = new Promise(function (resolve) {
-        return _this.resolve = resolve;
-      });
-      this.queue = [];
-      for (var i = 0; i < length; i++) {
-        var from = oldText[i] || '';
-        var to = newText[i] || '';
-        var start = Math.floor(Math.random() * 40);
-        var end = start + Math.floor(Math.random() * 40);
-        this.queue.push({ from: from, to: to, start: start, end: end });
-      }
-      cancelAnimationFrame(this.frameRequest);
-      this.frame = 0;
-      this.update();
-      return promise;
-    }
-  }, {
-    key: 'update',
-    value: function update() {
-      var output = '';
-      var complete = 0;
-      for (var i = 0, n = this.queue.length; i < n; i++) {
-        var _queue$i = this.queue[i],
-            from = _queue$i.from,
-            to = _queue$i.to,
-            start = _queue$i.start,
-            end = _queue$i.end,
-            char = _queue$i.char;
-
-        if (this.frame >= end) {
-          complete++;
-          output += to;
-        } else if (this.frame >= start) {
-          if (!char || Math.random() < 0.28) {
-            char = this.randomChar();
-            this.queue[i].char = char;
-          }
-          output += '<span class="dud">' + char + '</span>';
-        } else {
-          output += from;
-        }
-      }
-      this.el.innerHTML = output;
-      if (complete === this.queue.length) {
-        this.resolve();
-      } else {
-        this.frameRequest = requestAnimationFrame(this.update);
-        this.frame++;
-      }
-    }
-  }, {
-    key: 'randomChar',
-    value: function randomChar() {
-      return this.chars[Math.floor(Math.random() * this.chars.length)];
-    }
-  }]);
-
-  return TextScramble;
-}();
-
-// ——————————————————————————————————————————————————
-// Example
-// ——————————————————————————————————————————————————
-
-var logo = ['👋 Spyridon Simotas', '✍️ PhD Candidate in French', '💻 Praxis Fellow', '🏫 University of Virginia'];
-
-var el = document.querySelector('.text');
-var fx = new TextScramble(el);
-
-var counter = 0;
-var next = function next() {
-  fx.setText(phrases[counter]).then(function () {
-    setTimeout(next, 800);
-  });
-  counter = (counter + 1) % phrases.length;
-};
-
-next();
-</script>
-
-<!-- <script>
-	(function() {
-		function a() {
-			var b = baffle('#logo').start().set({
-				characters: '░█▓ ▓▒░<>/',
-				speed: 60
-			}).text(function (currentText) {
-				{%if page.url contains "category"%}
-				return "ss4ws | Home";
-				{%elsif page.id != "index"%}
-				return "ss4ws | {{page.canonical}}";
-				{%else%}
-				return "ss4ws";
-				{%endif%}
-			});
-			setTimeout(function () {
-				b.reveal(500);
-			}, 500);
-		}
-		function b() {
-			var b = baffle('#logo').start().set({
-				characters: '░█▓ ▓▒░<>/',
-				speed: 60
-			}).text(function (currentText) {
-				return "ss4ws";
-			});
-			setTimeout(function () {
-				b.reveal(500);
-			}, 500);
-		}
-		function c() {
-			var b = baffle('#logo').start().set({
-				characters: '░█▓ ▓▒░<>/',
-				speed: 60
-			}).text(function (currentText) {
-				{%if page.id == "index"%}
-				return "Spyridon Simotas";
-				{%else%}
-				return "Back Home";
-				{%endif%}
-			});
-			setTimeout(function () {
-				b.reveal(500);
-			}, 500);
-		}
-		{%if page.id == "index"%}
-		window.onload=function(){b();};
-		{%else%}
-		window.onload=function(){a();};
-		{%endif%}
-		document.getElementById('logo').onmouseover=function(){c();};
-		document.getElementById('logo').onmouseleave=function(){a();};
-	})();
-	</script> -->

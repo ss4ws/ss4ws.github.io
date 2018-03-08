@@ -1,0 +1,45 @@
+---
+layout: "slide"
+title: "Praxis 2017-2018"
+date: "2018-03-08 13:38"
+excerpt: Presentation of the program at the Regional DH Symposium
+theme: solarized
+transition: convex
+tags: [Praxis, Scholars' lab, Regional DH Symposium]
+category: presentation
+---
+
+<section data-markdown>
+ ## Praxis 2017-2018
+</section>
+
+<section data-markdown>
+ ## What does it mean to be a Praxis fellow?
+ - Time –year off teaching.
+ - Access to resources –software, hardware, SLab staff attention.
+ - Experiment, learn by making, ask questions.
+ - Scholars' Lab expertise, custom made crash courses and workshops.
+ - Collaboration.  
+</section>
+
+<section data-markdown>
+ ![Image of the logo](/images/reveal-logo-in-browser.png)
+ Logo embedded on a mock-up website.  
+</section>
+
+
+<section data-markdown  
+         data-separator="^\n\n\n"  
+         data-separator-vertical="^\n\n"  
+         data-separator-notes="^Note:">  
+
+## Contact info
+Christian Howard
+
+ 
+Spyros Simotas          
+</section>
+
+<section data-markdown>
+
+</section>

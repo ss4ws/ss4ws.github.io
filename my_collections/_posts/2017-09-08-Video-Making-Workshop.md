@@ -30,25 +30,18 @@ category: presentation
 
 <section data-markdown>
 #### A few examples  1   
-- One Yr in 40seconds/Erik Solheim
-http://vimeo.com/2639782
-
-- One year in 120 seconds/Erik Solheim
-http://vimeo.com/8540978
-
-- Prague in winter
-http://vimeo.com/8324034
-
-- Dutch Winter/Ice Dance
-http://vimeo.com/18370836
+- One Year in 40seconds by Erik Solheim: https://vimeo.com/2639782
+- One year in 120 seconds/Erik Solheim: http://vimeo.com/8540978  
+- Prague in winter: http://vimeo.com/8324034
+- Dutch Winter/Ice Dance: http://vimeo.com/18370836
 </section>
 
 <section data-markdown>
 #### More examples 2   
 - City-symphony movies by Wim Wenders, Terence Davies ("Of Time and the City"), Patrick Keiller ("London", "Robinson in Ruins" etc) etc.  
 - http://thelondoni.com/patrick-keillers-london-then-now/  
- - https://www.youtube.com/watch?v=2zgHBACzfkI  
- - https://www.bing.com/videos/search?q=keiller+london&view=detail&mid=EA8CE1A77CE395853CCDEA8CE1A77CE395853CCD&FORM=VIRE  
+- https://www.youtube.com/watch?v=2zgHBACzfkI  
+- https://www.bing.com/videos/search?q=keiller+london&view=detail&mid=EA8CE1A77CE395853CCDEA8CE1A77CE395853CCD&FORM=VIRE  
  - https://www.bing.com/videos/search?q=keiller+london&view=detail&mid=B1872D584365456275EAB1872D584365456275EA&FORM=VIRE  
 </section>
 
@@ -56,11 +49,11 @@ http://vimeo.com/18370836
 #### Even more examples 3
 - Some of my videos   
 - With footage from Fralin Museum   
- https://www.youtube.com/watch?v=WkI_P8KxjwY  
+ <video src=""></video>https://www.youtube.com/watch?v=WkI_P8KxjwY  
 -  With footage from Fralin Museum  
-https://www.youtube.com/watch?v=nr3GSHWTJxg  
+<video src=""></video>https://www.youtube.com/watch?v=nr3GSHWTJxg  
 - Department of Nothingness (a tour)   
- https://www.youtube.com/watch?v=_ELTPprAK7c
+ <video src=""></video>https://www.youtube.com/watch?v=_ELTPprAK7c
 </section>
 
 <section data-markdown>
