@@ -13,13 +13,24 @@ category: presentation
  ## Praxis 2017-2018
 </section>
 
-<section data-markdown>
+<section data-markdown
+                      data-separator="^\n\n\n"  
+                      data-separator-vertical="^\n\n">
  ## What does it mean to be a Praxis fellow?
  - Time –year off teaching.
  - Access to resources –software, hardware, SLab staff attention.
  - Experiment, learn by making, ask questions.
  - Scholars' Lab expertise, custom made crash courses and workshops.
  - Collaboration.  
+
+<section>
+## Discussion questions
+- What does it mean to collaborate in a DH project?
+- How do _you_ collaborate?
+- What are the expectations from a collaborative project?
+- What are the criteria of building a team (i.e. SLab building a Praxis fellows team)? Who gets in? Why?
+</section>
+
 </section>
 
 <section data-markdown>
@@ -28,12 +39,16 @@ category: presentation
 </section>
 
 
-<section data-markdown  
-         data-separator="^\n\n\n"  
-         data-separator-vertical="^\n\n"  
-         data-separator-notes="^Note:">  
 
- ## Contact info
+<section data-markdown
+          data-separator="^\n\n\n"  
+          data-separator-vertical="^\n\n"  
+          data-separator-notes="^Note:">
+## Contact info:
 Christian Howard  
-Spyros Simotas          
+ch4zs@virginia.edu
+
+
+Spyros Simotas  
+ss4ws@virginia.edu       
 </section>
