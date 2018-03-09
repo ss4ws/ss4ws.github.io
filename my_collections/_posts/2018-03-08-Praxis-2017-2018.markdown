@@ -9,21 +9,60 @@ tags: [Praxis, Scholars' lab, Regional DH Symposium]
 category: presentation
 ---
 
-<section data-markdown>
- ## Praxis 2017-2018
+<div class="slides">
+                <section data-markdown>
+                    <script type="text/template">
+## Praxis 2017-2018
+ </script>
 </section>
+</div>
+
+<div class="slides">
+                <section data-markdown>
+                    <script type="text/template">
+### Who we are
+|Monica Blair|Ankita Chakrabarti|Victoria Clark|Tanner Greene|Christian Howard|Spyros Simotas|
+|--|--|--|--|--|--|
+|History   |English   |Music   |Music   |English   |French   |
+|![Monica](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)|![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg) |![Torrie](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)|![]()|![Christian](http://scholarslab.org/wp-content/uploads/2017/02/20170829-_DSC0281.jpg)|![Spyros](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg)
+                    </script>
+                </section>
+            </div>
+
+<section data-markdown
+            data-separator="^\n\n\n"  
+            data-separator-vertical="^\n\n">
+## The Praxis program
+- What
+- Why
+- When
+- Who
+
+
+## Our project this year
+![Image of the logo](/images/reveal-logo-in-browser.png)
+Logo embedded on a mock-up website.
+
+</section>
+
+<section data-markdown>
+##Structure of the Program
+- Learning technology
+- Learning collaboration
+</section>
+
 
 <section data-markdown
                       data-separator="^\n\n\n"  
                       data-separator-vertical="^\n\n">
- ## What does it mean to be a Praxis fellow?
- - Time –year off teaching.
- - Access to resources –software, hardware, SLab staff attention.
- - Experiment, learn by making, ask questions.
- - Scholars' Lab expertise, custom made crash courses and workshops.
- - Collaboration.  
+## What does it mean to be a Praxis fellow?
+ - Time (year off teaching)
+ - Access to resources (software, hardware, SLab staff attention)
+ - Cultivate curiosity, experiment, learn by making
+ - Scholars' Lab expertise: custom made crash courses and workshops
+ - Collaboration  
 
-<section>
+
 ## Discussion questions
 - What does it mean to collaborate in a DH project?
 - How do _you_ collaborate?
@@ -31,25 +70,14 @@ category: presentation
 - What are the criteria of building a team (i.e. SLab building a Praxis fellows team)? Who gets in? Why?
 </section>
 
-</section>
 
-<section data-markdown>
- ![Image of the logo](/images/reveal-logo-in-browser.png)
- Logo embedded on a mock-up website.  
-</section>
-
-
-
-<section data-markdown
-          data-separator="^\n\n\n"  
-          data-separator-vertical="^\n\n"  
-          data-separator-notes="^Note:">
-## Contact info
-Christian Howard  
-ch4zs@virginia.edu
-
-
-## Contact info
-Spyros Simotas  
-ss4ws@virginia.edu       
-</section>
+<div class="slides">
+                <section data-markdown>
+                    <script type="text/template">
+### Contact info
+|Christian Howard|Spyros Simotas|
+|--|--|
+|ch4zs@virginia.edu   |ss4ws@virginia.edu   |
+                    </script>
+                </section>
+            </div>
