@@ -39,10 +39,10 @@ category: presentation
 - Who
 
 
-## Our project this year
-![Image of the logo](/images/reveal-logo-in-browser.png)
-Logo embedded on a mock-up website.
-
+|Our project this year|
+|--|
+|Logo embedded on a mock-up website|
+|![Image of the logo](/images/reveal-logo-in-browser.png)<!-- .element height="50%" width="50%" -->|
 </section>
 
 <section data-markdown>
@@ -50,8 +50,6 @@ Logo embedded on a mock-up website.
 - Learning technology
 - Learning collaboration
 </section>
-
-
 <section data-markdown
                       data-separator="^\n\n\n"  
                       data-separator-vertical="^\n\n">
