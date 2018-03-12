@@ -31,14 +31,14 @@ _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon
 
 ## PUBLICATIONS
 `2018`
-__“Entrées par ordre alphabétique dans l’espace du dedans.”__ In Contemporary French & Francophone Studies: Sites (Forthcoming)
+ __“Entrées par ordre alphabétique dans l’espace du dedans.”__, [_Contemporary French and Francophone Studies_](https://tandfonline.com/toc/gsit20/21/4?nav=tocList), 21:4, 414-420, DOI: 10.1080/17409292.2017.1432336
 
 `2003`
-__“Pierre Michon et la question de la filiation.”__ In Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_, Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
+__“Pierre Michon et la question de la filiation.”__, [_Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_](https://www.peterlang.com/view/product/9301), Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
 
 ## Fiction
 `2009`
-__“Past Life.”__ In 19 new steps, The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
+__“Past Life.”__, [_19 new steps_](http://www.biblionet.gr/book/144036/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C_%CE%AD%CF%81%CE%B3%CE%BF/19_%CE%BD%CE%AD%CE%B1_%CE%B2%CE%AE%CE%BC%CE%B1%CF%84%CE%B1), The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
 
 ## CONFERENCES
 `2018`
@@ -168,4 +168,4 @@ __Co-organizer of the French Film Festival__, University of Virginia
 Available upon request.
 <!-- ### Footer -->
 
-###### Last updated: February 2018
+###### Last updated: March 2018
