@@ -1,11 +1,20 @@
 ---
 layout: resume
 title: Curriculum Vitæ
-toc: true
+toc: false
 ---
-<!-- ## CURRENTLY
+
+<!--
+## CURRENTLY
 - PhD candidate in the Department of French in University of Virginia
-- Praxis Fellow at the Scholars' Lab -->
+- Praxis Fellow at the Scholars' Lab
+-->
+
+<!--
+Use this snippet code to add a link to download CV in pdf.
+[Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})
+-->
+
 
 ## EDUCATION
 
@@ -88,7 +97,7 @@ __French tutor__, Charlottesville, Virginia.
 `2001–2002`
 __Undergraduate students' assistant__, Université Paris 8.
 
-`1996–2001`  
+`1996–2001`
 __Modern Greek tutor__, Phonie-Graphie, Paris, France.
 
 
