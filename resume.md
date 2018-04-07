@@ -107,9 +107,8 @@ __Modern Greek tutor__, Phonie-Graphie, Paris, France.
 __All-University Graduate Teaching Award__, University of Virginia
 
 `2018`
-__Huskey Graduate Research Exhibition__
-Poster Presentation 1rst place for
-Praxis group AR project: UVA Reveal, Augmenting the University
+__Huskey Graduate Research Exhibition__, University of Virginia
+1rst place for Praxis Digital Humanities project: UVA Reveal, Augmenting the University
 
 `2017-2018`
 __Praxis Program__, Scholars' Lab, University of Virginia.  
