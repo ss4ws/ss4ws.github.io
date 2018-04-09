@@ -75,7 +75,7 @@ __“Designing e-portfolio Assignments”__, Institute of World Languages Facult
 `2016`
 __“Un siècle de bruits, du studio d’essai à Justin Bieber”__ Quartier Français à la Maison Française, University of Virginia.
 
-`2014-2017`  
+`2014-2017`
 __“Teaching vocabulary in context”__, annual graduate students’ orientation week, University of Virginia.
 
 
