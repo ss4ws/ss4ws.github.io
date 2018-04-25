@@ -36,7 +36,7 @@
 {% assign p5_version = '0.6.0' %}
 {% if page.p5 %}
   {% for lib in page.p5 %}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js{{ p5_version }}/{{ lib }}.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/{{ p5_version }}/{{ lib }}.min.js"></script>
   {% endfor %}
 {% endif %}
 
