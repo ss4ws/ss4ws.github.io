@@ -26,21 +26,14 @@
 
    <div class="resume">
       {{ content }}
-</div><!--closing resume div-->
-    <!--  {% if page.share != false %}
-        <hr />
-
-      {% endif %}-->
-
-   <!-- {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  {% endif %}
+</div>
   </article>
 </div><!-- /#index -->
 
 <div class="footer-wrap">
-  <footer>
   <!--  {% include _footer.html %}-->
+  <footer role="contentinfo">
+    <small class="byline"><strong>{{ page.title }}</strong> {% if page.modified %} was last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
   </footer>
 </div><!-- /.footer-wrap -->
 

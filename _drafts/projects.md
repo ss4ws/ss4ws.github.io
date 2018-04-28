@@ -1,6 +1,7 @@
 ---
 layout: page
-title: art installation projects
+title:
+excerpt: This is an on-going catalog of ideas for projects.  
 ---
 
 This is a series of ideas for art installation projects.

@@ -1,7 +1,9 @@
 ---
 layout: resume
 title: Curriculum Vitæ
-toc: false
+date: 2018-02-05
+modified: 2018-04-28
+toc: true
 ---
 
 <!--
@@ -183,6 +185,3 @@ __Co-organizer of the French Film Festival__, University of Virginia
 
 ## REFERENCES
 Available upon request.
-<!-- ### Footer -->
-
-###### Last updated: April 2018

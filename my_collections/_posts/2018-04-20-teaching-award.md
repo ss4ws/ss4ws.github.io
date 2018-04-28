@@ -2,8 +2,7 @@
 layout: post
 title: Teaching Award
 excerpt: Receiving All-University Graduate Students Teaching Award by Beth Beal
-date: 2018-04-20 00:43
-modified:
+modified: 2018-04-20 00:43
 tags: [teaching, award]
 comments: true
 category: blog

@@ -2,13 +2,13 @@
 
 title: ss4ws / 📚 💻 🤔
 locale: en_US
-logo: #logo.png # filename of a logo image that has been placed into your images directory
+logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Spyridon Simotas
   avatar: bio-photo.jpg
-  bio: "PhD Student in French at UVa, Praxis Fellow at the Scholars' Lab."
+  bio: "PhD Candidate, Praxis Fellow at the Scholars' Lab."
   email: ss4ws@virginia.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: ss4ws #username
