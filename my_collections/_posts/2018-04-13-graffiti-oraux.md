@@ -9,8 +9,6 @@ comments: true
 category: blog
 ---
 
-[SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/)
-
 Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
 
 Malgré son ambition de détourner en « chambre d’enregistrement », la fonction de 80 ronds-points, destinés à la régulation du flux de la circulation, le projet ne compte aujourd’hui que 35. Projet toujours en cours, ou définitivement incomplet, cela ne nous empêche pas de réfléchir sur les éléments qui le composent et surtout les deux actions menées sur place : les performances orales, et l’enterrement des livres.
@@ -48,7 +46,7 @@ Alors que pour les arts plastiques l’espace concret de la ville fait déjà l�
 
 Il me semble que le projet des ronds-points souscrit à cet visée noble. Il éclate la parole écrite, et pulvérise la notion de la bibliothèque en l’étalant dans la ville. Or, sortir du livre, et par conséquent de sa modalité de lecture silencieuse la parole risque de se perdre dans le vent. Ce qui n’est pas du tout métaphorique dans des conditions de lecture en plein air :
 
-> « J’ai lu dans le vent : mais un vent favorable, à preuve ce chauffeur de camion qui la ponctue d’un grand coup de klaxon. » (Rond-point 29)[SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/7)
+> « J’ai lu dans le vent : mais un vent favorable, à preuve ce chauffeur de camion qui la ponctue d’un grand coup de klaxon. » (Rond-point 29) [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/7)
 
 Dans ces conditions donc, comment se faire entendre ? Pendant longtemps le silence et l’immobilité du corps, son enfermement même dans des espaces conçus pour la lecture : la bibliothèque, l’étude, le chambre, le salon bourgeois, etc. ont fait de l’activité littéraire une activité purement cérébrale. [SLIDE] Et pourtant ce qui nous touche dans des images comme ce tableaux d’Henri Fantin-Latour [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/8) ce sont précisément les corps, leur état méditatif, presque transcendés par la présence d’un livre ouvert. et les mains qui le tiennent, les bouts des doigts sur la page qui tourne. On ne rêve pas des contenus des livres quand on regarde ces images, mais de l’activité même de la lecture.  ou encore mieux de cette transcendance. La paix intérieure qui l’accompagne, les objets qui l’entourent, (cahier de notes, avec manuscrit entamé, stylo plume, et tasse de café… ). Instagram est inondé de ces images nostalgiques, qui représentent un paysage idéalisé de la littérature, mais qui risquent, en même temps, de paraître ringardes et réactionnaires. Car notre contemporain comme l’a bien montré Lionel Ruffel c’est une « littérature-brouhaha ».
 
