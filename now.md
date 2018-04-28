@@ -4,7 +4,6 @@ title: Currently
 excerpt: "An incomplete to-do list."
 ---
 
-
 - [ ] Write like your house is on fire
 - [ ] Add TOC to pages and posts?
 - [ ] Fix links on posts

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teaching Award
+excerpt: Receiving All-University Graduate Students Teaching Award by Beth Beal
+date: 2018-04-20 00:43
+modified:
+tags: [teaching, award]
+comments: true
+category: blog
+---
+
+<figure>
+  <img src="/images/2018/04/simotas_GTA_award.jpg">
+  <figcaption>Photo by Melody Robbins</figcaption>
+</figure>
+
+Today, I had the honor to receive an All-University Graduate Students Teaching Award.
+
+A very special thanks to the committee for selecting me.
+
+This wouldn't have been possible without Professor Karen James (Director of the Language Program) and Professor Amy Ogden (Director of Graduate Studies) who nominated me and supported my nomination.
+
+I would also like to express my gratitude and appreciation to all the Faculty and students of the French department for being a constant inspiration. Learning and teaching in such a collegiate community is certainly a privilege for me.

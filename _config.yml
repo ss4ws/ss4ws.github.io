@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: ss4ws / 📚 💻 🤔 
+title: ss4ws / 📚 💻 🤔
 locale: en_US
 logo: #logo.png # filename of a logo image that has been placed into your images directory
 
@@ -33,7 +33,7 @@ owner:
   #foursquare: #username
   #steam: #username
   #dribbble: #username
-  youtube: #username
+  # youtube: #username
   #soundcloud: #username
  # weibo: #username
   #flickr: #username

@@ -10,4 +10,4 @@ category: teaching
 
 This is a mock-up syllabus made during the Institute of French and Cultural Studies at Dartmouth in the Summer of 2017 in collaboration with Andrea Lloyd, Timothy Messen, and Kathryn Chaffee.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQpDH6C_uGwPJvAMzr0jwNDnGB6AltPknESzaw5W3v0jPRx8e6uyMOVVFuIOzlBPBtE3xx46FSal8n9/pub?embedded=true" width="1000" height="1600"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQpDH6C_uGwPJvAMzr0jwNDnGB6AltPknESzaw5W3v0jPRx8e6uyMOVVFuIOzlBPBtE3xx46FSal8n9/pub?embedded=true" width="800" height="1600"></iframe>
