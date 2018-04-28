@@ -10,6 +10,3 @@ This year, I am also a Praxis program fellow, working alongside five other gradu
 
 ### It is currently
 {{ "now" | date: "%A, %B %d, %Y, %H:%M" }}
-
-
-<!-- <iframe src="http://free.timeanddate.com/clock/i67tdfqx/n3601/fn13/fc717073/tct/pct/blc717073/brc717073/btc717073/bbc717073/tt0/tw1/tm1/ts1" frameborder="0" width="237" height="20" allowTransparency="true"></iframe> -->
