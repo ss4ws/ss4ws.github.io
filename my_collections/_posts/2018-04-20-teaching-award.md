@@ -16,8 +16,10 @@ category: blog
 
 Today, I had the honor to receive an All-University Graduate Students Teaching Award.
 
-A very special thanks to the committee for selecting me.
+The ceremony took place at the Pavilion VII (Colonnade Club) where I was in good company with Professors Gary Ferguson, (current chair of the French Department), Amy Ogden, Karen James, and Alison Levine.
 
-This wouldn't have been possible without Professor Karen James (Director of the Language Program) and Professor Amy Ogden (Director of Graduate Studies) who nominated me and supported my nomination.
+This award wouldn't have been possible without Karen James (Director of the Language Program) and Amy Ogden (Director of Graduate Studies) nomination and support.
 
-I would also like to express my gratitude and appreciation to all the Faculty and students of the French department for being a constant inspiration. Learning and teaching in such a collegiate community is certainly a privilege for me.
+A very special thanks to them and to the committee for selecting me.
+
+My infinite gratitude and appreciation goes out to all those in the French Department at UVa (Faculty and students) who are being a constant inspiration for me. I feel privileged to be part of such a collegiate learning and teaching community.
