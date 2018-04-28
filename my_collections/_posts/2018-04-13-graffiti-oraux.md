@@ -9,7 +9,7 @@ comments: true
 category: blog
 ---
 
-Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
+Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. ![SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
 
 Malgré son ambition de détourner en « chambre d’enregistrement », la fonction de 80 ronds-points, destinés à la régulation du flux de la circulation, le projet ne compte aujourd’hui que 35. Projet toujours en cours, ou définitivement incomplet, cela ne nous empêche pas de réfléchir sur les éléments qui le composent et surtout les deux actions menées sur place : les performances orales, et l’enterrement des livres.
 
