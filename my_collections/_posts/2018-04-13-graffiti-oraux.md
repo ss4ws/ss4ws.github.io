@@ -9,7 +9,6 @@ comments: true
 category: blog
 ---
 
-## Les graffiti oraux de François Bon.
 [Slide](https://ss4ws.github.io/my_collections/presentation/Brown/#/)
 
 Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
