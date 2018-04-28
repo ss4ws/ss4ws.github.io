@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les graffiti oraux de François Bon
-excerpt: Ceci est le texte de mon intervention orale au colloque annuel 20th/21st French And Francophone Studies.
+excerpt: Ceci est le texte de mon intervention orale au colloque annuel 20th/21st French And Francophone Studies qui cette année a eu lieu à Brown, Providence, RI.
 date: 2018-04-13 14:45
 modified:
 tags: [François Bon, ronds-points, performance, video]
