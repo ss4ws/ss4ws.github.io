@@ -8,90 +8,98 @@ tags: [presentation, architecture school, workshop, video, making]
 category: presentation
 ---
 
-<section data-markdown>
-#### Video Making Workshop with Spyridon Simotas
+<section>
+<h2>Video Making Workshop</h2>
+<h4>with Spyridon Simotas</h4>
 </section>
 
-<section data-markdown>
-#### Who Am I & Why am I here
-- PhD Candidate at the French Department
-- Praxis Fellow at the Scholars' Lab
-- Ex-copywriter and photographer
-- Amateur video maker
+<section>
+<h3>Who Am I & Why am I here</h3>
+<ul>
+ <li>PhD Candidate at the French Department</li>
+ <li>Praxis Fellow at the Scholars' Lab</li>
+ <li>Ex-copywriter and photographer</li>
+ <li>Amateur video maker</li>
+</ul>
 </section>
 
-<section data-markdown>
-#### What this workshop is about  
- **Video making**   
-1. Video taking (Friday, Sept. 8, 2017)   
-2. Video editing (Monday, Sept. 11, 2017)   
-3. Assistance and tips (Friday, Sept. 15, 2017)
+<section>
+<h3>What this workshop is about</h3>  
+ <p><strong>Filming and editing videos</strong></p>   
+<ol>
+<li>Video Filming (Friday, Sept. 8, 2017)</li>   
+<li>Video Editing (Monday, Sept. 11, 2017)</li>   
+<li>Assistance and tips (Friday, Sept. 15, 2017)</li>
+</ol>
 </section>
 
-<section data-markdown>
-#### A few examples  1   
-- One Year in 40seconds by Erik Solheim: https://vimeo.com/2639782
-- One year in 120 seconds/Erik Solheim: http://vimeo.com/8540978  
-- Prague in winter: http://vimeo.com/8324034
-- Dutch Winter/Ice Dance: http://vimeo.com/18370836
+<section>
+<h3>A few examples</h3>   
+<ul>
+ <li><a href="https://vimeo.com/2639782" target="blank">One Year in 40seconds by Erik Solheim</a></li>
+ <li><a href="http://vimeo.com/8540978" target="blank">One year in 120 seconds/Erik Solheim</a></li>   
+ <li><a href="http://vimeo.com/8324034" target="blank">Prague in winter</a></li>
+ <li><a href="http://vimeo.com/18370836" target="blank">Dutch Winter/Ice Dance</a></li>
+ <li><a href="http://thelondoni.com/patrick-keillers-london-then-now/" target="blank">London Then And Now</a></li>
+ <li><a href="https://www.youtube.com/watch?v=2zgHBACzfkI" target="blank">Excerpt from the film London</a></li>
+ <li><a href="https://www.youtube.com/watch?v=_DJjpJ6Qif4" target="blank">Robinson In Space</a></li>
+ <li><a href="https://www.youtube.com/watch?v=W6m3QZW_VRA" target="blank">Patrick Keiller | TateShots</a></li>
+</ul>
 </section>
 
-<section data-markdown>
-#### More examples 2   
-- City-symphony movies by Wim Wenders, Terence Davies ("Of Time and the City"), Patrick Keiller ("London", "Robinson in Ruins" etc) etc.  
-- http://thelondoni.com/patrick-keillers-london-then-now/  
-- https://www.youtube.com/watch?v=2zgHBACzfkI  
-- https://www.bing.com/videos/search?q=keiller+london&view=detail&mid=EA8CE1A77CE395853CCDEA8CE1A77CE395853CCD&FORM=VIRE  
- - https://www.bing.com/videos/search?q=keiller+london&view=detail&mid=B1872D584365456275EAB1872D584365456275EA&FORM=VIRE  
+
+<section>
+<h3>Some of my videos</h3>   
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=WkI_P8KxjwY">Shot at Fralin Museum</a></li>
+  <li><a href="https://www.youtube.com/watch?v=nr3GSHWTJxg">Another one shot at Fralin Museum</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_ELTPprAK7c">Shot at Nau Hall (Department of Nothingness)</a></li>
+</ul>
 </section>
 
-<section data-markdown>
-#### Even more examples 3
-- Some of my videos   
-- With footage from Fralin Museum   
- <video src=""></video>https://www.youtube.com/watch?v=WkI_P8KxjwY  
--  With footage from Fralin Museum  
-<video src=""></video>https://www.youtube.com/watch?v=nr3GSHWTJxg  
-- Department of Nothingness (a tour)   
- <video src=""></video>https://www.youtube.com/watch?v=_ELTPprAK7c
+<section>
+<h3>What are we doing today (Friday, Sept. 8, 2017)</h3>  
+ <dl>
+  <dt>1. 20-30 minutes hands-on activity (students are taking videos in/out/around the A School Building)</dt>     
+   <dd><p>- Before you start, check the storage on your phone!</p></dd>
+   <dd><p>- At this point don't worry about filming techniques. Think about the atmosphere of this place.</p></dd>
+  <dt>2. Back to the classroom, upload your video(s) for the discussion</dt>
+  <dt>3. Useful tips for shooting with your phone</dt>
+ </dl>
 </section>
 
-<section data-markdown>
-#### What are we doing today (Friday, Sept. 8, 2017)  
- 1. 20-30 minutes hands-on activity (students are taking videos in/out/around the A School Building)     
-  <small>- Before you start, check the storage on your phone!</small>
-  <small>- At this point don't bother about video taking techniques. Think about the atmosphere of this place.</small>
-
- 2. Back to the classroom, upload your video(s) for the discussion
- 3. Useful tips for shooting with your phone
-</section>
-
-<section data-markdown>
-#### Useful shooting tips (to address during the discussion)
-- Portrait vs Landscape
-- Use of light   
- -- How to set manual exposure
-- Zoom in / Zoom out  
- -- Walk!
-- Moving while filming  
-- Framing   
-  -- rule of 2/3  
-  -- rule of + (leveled vertical and horizontal shots not diagonal!)  
-  -- establishing shot   
-  -- point of view
+<section>
+<h3>Useful shooting tips (to address during the discussion)</h3>
+<dl>
+ <dt>1. Portrait vs Landscape</dt>
+ <dt>2. Use of light</dt>
+ <dt>3. Zoom in / Zoom out</dt>  
+  <dd>- Walk closer to your object!</dd>
+ <dt>4. Moving while filming</dt>
+  <dd>- Prefer not to</dd>
+ <dt>5. Framing</dt>   
+  <dd>- Rule of 2/3</dd>  
+  <dd>- Rule of + (leveled vertical and horizontal shots not diagonal!)</dd>  
+  <dd>- Establishing shot</dd>   
+  <dd>- Point of view</dd>
+</dl>
 </section>  
 
-<section data-markdown>
-#### Looking forward to next time   
-- Next time we are focusing on **video editing**.
-- Until then, enjoy your field trip and take a lot of footage!
-- Come back having uploaded your footage to your computer.
+<section>
+<h3>Looking forward to next time</h3>   
+<ul>
+ <li>Next time we are focusing on <strong>video editing</strong>.</li>
+ <li>Until then, enjoy your field trip and take a lot of footage!</li>
+ <li>Come back having uploaded your footage to your computer.</li>
+</ul>  
 </section>
 
-<section data-markdown>
-#### Video editing (Monday, Sept. 11, 2017)
-1. Import footage to imovie
-2. Create a new project
-3. Drop media to timeline
-4. Edit (trim, add transition, audio effects)
+<section>
+<h3>Video editing (Monday, Sept. 11, 2017)</h3>
+<ol>
+<li>Import footage to imovie</li>
+<li>Create a new project</li>
+<li>Drop media to timeline</li>
+<li>Edit (trim, add transition, audio effects)</li>
+</ol>
 </section>
