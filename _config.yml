@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: ss4ws / 📚 💻 🤔
+title: Spyridon Simotas
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -33,17 +33,17 @@ owner:
   #foursquare: #username
   #steam: #username
   #dribbble: #username
-  # youtube: #username
+  #youtube: #username
   #soundcloud: #username
- # weibo: #username
+  #weibo: #username
   #flickr: #username
   #codepen: #username
   disqus-shortname: "ss4ws"
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: "#CD666A" #"#CC0000"
-lowlight-color:  "#6F7D72" #"#000"
+highlight-color: "#CF5300" #"#ff4c4c" #"#0000000d" #"#CD666A" 
+lowlight-color: "#A9A9A9" #"#0000000d" #"#6F7D72" 
 collections:
    Teaching:
      output: true

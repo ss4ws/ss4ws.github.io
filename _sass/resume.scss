@@ -18,11 +18,14 @@
   }
 
 .resume body {
+  font-family: inherit; 
   font: normal normal 400;
   font-size: 100%;
 
 }
-.resume p {
+.resume p { 
+  line-height: 1.5; 
+  font-weight: 400; 
   position: relative;
   margin-right: 0;
   width: 100%;
@@ -38,6 +41,7 @@
 }
 
 .resume ul {
+  font: inherit; 
   position: relative;
   left: 33%;
   width: 65%;
@@ -67,6 +71,7 @@
   }
 
 .resume h1 {
+  font-weight: 700; 
   text-align: center;
   margin-bottom: 0px;
   color: $highlightcolor
@@ -100,7 +105,7 @@ div#resume.resume{
 }
 
 em {
-  font-weight: bold;
+  font-weight: 400;
   font-style: italic;
 }
 
@@ -108,7 +113,7 @@ em {
     background-color: $highlightcolor;
     border: none;
     color: white;
-    padding: 5px 5px;
+    padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;

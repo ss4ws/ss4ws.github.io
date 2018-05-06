@@ -9,8 +9,8 @@
 $doc-font-size: 16;
 $doc-line-height: 30;
 $paragraph-indent: 0;
-$base-font: "Open Sans", sans-serif;
-$heading-font: "Cabin", sans-serif;
+$base-font: "Spectral", serif; 
+$heading-font: "Avenir", sans-serif;
 $code-font: "Source Code Pro", "PT Mono", "Monaco", "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -18,12 +18,12 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #f6e9e9 /*#fff*/;
+$bodycolor      : rgb(201, 201, 201) /*#fff*/;
 $body-color     : $bodycolor;
-$textcolor      : #717173 /*#333332*/;
+$textcolor      : #1d1b1b /*#333332*/;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #343434;
+$basecolor 		  : #000000;
 $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;

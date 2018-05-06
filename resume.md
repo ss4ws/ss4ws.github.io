@@ -36,9 +36,12 @@ _Maîtrise (MA1)_ - Lettres Modernes
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
 ## RESEARCH INTERESTS
-- 20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
-- Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
-- Visual Studies.
+
+20th & 21st Century French literature and Cultural Studies from the Revolution to present.
+
+Digital Humanities, teaching with technology, e-portfolios in second language acquisition.
+
+Visual Studies.
 
 ## PUBLICATIONS
 `2018`
