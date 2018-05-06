@@ -9,7 +9,7 @@ comments: true
 category: blog
 ---
 
-Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. ![SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
+Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. [SLIDE](https://ss4ws.github.io/my_collections/presentation/Brown/#/1)
 
 Malgré son ambition de détourner en « chambre d’enregistrement », la fonction de 80 ronds-points, destinés à la régulation du flux de la circulation, le projet ne compte aujourd’hui que 35. Projet toujours en cours, ou définitivement incomplet, cela ne nous empêche pas de réfléchir sur les éléments qui le composent et surtout les deux actions menées sur place : les performances orales, et l’enterrement des livres.
 
@@ -17,7 +17,7 @@ En effet, dans chaque rond-point François Bon lit un texte à haute voix. Ce so
 
 Car c’est bien d’eux dont il s’agit. Mais les livres pris dans un continuum qui brise les circuits de diffusion et de publication classiques (bibliothèques, librairies, institutions diverses) pour entrer dans un nouveau rapport avec la ville –entendue ici comme _polis_ à la fois comme espace urbain et ensemble des citoyens. C’est cela qui confère au projet son aspect politique.  
 
-Pour ceux qui ne sont pas familiers avec le travail de François Bon, et son site web [_Le Tierslive_](http://www.tierslivre.net/), il faudrait d’abord mettre tout ça en perspective.
+Pour ceux qui ne sont pas familiers avec le travail de François Bon, et son site web [_Le Tierslivre_](http://www.tierslivre.net/), il faudrait d’abord mettre tout ça en perspective.
 
 Depuis les premiers balbutiements du web, François Bon ne cesse d’explorer les possibilités créatives du numérique et à entraîner la littérature à des territoires imprévus. En 2005, il prend le risque avec _Tumulte_, de mener une écriture quotidienne en ligne, sans objet spécifique, juste une dérive au bord de l’intransitif verbe écrire. Au bout d’un an, le blog sera publié chez Fayard, sous-titré roman. Entre temps, il aura donné de la matière à une série de performances orales sur scène avec le musicien Dominique Pifarély.
 
