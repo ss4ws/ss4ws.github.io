@@ -9,7 +9,7 @@
 $doc-font-size: 16;
 $doc-line-height: 30;
 $paragraph-indent: 0;
-$base-font: "Spectral", serif; 
+$base-font: "Avenir" sans-serif; //"Georgia", serif; 
 $heading-font: "Avenir", sans-serif;
 $code-font: "Source Code Pro", "PT Mono", "Monaco", "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
@@ -18,24 +18,24 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : rgb(201, 201, 201) /*#fff*/;
+$bodycolor      : rgb(212, 212, 212) /*#fff*/;
 $body-color     : $bodycolor;
-$textcolor      : #1d1b1b /*#333332*/;
+$textcolor      : #443f3f /*#333332*/;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #000000;
-$compcolor 		  : spin($basecolor, 180);
+$basecolor      : #000000;
+$compcolor      : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
 $accentcolor    : #1e3928 /*$black*/;
 
 /* buttons */
-$primary			: $black;
-$success			: #5cb85c;
-$warning			: #dd8338;
-$danger				: #C64537;
-$info				  : #308cbc;
+$primary            : $black;
+$success            : #5cb85c;
+$warning            : #dd8338;
+$danger             : #C64537;
+$info               : #308cbc;
 
 /* brands */
 $facebook-color     : #3b5998;

@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Video Making Workshop
-excerpt: Where I talk about video making with a smartphone.
+title: Video Making Workshop.
+excerpt: Where I talk about video making with a smartphone. Part of a 3-day workshop at the Architecture School at the University of Virginia.
 theme: solarized
 transition: convex
 tags: [presentation, architecture school, workshop, video, making]

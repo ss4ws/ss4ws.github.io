@@ -17,13 +17,13 @@ Use this snippet code to add a link to download CV in pdf.
 [Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})
 -->
 
-
 ## EDUCATION
+
 
 `2013 - (in progress)`__University of Virginia__  
 _PhD_ - French Contemporary Literature and Digital Media  
-_Dissertation_: L'espace littéraire numérique  
-_Summary_: My research focuses on French contemporary literature and digital media. More precisely, I am looking at the websites of three contemporary French authors identifying the ways in which they challenge preconceived notions of publishing, materiality of the text, and authorship. In digital media, literature turns the page to new poetic hybrids, and techniques. Through, François Bon's, Philippe De Jonckheere's and Éric Chevillard's works, I argue that paramount to digital literature is no longer a finished product –the book– but a gesture of making, leading to a whole new horizon of formats and sharing possibilities.  
+_Dissertation_: _Dans les marges, l'espace littéraire numérique_  
+_Summary_: 
 
 `2001-2002`
 __University Paris 8__    
@@ -44,6 +44,7 @@ Digital Humanities, teaching with technology, e-portfolios in second language ac
 Visual Studies.
 
 ## PUBLICATIONS
+
 `2018`
  __“Entrées par ordre alphabétique dans l’espace du dedans.”__, [_Contemporary French and Francophone Studies_](https://tandfonline.com/toc/gsit20/21/4?nav=tocList), 21:4, 414-420, DOI: 10.1080/17409292.2017.1432336
 
@@ -51,10 +52,12 @@ Visual Studies.
 __“Pierre Michon et la question de la filiation.”__, [_Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_](https://www.peterlang.com/view/product/9301), Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
 
 ## Fiction
+
 `2009`
 __“Past Life.”__, [_19 new steps_](http://www.biblionet.gr/book/144036/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C_%CE%AD%CF%81%CE%B3%CE%BF/19_%CE%BD%CE%AD%CE%B1_%CE%B2%CE%AE%CE%BC%CE%B1%CF%84%CE%B1), The winning stories from the 2nd National Short Story Contest. Athens: Eleftheroudakis.
 
 ## CONFERENCES
+
 `2018`
 __“Les graffiti oraux de François Bon”__, annual 20th–21st Century French and Francophone Studies International Colloquium: Sous les pavés..., Brown College, Providence, Rhode Island.
 
@@ -71,6 +74,7 @@ __“François Bon à haute voix dans les ronds points”__, annual graduate stu
 __"E-portfolio's reliance on technology (digital literacy)”__, AAEEBL Southeast Regional Conference, Virginia Tech.
 
 ## PRESENTATIONS & WORKSHOPS
+
 `2017`
 __“Workshop on video making with a smartphone”__, Architecture School, University of Virginia.
 
@@ -137,6 +141,7 @@ __Mellon Foundation Graduate Fellowship__: “Composing the Humanities in a Digi
 __Travel Grants__, Department of Frecnh, University of Virginia   
 
 ## PROFESSIONAL DEVELOPMENT
+
 `2017`
 __Certificate in Fundamentals of Programming/Coding for Human(s|ists).__ Digital Humanities Summer Institute at the University of Victoria.
 
@@ -153,6 +158,7 @@ __Workshop on e-portfolios for program-level assessment in world languages, with
 __Certificat de formation « Enseigner le Français des Affaires », sponsored by the French Embassy in Washington and the Paris Chamber of Commerce.__ University of Virginia.
 
 ## OTHER PROFESSIONAL EXPERIENCE
+
 `2016–2017`
 __Makerspace Technologist__, Scholars’ Lab at the University of Virginia.
 
@@ -169,6 +175,7 @@ __Copywriter__, Fortune Advertising S.A, Athens.
 __Copywriter__, Spot JWT, Athens.
 
 ## ACADEMIC SERVICE
+
 `2016-2017`
 __Coordinator for Business French Training Course__, Department of French at the University of Virginia, the Cultural Services of the French Embassy in Washington and the Chamber of Commerce in Paris.
 
@@ -182,9 +189,11 @@ __Research Assistant__, FLLEP Grant, funded initiative for the implementation of
 __Co-organizer of the French Film Festival__, University of Virginia
 
 ## LANGUAGES
+
 - __English__: near native  
 - __French__: near native  
 - __Greek__: native  
 
 ## REFERENCES
+
 Available upon request.

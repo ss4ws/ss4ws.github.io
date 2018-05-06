@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Paris in the 19e Century (Syllabus)
-excerpt: This is a collaborative mock-up syllabus made during the Institute of French and Cultural Studies at Dartmouth in the Summer of 2017.
+title: Paris in the 19th Century. 
+excerpt: A collaborative mock-up syllabus made during the Institute of French and Cultural Studies at Dartmouth in the Summer of 2017.
 modified: 2018-04-07 12:29
 tags: [teaching, syllabus, french literature, french culture, 19e century]
 comments: true
