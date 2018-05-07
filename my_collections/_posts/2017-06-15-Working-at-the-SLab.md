@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Makerspace Technologist."
+title:  "Makerspace Technologist"
 excerpt: Where I reflect on my job as a Makerspace Technologist at the Scholars' Lab at the University of Virginia.
 modified: 2017-06-15
 tags: [Makerspace, 3D printing, Personal]

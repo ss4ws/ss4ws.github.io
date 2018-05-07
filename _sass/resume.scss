@@ -4,7 +4,7 @@
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font: "Spectral" serif;
   vertical-align: baseline;
 }
 
@@ -18,12 +18,13 @@
   }
 
 .resume body {
-  font-family: inherit; 
+  font-family: "Spectral" serif; 
   font: normal normal 400;
   font-size: 100%;
 
 }
 .resume p { 
+  font-family: "Spectral", serif;
   line-height: 1.5; 
   font-weight: 400; 
   position: relative;
@@ -41,7 +42,7 @@
 }
 
 .resume ul {
-  font: inherit; 
+  font: "Spectral" serif; 
   position: relative;
   left: 33%;
   width: 65%;
@@ -105,7 +106,7 @@ div#resume.resume{
 }
 
 em {
-  font-weight: 400;
+  font-weight: 500;
   font-style: italic;
 }
 

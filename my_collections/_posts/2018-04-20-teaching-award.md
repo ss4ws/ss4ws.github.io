@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching Award.
+title: Teaching Award
 excerpt: Receiving All-University Graduate Students Teaching Award from Beth Beal.
 modified: 2018-04-20 00:43
 tags: [teaching, award]
@@ -10,7 +10,7 @@ category: blog
 
 <figure>
   <img src="/images/2018/04/simotas_GTA_award.jpg">
-  <figcaption>Photo by Melody Robbins</figcaption>
+  <figcaption class="image-credit">Photo by Melody Robbins</figcaption>
 </figure>
 
 Today, I had the honor to receive an All-University Graduate Students Teaching Award.
