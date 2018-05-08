@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: "#CF5300" #"#ff4c4c" #"#0000000d" #"#CD666A" 
+highlight-color: "#dd1144" #"#CF5300" #"#ff4c4c" #"#0000000d" #"#CD666A" 
 lowlight-color: "#A9A9A9" #"#0000000d" #"#6F7D72" 
 collections:
    Teaching:

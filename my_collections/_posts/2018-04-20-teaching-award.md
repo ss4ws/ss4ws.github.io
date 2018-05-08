@@ -13,7 +13,6 @@ category: blog
   <figcaption class="image-credit">Photo by Melody Robbins</figcaption>
 </figure>
 
-
 Today, I had the honor to receive an All-University Graduate Students Teaching Award.
 
 The ceremony took place at the Pavilion VII (Colonnade Club) where I was in good company with Professors Gary Ferguson, (current chair of the French Department), Amy Ogden, Karen James, and Alison Levine.
