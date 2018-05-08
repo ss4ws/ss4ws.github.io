@@ -11,4 +11,4 @@ category: blog
 <figure>
     <img src="/images/2018/05/reveal-promo.jpg" alt="Reveal Website Promo Photo">
     <figcaption><a href="http://reveal.scholarslab.org/">Click to visit the website</a></figcaption>
-<figure><hr>
+<figure>
