@@ -25,13 +25,11 @@ _PhD_ - French Contemporary Literature and Digital Media
 _Dissertation_: _Dans les marges, l'espace littéraire numérique_  
 _Summary_: 
 
-`2001-2002`
-__University Paris 8__    
+`2001-2002` __University Paris 8__    
 _DEA (MA2)_ - Texte, Imaginaire, Société     
 _Dissertation_: Vies d’artistes dans l’oeuvre de Pierre Michon
 
-`1999-2000`
-__University Paris 8__  
+`1999-2000` __University Paris 8__  
 _Maîtrise (MA1)_ - Lettres Modernes   
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
@@ -45,8 +43,7 @@ Visual Studies.
 
 ## PUBLICATIONS
 
-`2018`
- __“Entrées par ordre alphabétique dans l’espace du dedans.”__, [_Contemporary French and Francophone Studies_](https://tandfonline.com/toc/gsit20/21/4?nav=tocList), 21:4, 414-420, DOI: 10.1080/17409292.2017.1432336
+`2018` __“Entrées par ordre alphabétique dans l’espace du dedans.”__, [_Contemporary French and Francophone Studies_](https://tandfonline.com/toc/gsit20/21/4?nav=tocList), 21:4, 414-420, DOI: 10.1080/17409292.2017.1432336
 
 `2003`
 __“Pierre Michon et la question de la filiation.”__, [_Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_](https://www.peterlang.com/view/product/9301), Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76

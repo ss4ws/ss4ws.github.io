@@ -1,16 +1,19 @@
 
-.resume html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+.resume html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: "Spectral", serif;
+  font-family: "Source Sans Pro", sans-serif;
   vertical-align: baseline;
 }
-
+.h1, h2, h3, h4, h5, h6{
+  font-family: "Avenir", sans-serif;
+}
 
 .resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
+  //font-family: "Source Sans Pro", sans-serif;
   }
 
 .resume blockquote, q {
@@ -18,13 +21,13 @@
   }
 
 .resume body {
-  font-family: "Spectral" serif; 
+  //font-family: "Source Sans Pro", sans-serif;
   font: normal normal 400;
   font-size: 100%;
 
 }
 .resume p { 
-  font-family: "Spectral", serif;
+  //font-family: "Source Sans Pro", sans-serif;
   line-height: 1.5; 
   font-weight: 400; 
   position: relative;
@@ -41,8 +44,7 @@
   text-indent: 0px;
 }
 
-.resume ul {
-  font: "Spectral" serif; 
+.resume ul { 
   position: relative;
   left: 33%;
   width: 65%;
@@ -68,7 +70,7 @@
   margin-left: 2em;
 }
 .resume h1, h2, h3, h4 {
-  font-weight: 400;
+  font-weight: 700;
   }
 
 .resume h1 {
@@ -88,7 +90,7 @@
 // Fix issue with the first content area floating up above border on print
 div#resume.resume{
   margin-top: 50px;
-}
+  }
 
 .resume h3 {
   font-size: 1.25em;
