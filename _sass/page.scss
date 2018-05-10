@@ -14,10 +14,10 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 0em;
-	font-family: $heading-font; 
+	padding: 2em 0 0;
+	font-family: "Roboto", $heading-font; 
 	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	@include clearfix;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
@@ -254,6 +254,7 @@ $button-size: 1.5rem;
 
 /* Index listing specific styling */
 #index {
+	font-family: 'Courier New', Courier, monospace; 
 	@include container;
 	@include grid(12,10);
 	@include prefix(12,1);
