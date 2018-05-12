@@ -7,10 +7,12 @@ excerpt: ""
 
 
 - [ ] Write like your house is on fire
+
 - [ ] Add TOC to pages and posts?
-- [ ] Fix links on posts
 
 
+
+- [X] Fix links on posts
 - [X] Draft for UVa Reveal, Augmenting the University
 - [X] Fix CSS invalid syntax
 - [X] Add collections

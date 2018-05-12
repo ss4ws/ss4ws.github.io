@@ -59,9 +59,11 @@ a {
 
 figcaption {
 	font-family: 'Courier New', Courier, monospace;
+	font-style: italic; 
 	padding-top: 10px;
 	@include font(14);
-	line-height: 1;
+	line-height: 2;
+	text-align: center;   
 	color: lighten($text-color, 10);
 }
 
