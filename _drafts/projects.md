@@ -4,6 +4,17 @@ title: Projects
 excerpt: This is an on-going catalog of ideas for projects.  
 ---
 
+# Ways to waste time on the internet 
+ > Buddhist meditators use a technique that they call mental noting. As each emotion arises, they give it a name: fear, excitement, sadness. They also assign names to sensations: coolness, warmth, pressure. They feel that naming things anchors the emotions, keeping the meditator in the present. It also helps distance themselves from the pull of those emotions so that they don't take on too much power, overwhelming the placidness of meditation. Noting is a way of making visible the invisible, making something ephemeral concrete. Our browser history is doing exactly that and going further by not only naming, but also time-stamping and archiving these fleeting traces of data. (Kenneth Goldsmith - Waisting time on the Internet)
+
+Idea about a movie: 
+1. Take a screenshot of every web page you visit through out the day. At the end of the day make a short stop motion movie of all the screenshots. If a day is too short to collect a significant amount of screenshots, the time period of the experiment can be extended to a week, month, or any other convenient time frame. 
+
+2. The same idea can be produced by making a thematic selection of the websites visited. For example: google searches, wikipedia searches, dictionary searches, shopping, youtube, etc. The outcome then, if we choose to go with the dictionary searches, would be a visual journey through all the words looked up online. What does that says about you? And what does that say about what you are writing? 
+
+# Screens 
+Make a series of photos of computer screens turned off, showing the dust, fingerprints and other traces, a testimony of interactions with content but with no content being visible on the screen.  
+
 # 807
 Écrire un livre intitulé 807. Son écriture consiste à compter de un à huit cent sept. 
 Texte pour la quatrième de couverture: « Suivez ce décompte dramatique, qui page après page vous prépare vers une chute bien orchestrée depuis sa couverture. Un suspense absolu! »  

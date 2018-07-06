@@ -6,12 +6,12 @@ date: 2016-09-28
 modified:
 tags: [écriture, manuscrit, journal]
 comments: true
-category: teaching
+category: blog
 ---
 
 J’ai commencé un journal manuscrit aujourd’hui.
 
-Je lisais ce passage du journal du _Désorde_ de Philippe de Jonckheere où il est question du réflexe de l’écriture manuscrite. Après des années d’écriture frénétique sur son blog, PDJ constate que son écriture manuscrite perd son lisibilité. Est-ce seulement la lisibilité qu’on perd si on abandonne l’écriture manuscrite ? 
+Je lisais ce passage du journal du _Désorde_ de Philippe de Jonckheere où il est question du réflexe de l’écriture manuscrite. Après des années d’écriture frénétique sur son blog, PDJ constate que son écriture manuscrite perd son lisibilité. Est-ce seulement la lisibilité qu’on perd si on abandonne l’écriture manuscrite ?
 
 Mon cahier manuscrit sera une tentative d’y répondre. Je suis curieux de voir ce qui coulera de mon stylo au fil du temps. Je prévois beaucoup de pages noircies et sans intérêt, du brouillon, de l’inachevé et des ratures. D’une certaine façon c’est cela même qu’il faut retrouver dans l’écriture manuscrite, les ratures comme l’image de notre propre imperfection. Nous sommes tous inachevés, est-ce qu’on sera jamais mis au net ? La régularité des lettres et des lignes, issues du clavier, la touche « delete » qui ne laisse pas de traces sur les textes écrits à l’ordi nous mettent face à des textes qui donne faussement l’impression d’être achevés. Mais un texte, écrit à la main ou à l’ordinateur, ne peut être qu’inachevé. Si on met un point final, ce n’est que pour « poursuivre ailleurs l’inachevé » comme disait Blanchot.    
 
