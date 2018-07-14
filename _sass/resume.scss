@@ -12,10 +12,10 @@
 }
 
 h2 {
-  color: $lowlightcolor;  
-  text-decoration: underline;
-  text-decoration-color: $highlightcolor;
-}
+  -webkit-text-fill-color: $lowlightcolor;
+  text-decoration: underline; 
+  text-decoration-color: $highlightcolor; 
+  }
 
 .h1, h2, h3, h4, h5, h6 {
   font-family: heading-font;
