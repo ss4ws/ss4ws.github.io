@@ -25,11 +25,17 @@ footer {
   font-size: $footer-font-size;
   font-weight: $footer-font-weight;
   padding: $footer-padding;
-  // position: fixed;
-  //   left: 0px;
-  //   bottom: 0px;
-  // width: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
 
   a { color: #fff; }
   a:hover { color: $theme-color; }
+   
+}
+
+.footer, 
+.push {
+  height: 50px;
 }
