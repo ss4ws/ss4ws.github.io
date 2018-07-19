@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <h1>{{ site.blog_name }}</h1>
+  <h2>{{ site.blog_description }}</h2>
+</div>
+
+
+<ul class="post-list">
+  {% for item in news %}
+  <li>
+      <p class="post-meta">{{ item.date | date: '%B %-d, %Y' }}</p>
+      <h2><a class="post-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2>
+      <span class="address p">{{ item.excerpt | strip_html }}</span>
+      <span class="post-meta">{{ item.categories | strip_html }}</span>
+    </li>  
+  {% endfor %}
+  {% for post in paginator.posts %}
+     {% if post.categories contains "presentation" %}
+     <!--  don't show presentations -->
+     {% elsif post.categories contains "teaching" %}
+     <!--  don't show teaching -->
+     {% elsif post.categories contains "dh-projects" %}
+     <!--  don't show dh-projects -->
+     {% else %}
+        <li>
+          <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+          <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <span class="address p">{{ post.excerpt | strip_html }}</span>
+          <span class="post-meta">{{ post.categories | strip_html }}</span>
+        </li>
+     {% endif %}   
+  {% endfor %}
+
+  <!-- add news in the list of posts -->
+  <!-- {% for item in news %}
+  <li>
+    <p class="post-meta">{{ item.date | date: '%B %-d, %Y' }}</p>
+    <h2><a class="post-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2> 
+  </li>
+      {% if item.inline %}
+        {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+      {% else %}
+        <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+      {% endif %}
+{% endfor %} -->
+
+</ul>
+
+{% include pagination.html %}

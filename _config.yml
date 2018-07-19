@@ -1,87 +1,116 @@
-# Site wide configuration
-
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 title: Spyridon Simotas
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+email: ss4ws@virginia.edu
+description: > # this means to ignore newlines until "url:"
+ a miniscule , in an ∞ text
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Spyridon Simotas
-  avatar: bio-photo.jpg
-  bio: "PhD Candidate, Praxis Fellow at the Scholars' Lab."
-  email: ss4ws@virginia.edu #emailaddress
-  # Do not include the @ symbol in your Twitter username
-  twitter: ss4ws #username
-  #linkedin: #username
-  github: ss4ws #username
-  #orcid: # ID Number (ex. 0000-0000-0000-0000)
-  #researchgate: #username
-  #mendeley: #username
-  #google:
-    #plus: #username
-    #analytics:
-    #verify:
-    #scholar: #id
-  #facebook: #username
-  #instagram: #username
-  #bing-verify:
-  #stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  #xing: #username
-  #lastfm: #username
-  #tumblr: #username
-  #pinterest: #username
-  #foursquare: #username
-  #steam: #username
-  #dribbble: #username
-  #youtube: #username
-  #soundcloud: #username
-  #weibo: #username
-  #flickr: #username
-  #codepen: #username
-  disqus-shortname: "ss4ws"
+url:  # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: July 14, 2018
 
-# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
-# you may do so in _sass/variables.scss
-highlight-color: "#dd1144" #"#CF5300" #"#ff4c4c" #"#0000000d" #"#CD666A" 
-lowlight-color: "#A9A9A9" #"#0000000d" #"#6F7D72" 
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: ss4ws # your GitHub user name
+twitter_username: ss4ws # your Twitter handle
+# linkedin_username: # your LinkedIn user name
+# scholar_userid: # your Google Scholar ID
+# orcid_id: # your ORCID ID
+# contact_note: >
+  # You can even add a little note about which of these is the best way to reach you.
+
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: blog
+blog_description: thoughts, ideas, contributions, haikus, etc.
+
+# Pagination
+paginate: 10
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
+# Comments
+disqus_shortname: ss4ws # put your disqus shortname
+
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 collections:
-   Teaching:
-     output: true
-     permalink: /:collection/:path
-   Projects:
-     output: true
-     permalink: /:collection/:path
-   Haikus:
-     output: true
-     permalink: /:collection/:path
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
+news_limit: 5
 
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
-creative-commons:
-  cc-by: #yes
-  cc-by-nc: #yes
+# Build settings
+markdown: kramdown
+highlighter: pygments
 
-#DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
+# Plug-ins
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-toc
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# Jekyll-Scholar
+scholar:
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+  last_name: Simotas
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
