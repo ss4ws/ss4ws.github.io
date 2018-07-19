@@ -72,6 +72,7 @@ Don’t lose the forest for the trees is what Bayard basically saying. A library
 This “topographical approach” that values location over content, or content as location, and the nature of connexions that one book enjoys with others is what Bayard calls _collective library_. Books are in dialogue with each other and the way to get even a faint echo of their conversations is movement. Moving around the library, is preferable to the stasis over one particular location-book. The invention of hypertext “an ongoing system of interconnecting documents” (Ted Nelson) was an attempt to establish the dynamic of movement to what had long seen as a static material. Only, one, still has to read…
 
 ### The problem with languages.
+
 Books are not only innumerable, there are also written in different languages, which is another reason inhibiting from reading them (all).
 
 Before I move on, I would like to share with you a 1m07” from a recent episode of Twin Peaks The Return. In this scene special FBI Agent Gordon Cole, (played by David Lynch himself) after sending off his date (a French woman) to the bar, turns to his colleague Albert with a joke…

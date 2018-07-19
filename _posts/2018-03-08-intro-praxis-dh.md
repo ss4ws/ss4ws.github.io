@@ -42,7 +42,7 @@ category: presentation
 |Our project this year|
 |--|
 |Logo embedded on a mock-up website|
-|![Image of the logo](/images/reveal-logo-in-browser.png)<!-- .element height="50%" width="50%" -->|
+|![Image of the logo](/assets/img/reveal-logo-in-browser.jpg)<!-- .element height="50%" width="50%" -->|
 </section>
 
 <section data-markdown>
@@ -62,6 +62,7 @@ category: presentation
 
 
 ## Discussion questions
+
 - What does it mean to collaborate in a DH project?
 - How do _you_ collaborate?
 - What are the expectations from a collaborative project?
