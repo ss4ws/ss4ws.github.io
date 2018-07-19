@@ -2,11 +2,9 @@
 layout: post
 title: UVA Reveal Launch  🚀
 date: 2018-05-04
-inline: false
+inline: true
 ---
 
-Today we are launching [_UVA Reveal_](http://reveal.scholarslab.org/)! 
+[More info](https://ss4ws.github.io/blog/2018/Reveal-Live-copy/). 
 
-![Reveal Website Promo Photo](/assets/img/2018/05/reveal-promo.jpg)
 
-_UVA Reveal_ is a Digital Humanities project, conceived and designed by the Praxis program 2017-2018 cohort. In this project we are using Augmented Reality techniques to connect archival documents to public spaces on UVA Grounds. By digitally superimposing documents over public spaces, we envision an enhanced, more contextualized experience of our surroundings.

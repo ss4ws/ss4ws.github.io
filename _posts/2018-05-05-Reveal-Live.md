@@ -10,5 +10,4 @@ category: dh-projects
 
 This is [the fruit of labor of 2017-18 Praxis cohort](http://reveal.scholarslab.org/).
 
-UVA Reveal is an Augmented Reality project connecting archival documents to public spaces on UVa Grounds. Augmented reality techniques allow us to attach digital files to iconic places on our Campus exposing unheard of hidden stories. By doing so we envision an enhanced, more contextualized experience of our surroundings.
-
+_UVA Reveal_ is an Augmented Reality project connecting archival documents to public spaces on UVa Grounds. Augmented reality techniques allow us to overlay digital files to iconic places on our Campus exposing unheard or hidden stories of these places. Our vision is to enhance and contextualize how we experience our surroundings.
