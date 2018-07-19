@@ -42,7 +42,7 @@ category: presentation
 
 <!-- 3. Revealing the project -->
 <section>
-<a href="http://reveal.scholarslab.org/"><img src="/images/reveal-logo-in-browser.jpg"></a>
+<a href="http://reveal.scholarslab.org/"><img src="/assets/img/reveal-logo-in-browser.jpg"></a>
 <small>Click on the image to go to the website.</small>
 </section>
 
