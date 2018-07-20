@@ -23,26 +23,20 @@ In various degrees, we all react to things by the way they look. When my father 
 
 ### Features 
 
-1. Jekyll 
-
+**Jekyll**  
 Jekyll, is a popular static website generator compatible and hosted for free on Github pages. What does this mean? In very simple terms it means that the website is a number of files put together in a folder with a very specific structure. Unlike CMS (Content Management Systems) such as WordPress, Drupal or Joomla, Jekyll doesn’t have a GUI (Graphical User Interface) back office. Jekyll is based on the idea of editing text files until they are ready to be published. A certain familiarity with the terminal and a few git commands are necessary in order to publish and update a Jekyll website.  
 
-2. Github 
-
+**Github**  
 Github is a version control management system, adopted by the open source and digital humanities communities who value collaboration and transparency. Github allows teams to work on the same project (i.e. editing the same files) and it stores the version history of all the files of a project. If something went wrong, it is easily traceable and fixed because all the committed changes are saved. The committed versions of a Github repository are also public which means that anyone could copy them and contribute to them or fork and replicate them to build something different. 
 
-3. Template 
-
+**Template**  
 That's the case with the template of this website. It is based upon [al-folio](https://github.com/alshedivat/al-folio) which is an iteration of [-folio](https://github.com/bogoli/-folio). On Github people share their expertise and help others improve their own technical skills by implementing and tweaking existing projects. 
 
-4. Customization 
-
+**Customization**  
 Among a number of tweaks –too many to list here– the main two addition to this template is the resume page (vitaæ on the navigation menu) and the reveal.js framework for online presentations. 
 
-5. Future customizations
-
-- Improve the responsiveness for mobile devices. 
-
-- Create a categories archive [like this one](https://mmistakes.github.io/so-simple-theme/categories/).  
+**Future customizations**  
+Improve the responsiveness for mobile devices.  
+Create a categories archive [like this one](https://mmistakes.github.io/so-simple-theme/categories/).  
 
 <small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small><br>
