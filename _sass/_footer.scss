@@ -18,21 +18,21 @@
           flex: 1 0 auto;
 }
 
-// footer {
+ footer {
 //   background-color: $grey-color;
 //   border-top: $footer-border-top;
 //   color: $footer-color;
 //   font-size: $footer-font-size;
 //   font-weight: $footer-font-weight;
-//   padding: $footer-padding;
+   padding: $footer-padding;
 
-//   position: fixed;
+    position: relative;
 //   left: 0px;
-//   bottom: 0px;
+   bottom: 0px;
 //   width: 100%;
 
 //   a { color: #fff; }
 //   a:hover { color: $theme-color; }
    
-//  }
+  }
 
