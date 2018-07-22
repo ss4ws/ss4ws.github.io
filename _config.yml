@@ -19,8 +19,8 @@ twitter_username: ss4ws # your Twitter handle
 # linkedin_username: # your LinkedIn user name
 # scholar_userid: # your Google Scholar ID
 # orcid_id: # your ORCID ID
-contact_note: > 
- say hi!
+# contact_note: > 
+#  say hi!
 
 
 # google_analytics: UA-XXXXXXXXX # out your google-analytics code
@@ -86,9 +86,9 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Simotas
+  last_name: 
 
-  style: apa
+  style: 
   locale: en
 
   sort_by: year
