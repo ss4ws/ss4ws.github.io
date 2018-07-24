@@ -32,7 +32,7 @@ blog_name: blog
 blog_description: thoughts, ideas, contributions, haikus, etc.
 
 # Pagination
-paginate: 10
+paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
@@ -62,7 +62,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -88,7 +88,7 @@ scholar:
 
   last_name: 
 
-  style: 
+  style: chicago-fullnote-bibliography
   locale: en
 
   sort_by: year

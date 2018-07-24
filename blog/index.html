@@ -26,14 +26,14 @@ layout: default
       {% endif %}
     {% endfor %}
   {% endfor %}
-</ul> 
+</ul>  
 
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
   {% if category[1].size > categories_max %}
     {% assign categories_max = category[1].size %}
   {% endif %}
-{% endfor %} -->
+{% endfor %}  -->
 
 <!-- create groups by category -->
 <!-- {% for i in (1..categories_max) reversed %}
