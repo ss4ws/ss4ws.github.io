@@ -7,11 +7,12 @@ tags: [teaching, award]
 comments: true
 category: teaching
 ---
-
-<figure>
-  <img src="/assets/img/2018/04/simotas_GTA_award.jpg">
-  <figcaption class="image-credit">Photo by Melody Robbins</figcaption>
-</figure>
+<div class="img_row">
+    <img class="col three" src="/assets/img/2018/04/simotas_GTA_award.jpg">
+</div>
+<div class="col three caption">
+    Photo by Melody Robbins
+</div>
 
 Today, I had the honor to receive an All-University Graduate Students Teaching Award.
 
