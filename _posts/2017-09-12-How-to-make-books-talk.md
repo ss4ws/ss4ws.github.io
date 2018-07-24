@@ -6,7 +6,7 @@ modified: 12/09/2017, 9:00:24
 tags: [books, audiobooks, flânerie, tutorial]
 comments: true
 toc: true
-category: contribution, thoughts
+category: blog, contribution, thoughts
 ---
 
 <figcaption class="address p" style="float: right;">Cross posted in the Scholars' Lab blog</figcaption><br>

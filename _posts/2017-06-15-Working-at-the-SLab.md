@@ -5,7 +5,7 @@ excerpt: Where I reflect on my job as a Makerspace Technologist at the Scholars'
 modified: 2017-06-15
 tags: [Makerspace, 3D printing, Personal]
 comments: true
-category: thoughts
+category: blog, thoughts
 ---
 
 Last fall, having no prior experience in 3D printing, I joined the team of Makerspace technologists. Maybe that’s something nobody’s supposed to know, but it’s true. I began assisting at the Makerspace with only [Shane](http://scholarslab.org/people/shane-lin/ "Shane's Scholar's Lab Profile")’s super-comprehensive presentation on 3D printing, which is the activity that brings most of the traffic. Shane’s knowledge and competency, both historical and technical, had me wondering what I had gotten myself into. But as he kept speaking, using words I had never heard before, a whole new dimension had started to rise. Words like slicer, .stl file and GCode, layer height and infill, PLA and ABS, extruder, nozzle size, and bed leveling, had started to layer up in the inevitable Z axis!

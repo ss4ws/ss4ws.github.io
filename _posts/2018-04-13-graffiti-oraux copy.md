@@ -6,7 +6,7 @@ date: 2018-04-13 14:45
 modified:
 tags: [François Bon, ronds-points, performance, video]
 comments: true
-category: contribution, paper
+category: blog, contribution, paper
 ---
 
 Dans le cadre de ce colloque consacré au mai 68, et que son plus fameux slogan « Sous les pavés… » nous sert de titre général, je propose une intervention sur le projet des ronds-points de François Bon. [SLIDE](https://ss4ws.github.io/blog/2018/Brown/#/1)

@@ -5,7 +5,7 @@ excerpt: Where I break more ice, talking about more things I care about.
 modified: 10/09/2017
 tags: [my research, computers, DH]
 comments: true
-category: contribution
+category: blog, contribution
 ---
 <figcaption class="address p" style="float: right;">Cross posted in the Scholars' Lab blog</figcaption><br>
   

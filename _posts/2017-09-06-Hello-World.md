@@ -5,7 +5,7 @@ excerpt: Where I break the ice and introduce myself.
 modified: 06/09/2017, 9:00:24
 tags: [intro, beginner, praxis]
 comments: true
-category: contribution
+category: blog, contribution
 ---
 
 <figcaption class="address p" style="float: right;">Cross posted in the Scholars' Lab blog</figcaption><br>

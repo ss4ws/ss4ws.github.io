@@ -5,7 +5,7 @@ excerpt: alone in your room  // suitcase open at your feet // texting not packin
  message to a friend // no space for extra luggage // this poem is short.
 date: 2016-12-19 
 comments: true
-categories: haiku 
+categories: blog, haiku 
 ---
 
 alone in your room <br> 

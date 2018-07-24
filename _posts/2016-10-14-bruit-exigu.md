@@ -4,7 +4,7 @@ title: bruit exigu
 excerpt: effacement du texte // sous la fiction de la gomme // mieux vaut le reprendre.  
 date: 2016-10-14 
 comments: true
-categories: haiku 
+categories: blog, haiku 
 ---
 
 effacement du texte <br>
