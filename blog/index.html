@@ -7,61 +7,7 @@ layout: default
   <h2>{{ site.blog_description }}</h2>
 </div>
 
-<!-- creates categories -->
- <!-- <ul class="taxonomy-index">
-  {% assign categories_max = 0 %}
-  {% for category in site.categories %}
-    {% if category[1].size > categories_max %}
-      {% assign categories_max = category[1].size %}
-    {% endif %}
-  {% endfor %}
-  {% for i in (1..categories_max) reversed %}
-    {% for category in site.categories %}
-      {% if category[1].size == i %}
-        <li>
-          <a href="#{{ category[0] | slugify }}">
-            <strong>{{ category[0] }}</strong> <span class="taxonomy-count">{{ i }}</span>
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>  
-
-{% assign categories_max = 0 %}
-{% for category in site.categories %}
-  {% if category[1].size > categories_max %}
-    {% assign categories_max = category[1].size %}
-  {% endif %}
-{% endfor %}  -->
-
-<!-- create groups by category -->
-<!-- {% for i in (1..categories_max) reversed %}
-  {% for category in site.categories %}
-    {% if category[1].size == i %}
-      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy-section">
-        <h2 class="taxonomy-title">{{ category[0] }}</h2>
-        <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for entry in category.last %}
-
-            {% include entry.html %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
-    {% endif %}
-  {% endfor %}
-{% endfor %} -->
-
 <ul class="post-list">
-  <!-- {% for item in news %}
-  <li>
-      <p class="post-meta">{{ item.date | date: '%B %-d, %Y' }}</p>
-      <h2><a class="post-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2>
-      <span class="address p">{{ item.excerpt | strip_html }}</span>
-      <span class="post-meta">{{ item.categories | strip_html }}</span>
-    </li>  
-  {% endfor %} -->
   {% for post in paginator.posts %}
      {% if post.categories contains "presentation" %}
      <!--  don't show presentations -->
@@ -78,20 +24,6 @@ layout: default
         </li>
      {% endif %}   
   {% endfor %}
-
-  <!-- add news in the list of posts -->
-  <!-- {% for item in news %}
-  <li>
-    <p class="post-meta">{{ item.date | date: '%B %-d, %Y' }}</p>
-    <h2><a class="post-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h2> 
-  </li>
-      {% if item.inline %}
-        {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-      {% else %}
-        <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-      {% endif %}
-{% endfor %} -->
-
 </ul>
 
 {% include pagination.html %}

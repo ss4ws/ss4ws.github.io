@@ -18,7 +18,7 @@ permalink: /teaching/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="address p">{{ post.excerpt | strip_html | truncate: 160 }}</span>
+        <span class="address p">{{ post.excerpt | strip_html }}</span>
       </li>
     {% endfor %}
   </ul>
