@@ -53,7 +53,7 @@ However, reading, despite being un unhealthy activity as we just saw, heavily ta
 
 The sentiment is not new. Today’s readers may feel completely crushed under the weight and the abundance of reading material, but so did the erudite from the early modern era. Compiling methods (common place books, anthologies, florilegia) were thus put in place to compress books within books and save the reader from the folly of having to read everything _in extenso_.
 
-Pierre Bayard in his first chapter of his now classic _How to Talk About Books You Haven’t Read_ [^3]addresses the issue by suggesting a few methods of non-reading.
+Pierre Bayard in his first chapter of his now classic _How to Talk About Books You Haven’t Read_[^3]addresses the issue by suggesting a few methods of non-reading.
 
 [^3]: Pierre Bayard, How to talk about books you haven’t read (New York, NY: Bloomsbury USA : Distributed to the trade by Holtzbrinck Publishers, 2007).
 
