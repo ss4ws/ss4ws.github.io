@@ -11,11 +11,17 @@
 }
 
 .news {
+    // box-shadow: 0 0 5px $grey-color;
     font-size: 14px; 
+    background-color: whitesmoke;
     font-family: $monospace-font-family;
     border-top: 1px solid $grey-color-light;
-    margin-top: 30px;
+    margin-top: 50px;
     padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
 
     h2 {
         font-weight: bold;
