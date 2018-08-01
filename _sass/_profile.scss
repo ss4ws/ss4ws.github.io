@@ -34,6 +34,7 @@
         width: 100%;
 
         .date { 
+            color: rgb(191, 190, 190);
             width: 19%; 
         }
         .announcement { 
@@ -42,7 +43,7 @@
 
         tr { text-align: left; }
         td {
-            padding: 20px, 0, 0, 10px;
+            padding: 20px;
             vertical-align: top;
             border: none;
         }
