@@ -1,8 +1,16 @@
 <footer>
 
-  <div class="wrapper">
-    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> {{ site.title }} {{ site.time | date: '%Y' }}.
-    {{ site.footer_text }}
+  
+    <div class="social">
+      <span class="wrapper">
+        
+      </span>
+      <div class="wrapper">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> {{ site.title }} {{ site.time | date: '%Y' }}.
+        <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>
+        {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
+        {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>{% endif %}     
+        {{ site.footer_text }}
     <!-- {% if site.last_updated %}
         Last updated: {{ site.last_updated }}.
     {% endif %} -->
