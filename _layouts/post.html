@@ -11,7 +11,9 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  <div>
+    <small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
+  </div>
   {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">

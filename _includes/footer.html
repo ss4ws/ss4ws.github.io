@@ -6,7 +6,9 @@
         
       </span>
       <div class="wrapper">
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> {{ site.title }} {{ site.time | date: '%Y' }}.
+        {{ site.title }} {{ site.time | date: '%Y' }} | 
+        <span class="entypo-cc"></span> Content licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY-SA 3.0</a> |
+        Contant info: 
         <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>
         {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
         {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>{% endif %}     
