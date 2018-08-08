@@ -58,10 +58,15 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  scoops:
+    defaults:
+      layout: post
+    output: true
+    permalink: /scoops/:path/  
   projects:
     output: true
     permalink: /projects/:path/
-
+  
 news_limit: 10
 
 # -----------------------------------------------------------------------------
