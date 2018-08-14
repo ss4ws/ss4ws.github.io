@@ -7,8 +7,9 @@ layout: default
   <h2>{{ site.blog_description }}</h2>
 </div>
 
+<div class="home">
 <ul class="post-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
      {% if post.categories contains "presentation" %}
      <!--  don't show presentations -->
      {% elsif post.categories contains "teaching" %}
@@ -25,5 +26,4 @@ layout: default
      {% endif %}   
   {% endfor %}
 </ul>
-
-{% include pagination.html %}
+</div>
