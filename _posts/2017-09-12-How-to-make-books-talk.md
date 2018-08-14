@@ -2,7 +2,7 @@
 layout: post
 title: How to make books you haven’t read, talk.
 excerpt: A journey where books are no longer written, nor pressed into rectangular objets made out of ink and paper and they are by no means meant to be read.
-modified: 12/09/2017, 9:00:24
+date: 12/09/2017, 9:00:24 
 tags: [books, audiobooks, flânerie, tutorial]
 comments: true
 toc: true
