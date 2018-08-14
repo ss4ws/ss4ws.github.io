@@ -6,7 +6,7 @@ permalink: /dh-projects/
 
 <div class="header-bar">
   <h1>dh projects</h1>
-  <h2></h2>
+  <h2>digital humanities projects</h2>
 </div>
 
 <div class="home">
@@ -21,5 +21,5 @@ permalink: /dh-projects/
       </li>
     {% endfor %}
   </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div>
