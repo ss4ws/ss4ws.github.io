@@ -2,7 +2,6 @@
 layout: post
 title: Augmenting the Department of French
 date: 2018-04-04 15:22
-modified: 2018-04-04 15:22
 excerpt: This is my contribution to UVA Reveal, Augmenting the University. 
 tags: 
 comments: true
