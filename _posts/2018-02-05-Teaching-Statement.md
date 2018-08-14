@@ -2,7 +2,7 @@
 layout: post
 title: Teaching Philosophy Statement
 excerpt: Where I describe my philosophy about teaching and learning.
-modified: 05/02/2018, 9:00:24
+date: 05/02/2018, 9:00:24
 tags: [teaching, philosophy, statement]
 comments: true
 category: teaching
