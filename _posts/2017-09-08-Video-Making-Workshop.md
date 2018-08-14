@@ -5,7 +5,7 @@ excerpt: Where I talk about video making with a smartphone. Part of a 3-day work
 theme: solarized
 transition: convex
 tags: [presentation, architecture school, workshop, video, making]
-category: blog, presentation
+category: presentation
 ---
 
 <section>
