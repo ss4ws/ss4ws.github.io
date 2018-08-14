@@ -1,7 +1,7 @@
 ---
-layout: "slide"
-title: "Praxis 2017-2018"
-date: "2018-03-08 13:38"
+layout: slide
+title: Praxis 2017-2018
+date: 2018-03-08 13:38
 excerpt: Presentation of the program at the Regional DH Symposium.
 theme: solarized
 transition: convex
