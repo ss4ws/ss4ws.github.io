@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 excerpt: Where I break the ice and introduce myself.
-modified: 06/09/2017, 9:00:24
+date: 06/09/2017, 9:00:24
 tags: [intro, beginner, praxis]
 comments: true
 category: blog, contribution
