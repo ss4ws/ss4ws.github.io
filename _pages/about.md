@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Spyridon</strong>Simotas
+title: <strong>Spyridon</strong> Simotas
 description: PhD Student in French. Praxis Fellow at the Scholars' Lab. 
 
 profile:
