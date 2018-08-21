@@ -15,15 +15,16 @@ Hi everybody! Let me introduce myself. My name is Spyridon (Spyros) Simotas and 
  
 Given that the web has completely eroded the boundaries between producer and consumer, between form and content, and also between artistic disciplines, I am looking the websites of these three authors, as an expression of new poetic hybrids. 
 
-My research focuses on the intersection of critical theory (especially the late Roland Barthes),  avant-gardes movements (especially Oulipo, and, more specifically Georges Perec), and Digital Humanities. 
+My research happens on the intersection of critical theory (especially the late Roland Barthes),  avant-gardes movements (especially Oulipo, and, more specifically Georges Perec), and Digital Humanities. 
 
-Speaking of Digital Humanities, starting this year a new Digital Humanities track and Certificate will be offered to Graduate students in Arts and Sciences. As part of my own training in Digital Humanities, I was a Praxis Fellow last year, where I worked collaboratively with five other graduate students on an Augmented Reality project. It’s called UVA Reveal, and it connects archival documents from our library with physical spaces on Grounds. I am particularly proud to say that one of the augmented locations is the French Department. If you have an Android phone or tablet, I encourage you to download the app from our website and offer yourself an alternative tour of Grounds. You will find the link on my website, or on the posters you’ll see plastered in the hallway.
+Speaking of Digital Humanities, starting this year a new Digital Humanities track and [Certificate](https://dh.virginia.edu/certificate) will be offered to Graduate students in Arts and Sciences. As part of my own training in Digital Humanities, I was a [Praxis](https://praxis.scholarslab.org/) Fellow last year, where I worked collaboratively with five other graduate students on an Augmented Reality project. It’s called [UVA Reveal](http://reveal.scholarslab.org/), and it connects archival documents from our library with physical spaces on Grounds. I am particularly proud to say that one of the augmented locations is the [French Department](http://reveal.scholarslab.org/french-department). If you have an Android phone or tablet, I encourage you to download the app from our website and offer yourself an alternative tour of Grounds. You will find the link on my website, or on the posters you’ll see plastered in the hallway.
 
 Voilà. That’s enough about me for now. Let’s go around and hear a little bit about you! 
 
  
 ## Vocabulary in Context 
-Before I start, I should say that my intention today is to have a dialogue with you, and to take this opportunity to start sharing ideas, comparing notes and learning from each other. 
+
+Before I start, I should say that my intention today is to have a dialogue with you, and to take this opportunity to start sharing ideas, comparing notes, and learning from each other. 
  
 Some of you may have never taught before and are probably feeling very stressed right now –who doesn’t, actually? Luckily, Professor Karen James is doing everything possible to provide you with the necessary teaching resources and the moral support you need to succeed. 
  
@@ -38,11 +39,11 @@ Questions so far?
 
 ### 1. The dictionary 
 
-When I think of vocabulary, I think of the dictionary. Why don’t we teach vocabulary _with_ the dictionary? Say, assign a few pages to students every day to learn by heart and then move to a few more pages and so on. Is vocabulary compatible with the dictionary? After all, a dictionary offers the most comprehensive view of any given language. Why we don't give a few pages each day to students to learn by heart? 
+When I think of vocabulary, [I think of the dictionary](https://ss4ws.github.io/blog/2018/VIC/#/1). Why don’t we teach vocabulary _with_ the dictionary? Say, assign a few pages to students every day to learn by heart and then move to a few more pages and so on. Is vocabulary compatible with the dictionary? After all, a dictionary offers the most comprehensive view of any given language. Why we don't give a few pages each day to students to learn by heart? 
  
 ### 2. Use of the dictionary  
 
-A dictionary has very specific uses, none of which are helpful in teaching vocabulary in a foreign language class. The presentation of the words in the dictionary reflects the affordances of its medium –the codex. 
+[A dictionary has very specific uses](https://ss4ws.github.io/blog/2018/VIC/#/2), none of which are helpful in teaching vocabulary in a foreign language class. The presentation of the words in the dictionary reflects the affordances of its medium –the book. 
 
 - Alphabetical order. 
 
@@ -66,7 +67,7 @@ These days, dictionaries in their printed form are “endangered species”, if 
  
 ### 4. Les associations des mots 
 
-Let’s see what André Breton says about the words : 
+Let’s see what André Breton says about words: 
 
 >Les mots sont sujets à se grouper selon des affinités particulières, lesquelles ont généralement pour effet de leur faire recréer à chaque instant le monde sur son vieux modèle.[^1]  
 
