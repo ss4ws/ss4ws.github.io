@@ -100,7 +100,7 @@ __“Un siècle de bruits, du studio d’essai à Justin Bieber”__
 Quartier Français à la Maison Française, University of Virginia.
 
 <figcaption class="address p" style="float: right;">2014-2017</figcaption>
-__“Teaching vocabulary in context”__  
+__[“Teaching vocabulary in context”](https://ss4ws.github.io/blog/2018/VIC/#/)__  
 Annual graduate students’ orientation week, University of Virginia.
 
 
