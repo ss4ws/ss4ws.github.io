@@ -131,7 +131,7 @@ We seek the exact opposite with our students: we are happy when they are able to
  
 ### 12. L'accouchement de pizza
 
-We are not immune, however, to some “accidental surrealism”. Can you imagine what this student was trying to say? He translated an expression from English to French with the first word he found on the dictionary. 
+We are not immune, however, to some [“accidental surrealism”](https://ss4ws.github.io/blog/2018/VIC/#/12). Can you imagine what this student was trying to say?He translated an expression from English to French with the first word he found on the dictionary. 
  
 ### 13. Cacophonie 
 
@@ -213,5 +213,6 @@ Come up your own authentic material.
 
 #### Share! 
 Don’t forget: ideas are greater when shared. Share your class materials with your colleagues!
+
 <hr>
 ##### Footnotes: 
