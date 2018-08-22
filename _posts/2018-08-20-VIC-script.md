@@ -194,7 +194,7 @@ Approfondir le vocabulaire avec Espace Culture
 
 - Espace Cultures “Les voitures en France” vous pouvez renforcer et enrichir le vocabulaire appris.
 
-- [“Il vaut donc mieux avoir une petite voiture économique qui ne consomme pas beacoup d’essence…”]( http://www.youtube.com/watch?v=oyfi2WWvbnU&list=PL02A53EABD9EA4715&index=20)
+- [“Il vaut donc mieux avoir une petite voiture économique qui ne consomme pas beacoup d’essence…”](https://www.youtube.com/watch?v=TlVEZvLTEaU)
 
 - Après le visionnage demandez aux étudiants de décrire les [deux scènes](https://ss4ws.github.io/blog/2018/VIC/#/18/1) du film.
  
