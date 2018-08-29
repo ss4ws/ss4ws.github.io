@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall teaching calendar
+title: Fall Teaching Calendar & Lesson Planning
 excerpt: Office hours and teaching calendar for Fall 2018.     
 date: 2018-07-20 
 modified: 2018-08-28 20:11:16
