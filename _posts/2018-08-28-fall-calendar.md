@@ -2,8 +2,8 @@
 layout: post
 title: Fall Teaching Calendar & Lesson Planning
 excerpt: I will be posting here my lesson plans for FREN 1050 Accelerated French, every week.     
-date: 2018-07-20 
-modified: 2018-08-28 20:11:16
+date: 2018-08-28 
+modified: 2018-08-31 18:50:00 
 tags: 
 comments: true
 category: teaching

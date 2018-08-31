@@ -24,7 +24,7 @@ Voilà. That’s enough about me for now. Let’s go around and hear a little bi
  
 ### Vocabulary in Context 
 
-<figcaption class="address p" style="float: right;">Please find the slides of this presentation <a href="">here</a>.</figcaption><br>
+<figcaption class="address p" style="float: right;">Please find the slides of this presentation <a href="https://ss4ws.github.io/blog/2018/VIC/#/">here</a>.</figcaption><br>
 
 Before I start, I should say that my intention today is to have a dialogue with you, and to take this opportunity to start sharing ideas, comparing notes, and learning from each other. 
  
