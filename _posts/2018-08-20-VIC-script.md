@@ -11,7 +11,7 @@ category: teaching
 
 #### Introductions 
 
-Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia. I am working on an (overdue) dissertation on three contemporary French authors who publish online: François Bon, Éric Chevillard and Philippe De Jonckheere. 
+Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia. I am working on an (ahem) overdue dissertation on three contemporary French authors who publish online: François Bon, Éric Chevillard and Philippe De Jonckheere. 
  
 Given that the web has completely eroded the boundaries between producer and consumer, between form and content, and also between artistic disciplines, I am looking the websites of these three authors, as an expression of new poetic hybrids. 
 
