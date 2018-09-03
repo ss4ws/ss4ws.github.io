@@ -39,6 +39,6 @@ Je l’ai reçue peu après avoir déménagé dans un nouvel appartement et comm
 
 Plus tard, après avoir reçu ma photo par la poste, je me suis retourné sur le site de Nina Rendulic. Vu qu’il restait encore des photos, j’en ai commandé une deuxième pour une amie. C’était une photo en noir et blanc, le numéro 40. 
 
-Tout ce que je me souviens d'elle en ce moment c'est le chapeau d'un chef de cuisine, et le mot “amour" placé parmi d'autres dans son titre. Mais quel rapport entre les deux ? Est-ce qu'il est même nécessaire d'en chercher un ? Cette deuxième photo est aussi aujourd’hui quelque part chez moi. Renvoyée par la poste dans une boîte avec d’autres petites bricoles que j’avais offertes à cette amie. Les objets subissent aussi des déplacements en conséquence des ruptures. 
+Tout ce que je me souviens d'elle en ce moment c'est le chapeau d'un chef de cuisine, et le mot “amour" placé parmi d'autres dans son titre. Mais quel rapport entre les deux ? Est-ce qu'il est même nécessaire d'en chercher un ? Cette deuxième photo est aussi aujourd’hui quelque part chez moi. Renvoyée par la poste dans une boîte avec d’autres petites bricoles que j’avais offertes à cette amie. Les objets subissent aussi les conséquence des nos ruptures. 
 
 Ces deux photos sont maintenant à l’abri d’humeurs particulières. Perdues de vue mais bien rangées, elles feront le plus probablement leur apparition dans mon prochain déménagement.
