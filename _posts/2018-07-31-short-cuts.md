@@ -1,7 +1,7 @@
 ﻿--- 
 layout: post
 title: Short Cuts 
-excerpt: Deux brefs textes sur commande de Nina Rendulic à propos de son projet participatif _Short Cuts_. 
+excerpt: Deux brefs textes sur commande de Nina Rendulic à propos de son projet participatif Short Cuts. 
 date: 2018-07-31 14:01:28
 modified: 2018-09-02 18:51:17
 tags: [photo, projet, short cuts]
