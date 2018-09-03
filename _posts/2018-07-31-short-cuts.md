@@ -24,9 +24,9 @@ Un an après, Nina Rendulic se demande sur le sort de ces photos disseminées au
     « La pluie est arrivée cette nuit »
 </div>
 
-J’avais d’abord choisi arbitrairement la photo numéro 24. Éviter de trop y penser pour faire ce choix m’arrangeais bien. Le 24 c’est le jour de mon anniversaire. Mais elle n’était pas mal non plus la photo 24. Elle était plutôt bien. 
+J’avais d’abord choisi arbitrairement la photo numéro 24. Éviter de trop de penser pour faire ce choix m’arrangeais bien. Le 24 c’est le jour de mon anniversaire. Mais elle n’était pas mal non plus la photo 24. Elle était plutôt bien. 
 
-Je l’ai reçue peu après avoir déménagé dans un nouvel appartement et comme je n’avais pas grand-chose pour le décorer, je l’avais posée sur le manteau de la cheminée. Elle y est restée pendant quelques mois avant de trouver une autre place sur la bibliothèque dans ma chambre, puis… Je l’ai désormais perdue de vue, mais je ne me suis en aucun cas débarrassé d'elle. Je dois plutôt l’avoir rangée. Étant donné l’espace limité dont je dispose pour vivre, je suis à tout moment assailli par une marée d’objets. Faire des choix est donc impératif. Elle montre un lac ou une mare. J’éprouve une affinité avec ce paysage calme et méditatif, dérangé d'un brin par cette pluie nocturne de la phrase. J’aurais très bien pu l’avoir moi-même photographié. 
+Je l’ai reçue peu après avoir déménagé dans un nouvel appartement et comme je n’avais pas grand-chose pour le décorer, je l’avais posée sur le manteau de la cheminée. Elle y est restée pendant quelques mois avant de trouver une autre place sur la bibliothèque dans ma chambre, puis… Je l’ai désormais perdue de vue, mais je ne me suis en aucun cas débarrassé d'elle. Je dois plutôt l’avoir rangée. Étant donné l’espace limité dont je dispose pour vivre, je suis à tout moment assailli par une marée d’objets. Faire des choix est donc impératif. Elle montre un lac ou une mare. J’éprouve une affinité avec ce paysage calme et méditatif, dérangé d'un brin par cette pluie nocturne de son titre. J’aurais très bien pu l’avoir moi-même photographié. 
 
 ### Photo numéro 40 
 
@@ -37,8 +37,8 @@ Je l’ai reçue peu après avoir déménagé dans un nouvel appartement et comm
     « Une lettre d'amour d'un autre siècle, écrite en langue étrangère »
 </div>
 
-Plus tard, après avoir reçu ma photo par la poste je me suis retourné sur le site de Nina Rendulic. Vu qu’il restait encore des photos, j’en ai commandé une deuxième pour une amie. C’était une photo en noir et blanc, le numéro 40. 
+Plus tard, après avoir reçu ma photo par la poste, je me suis retourné sur le site de Nina Rendulic. Vu qu’il restait encore des photos, j’en ai commandé une deuxième pour une amie. C’était une photo en noir et blanc, le numéro 40. 
 
-Tout ce que je me souviens d'elle en ce moment c'est le chapeau d'un chef de cuisine, et le mot “amour" placé parmi d'autres dans la phrase scotchée. Mais quel rapport entre les deux ? Est-ce qu'il est même nécessaire d'en chercher un ? Cette deuxième photo est aussi aujourd’hui quelque part chez moi. Renvoyée par la poste dans une boîte avec d’autres petites bricoles que j’avais offertes à cette amie. Les objets subissent aussi des déplacements en conséquence des ruptures. 
+Tout ce que je me souviens d'elle en ce moment c'est le chapeau d'un chef de cuisine, et le mot “amour" placé parmi d'autres dans son titre. Mais quel rapport entre les deux ? Est-ce qu'il est même nécessaire d'en chercher un ? Cette deuxième photo est aussi aujourd’hui quelque part chez moi. Renvoyée par la poste dans une boîte avec d’autres petites bricoles que j’avais offertes à cette amie. Les objets subissent aussi des déplacements en conséquence des ruptures. 
 
 Ces deux photos sont maintenant à l’abri d’humeurs particulières. Perdues de vue mais bien rangées, elles feront le plus probablement leur apparition dans mon prochain déménagement.
