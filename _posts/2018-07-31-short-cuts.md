@@ -11,7 +11,7 @@ category: blog
 
 Par quel hasard je me suis retrouvé sur [son site](http://www.je-me-dis.com), je ne saurais pas dire. Ce sillage enterré dans l’historique de mon navigateur, j'aurais pu le consulter, si seulement je ne l’avais pas supprimé plusieurs fois depuis.
 
-[Short Cuts](http://www.je-me-dis.com/shortcuts-the-end/) de Nina Rendulic demandait la participation des internautes. Ceux-ci pouvait choisir une des 52 photos qu’elle avait prises et elle leur enverrait par la poste, un exemplaire imprimé, monté sur fond de carton noir. Chaque photo venait avec une courte phrase scotchée dessus. 
+[Short Cuts](http://www.je-me-dis.com/shortcuts-the-end/) de Nina Rendulic demandait la participation des internautes. Ceux-ci pouvaient choisir une des 52 photos qu’elle avait prises et elle leur enverrait par la poste, un exemplaire imprimé, monté sur fond de carton noir. Chaque photo venait avec une courte phrase scotchée dessus. 
 
 Un an après, Nina Rendulic se demande sur le sort de ces photos disseminées aux quatre coins du monde et en demande aux participants des nouvelles. J'avais ignoré son e-mail au début. Mais elle m'a aussi dépisté sur Twitter où elle a gentiment renouvellé sa sollicitation. Ma réponse, tardive, a été rédigée sans consultation des photos. Je les ai pourtant retrouvées, après coup sur son site, et je les réproduis ici.   
 
