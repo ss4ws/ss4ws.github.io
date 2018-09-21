@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Spyridon</strong> Simotas
-description: PhD Student in French. Praxis Fellow at the Scholars' Lab. 
+description: PhD Student in French. Praxis Program Alumni at the Scholars' Lab. 
 
 profile:
   align: right
