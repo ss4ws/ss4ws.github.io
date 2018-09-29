@@ -2,7 +2,7 @@
 layout: post
 title: New Website 
 excerpt: Where I decide to take more control of my website, by rebuidling it from scratch.     
-date: 2018-07-14
+date: 2018-07-18
 modified: 2018-09-29 00:22:13
 tags: [website, jekyll, digital literacy skills]
 comments: true
