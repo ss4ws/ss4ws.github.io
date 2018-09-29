@@ -40,7 +40,5 @@ Among a number of tweaks, which are too numerous to list here, the main two addi
 **Future customizations and troubleshooting**   
 Due to some compatibility issues with Safari, the links are not highlighted in red as intended. I will have to figure that out at some point. Also, as the website grows, it will probably need more than one way to sort information. Maybe a projects page will be helpful, or a categories archive [like this one](https://mmistakes.github.io/so-simple-theme/categories/).
 
-<small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small><br>
-
 <hr>
 ##### Footnote: 
