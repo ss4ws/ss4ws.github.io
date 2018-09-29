@@ -5,4 +5,4 @@ modified: 2018-07-27
 inline: true
 ---
 
-[☞ New Website](t)
+[☞ New Website](https://ss4ws.github.io/blog/2018/new-website/)
