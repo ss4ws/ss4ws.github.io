@@ -8,7 +8,7 @@ tags: teaching, vocabulary, context
 comments: true
 category: teaching
 ---
-Table of content 
+ 
 <!-- TOC -->
 
 - [Introductions](#introductions)
