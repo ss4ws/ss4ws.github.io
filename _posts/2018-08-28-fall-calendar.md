@@ -8,17 +8,23 @@ tags:
 comments: true
 category: teaching
 ---
-Office: 
+
+
+#### Office: 
+
 - NCH 344   
 
-Office Hours: 
+#### Office Hours: 
+
 - Mon & Wed: 12 - 1pm  
 
-E-porfolio: 
+#### E-porfolio: 
+
 - [FLLeP - Foreign Language Learning e-Portfolio Guidelines](http://simp.ly/publish/LhgQmV), 
 - [E-porfolio Activities](http://simp.ly/publish/LtZD0m)
 
-Lesson planning: 
+#### Lesson planning: 
+
 - [Week 1](http://simp.ly/publish/ZGHPVp) 
 - [Week 2](https://app.simplenote.com/publish/CTLRzX) 
 - [Week 3](https://app.simplenote.com/publish/MyxJt8)   

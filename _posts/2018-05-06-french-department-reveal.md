@@ -7,7 +7,20 @@ tags:
 comments: true
 category: dh-projects
 ---
+
+<!-- TOC -->
+
+- [About this project](#about-this-project)
+- [Augmenting the Fragmented Reality](#augmenting-the-fragmented-reality)
+- [1. Rabelais](#1-rabelais)
+- [2. Luc Ferrari](#2-luc-ferrari)
+- [3. Georges Perec](#3-georges-perec)
+
+<!-- /TOC -->
+
 <figcaption class="address p" style="float: right;">Cross posted in <a href="http://reveal.scholarslab.org/">UVA Reveal website.</a></figcaption><br>
+
+### About this project 
 
 This project is designed for both UVA students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will benefit from it equally, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.
 

@@ -8,8 +8,38 @@ tags: teaching, vocabulary, context
 comments: true
 category: teaching
 ---
+Table of content 
+<!-- TOC -->
 
-#### Introductions 
+- [Introductions](#introductions)
+- [Vocabulary in Context](#vocabulary-in-context)
+    - [1. The dictionary](#1-the-dictionary)
+    - [2. Use of the dictionary](#2-use-of-the-dictionary)
+    - [3. Endangered Species](#3-endangered-species)
+    - [4. Les associations des mots](#4-les-associations-des-mots)
+    - [5. Claude Shannon’s experiment](#5-claude-shannons-experiment)
+    - [6. Predictability and Surprise](#6-predictability-and-surprise)
+    - [7. Word networks](#7-word-networks)
+    - [8. Definition of context.](#8-definition-of-context)
+    - [9. Importance of context.](#9-importance-of-context)
+    - [10. Brouiller l'ordre des mots](#10-brouiller-lordre-des-mots)
+    - [12. L'accouchement de pizza](#12-laccouchement-de-pizza)
+    - [13. Cacophonie](#13-cacophonie)
+    - [14. Vocabulary learning with Espace and Imaginez](#14-vocabulary-learning-with-espace-and-imaginez)
+    - [15. Example Avenir-Métiers](#15-example-avenir-métiers)
+    - [16. Example Espace vert](#16-example-espace-vert)
+    - [17. Inversez l'ordre du livre](#17-inversez-lordre-du-livre)
+    - [18. Approfondir le vocabulaire avec espaces cultures](#18-approfondir-le-vocabulaire-avec-espaces-cultures)
+    - [19. Summary](#19-summary)
+        - [Use the book!](#use-the-book)
+        - [Get inspired!](#get-inspired)
+        - [Be Creative!](#be-creative)
+        - [Share!](#share)
+- [Footnotes](#footnotes)
+
+<!-- /TOC -->
+
+## Introductions 
 
 Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia. I am working on an (ahem) overdue dissertation on three contemporary French authors who publish online: François Bon, Éric Chevillard and Philippe De Jonckheere. 
  
@@ -22,7 +52,7 @@ Speaking of Digital Humanities, starting this year a new Digital Humanities trac
 Voilà. That’s enough about me for now. Let’s go around and hear a little bit about you! 
 
  
-### Vocabulary in Context 
+## Vocabulary in Context 
 
 <figcaption class="address p" style="float: right;">Please find the slides of this presentation <a href="https://ss4ws.github.io/blog/2018/VIC/#/">here</a>.</figcaption><br>
 
@@ -217,4 +247,4 @@ Come up your own authentic material.
 Don’t forget: ideas are greater when shared. Share your class materials with your colleagues!
 
 <hr>
-##### Footnotes: 
+## Footnotes 
