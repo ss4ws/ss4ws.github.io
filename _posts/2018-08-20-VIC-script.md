@@ -3,7 +3,7 @@ layout: post
 title: Teaching Vocabulary in Context
 excerpt: Script of my oral presentation during the Orientation Week for the incoming graduate students at the Department of French. 
 date: 2018-08-20  
-modified:
+modified: 2018-09-30 17:54:03
 tags: teaching, vocabulary, context
 comments: true
 category: teaching
