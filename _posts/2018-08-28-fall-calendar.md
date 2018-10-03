@@ -9,7 +9,6 @@ comments: true
 category: teaching
 ---
 
-
 #### Office: 
 
 - NCH 344   
@@ -22,6 +21,10 @@ category: teaching
 
 - [FLLeP - Foreign Language Learning e-Portfolio Guidelines](http://simp.ly/publish/LhgQmV), 
 - [E-porfolio Activities](http://simp.ly/publish/LtZD0m)
+
+#### Travaux d'écriture 
+- [Ébauche / Rédaction 1](https://app.simplenote.com/publish/nvwBpC) 
+- [Code de correction des compositions](https://app.simplenote.com/publish/95gYWN)  
 
 #### Lesson planning: 
 
