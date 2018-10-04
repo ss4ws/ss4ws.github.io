@@ -8,7 +8,10 @@ tags: teaching, vocabulary, context
 comments: true
 category: teaching
 ---
- 
+
+<figcaption><em>After my first year of teaching at the University of Virginia, <a href="http://french.as.virginia.edu/people/profile/ksj7c">Professor Karen James</a> asked me to give this presentation to the incoming cohort of graduate students. Since then, I have presented it four times to four different cohorts. This is the latest iteration.</em></figcaption><br>
+
+Table of contents  
 <!-- TOC -->
 
 - [Introductions](#introductions)
