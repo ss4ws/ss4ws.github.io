@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fall Teaching Calendar & Lesson Planning
+title: 2018 Fall Teaching Calendar & Lesson Planning
 excerpt: I will be posting here my lesson plans for FREN 1050 Accelerated French, every week.     
 date: 2018-08-28 
-modified: 2018-09-29 
-tags: 
+modified: 2018-10-09 
+tags: teaching, lesson planning, FREN 1050, accelerated French 
 comments: true
 category: teaching
 ---
@@ -28,14 +28,19 @@ category: teaching
 
 #### Lesson planning: 
 
-- [Week 1](http://simp.ly/publish/ZGHPVp) 
-- [Week 2](https://app.simplenote.com/publish/CTLRzX) 
-- [Week 3](https://app.simplenote.com/publish/MyxJt8)   
-- [Week 4](http://simp.ly/publish/nWV6q8)  
-- [Week 5](https://app.simplenote.com/publish/m8lNwq)
-- [Week 6](https://app.simplenote.com/publish/9ktzXq)  
-- [Week 7](https://app.simplenote.com/publish/5XfkBN)
+| Weeks 1-8 	                                        | Weeks 9-15	   |
+|:------------------------------------------------------|:-----------------|
+| [Week 1](https://app.simplenote.com/publish/ZGHPVp)   | [Week 9]()       |
+| [Week 2](https://app.simplenote.com/publish/CTLRzX)   | [Week 10]()      |
+| [Week 3](https://app.simplenote.com/publish/MyxJt8)   | [Week 11]()      |
+| [Week 4](https://app.simplenote.com/publish/nWV6q8)   | [Week 12]()      |
+| [Week 5](https://app.simplenote.com/publish/m8lNwq)   | [Week 13]()      |
+| [Week 6](https://app.simplenote.com/publish/9ktzXq)   | [Week 14]()      |
+| [Week 7](https://app.simplenote.com/publish/5XfkBN)  	| [Week 15]()  	   |
+| [Week 8]()                                            |                  | 
+
+---
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=virginia.edu_nf5j6ocml9bijdeg9aluej4710%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-
+---
