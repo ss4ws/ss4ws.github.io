@@ -23,7 +23,7 @@ category: teaching
 - [E-porfolio Activities](http://simp.ly/publish/LtZD0m)
 
 #### Travaux d'écriture 
-- [Ébauche / Rédaction 1](https://app.simplenote.com/publish/nvwBpC) 
+- [Ébauche / Redaction 1](https://app.simplenote.com/publish/nvwBpC) 
 - [Code de correction des compositions](https://app.simplenote.com/publish/95gYWN)  
 
 #### Lesson planning: 
