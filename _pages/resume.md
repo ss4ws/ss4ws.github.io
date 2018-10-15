@@ -1,9 +1,10 @@
 ---
+title: "vitæ"
 layout: default
-title: vitæ
-date: 2018-02-05
-modified: 2018-04-28
-toc: true
+date: '2018-02-05'
+output: pdf_document
+modified: '2018-04-28'
+toc: yes
 ---
 
 <div class="header-bar">
@@ -43,9 +44,13 @@ _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon
 
 ## RESEARCH INTERESTS
 
-20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
-Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
-Visual Studies.
+- 20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
+- Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
+- Visual Studies.
+- Literature and new media.
+- Materiality of the text.
+- History of the book and publishing.
+- Arts in digital space.
 
 ## PUBLICATIONS
 
@@ -107,9 +112,9 @@ Annual graduate students’ orientation week, University of Virginia.
 ## TEACHING EXPERIENCE
 
 <figcaption class="address p" style="float: right;">2013-2019</figcaption>
-__Teaching Assistant__   
+__Teaching Assistant__,  
 University of Virginia  
-Representative courses: different sections of beginner and intermediate French.
+Representative courses: beginner, intermediate, and accelerated French.
 
 <figcaption class="address p" style="float: right;">2014-2016</figcaption>
 __Instructor at the Summer Language Institute__  
@@ -118,7 +123,7 @@ University of Virginia
 <figcaption class="address p" style="float: right;">2002-2003</figcaption>
 __Lecturer__  
 University of California, Santa Barbara  
-Representative courses: different sections of beginner and intermediate French.
+Representative courses: beginner and intermediate French.
 
 <figcaption class="address p" style="float: right;">2014-2016</figcaption>
 __French tutor__  
@@ -172,7 +177,7 @@ __Mellon Foundation Graduate Fellowship__
 
 <figcaption class="address p" style="float: right;">2016-2018</figcaption>
 __Travel Grants__  
-Department of Frecnh, University of Virginia.   
+Department of French, University of Virginia.   
 
 ## PROFESSIONAL DEVELOPMENT
 
