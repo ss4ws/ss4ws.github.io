@@ -37,7 +37,7 @@ category: teaching
 | [Week 5](https://app.simplenote.com/publish/m8lNwq)   | [Week 13]()      |
 | [Week 6](https://app.simplenote.com/publish/9ktzXq)   | [Week 14]()      |
 | [Week 7](https://app.simplenote.com/publish/5XfkBN)  	| [Week 15]()  	   |
-| [Week 8]()                                            |                  | 
+| [Week 8](https://app.simplenote.com/publish/ScLlY2)                                            |                  | 
 
 ---
 
