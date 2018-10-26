@@ -30,8 +30,8 @@ category: teaching
 
 | Weeks 1-8 	                                        | Weeks 9-15	   |
 |:------------------------------------------------------|:-----------------|
-| [Week 1](https://app.simplenote.com/publish/ZGHPVp)   | [Week 9](https://app.simplenote.com/publish/K9GWcM)|
-| [Week 2](https://app.simplenote.com/publish/CTLRzX)   | [Week 10]()                                        |
+| [Week 1](https://app.simplenote.com/publish/ZGHPVp)   | [Week 9](https://app.simplenote.com/publish/K9GWcM) |
+| [Week 2](https://app.simplenote.com/publish/CTLRzX)   | [Week 10](https://app.simplenote.com/publish/C2pWwW)|
 | [Week 3](https://app.simplenote.com/publish/MyxJt8)   | [Week 11]()|
 | [Week 4](https://app.simplenote.com/publish/nWV6q8)   | [Week 12]()|
 | [Week 5](https://app.simplenote.com/publish/m8lNwq)   | [Week 13]()|
