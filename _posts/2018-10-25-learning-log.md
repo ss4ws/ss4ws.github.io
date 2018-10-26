@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Log 
-excerpt: A form designed to help students record and see their progress overtime.    
+excerpt: A form designed to help students record and see their progress over time.    
 date: 2018-10-25 23:02:53 
 modified: 
 tags: teaching, learning, tracking 
