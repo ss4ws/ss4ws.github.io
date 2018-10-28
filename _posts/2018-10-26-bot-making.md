@@ -28,5 +28,4 @@ in what is most fragile in #myNoun# –real #myNoun#, I mean–
 that in the end this belief is lost.  \\#puzzlepoem"]
 ~~~~
 
-And here is [the complete program](cheapbotsdonequick.com/source/ss4ws). Scroll down the page and press the refresh button to see it in action. 
-     
+And here is [the complete program](cheapbotsdonequick.com/source/ss4ws). Scroll down the page and press the refresh button to see it in action.
