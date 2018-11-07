@@ -250,13 +250,12 @@ __Greek:__ native
 ## DIGITAL LITERACY 
 
 __Office Suites:__ Microsoft & Google  
-__Web development:__ Markdown, HTML, CSS  
-__Content Management Systems:__ WordPress, Digication, Drupal 
-__Project Management & Communication:__ Slack, Asana, Trello, Basecamp  
+__Web development:__ Markdown, Jekyll, Github, HTML, CSS  
+__Content Management Systems:__ WordPress, Digication, Drupal   
+__Project Management:__ Slack, Asana, Trello, Basecamp  
 
 ## REFERENCES
 
 Available upon request.
-
 
 <small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
