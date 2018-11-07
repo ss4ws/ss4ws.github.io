@@ -243,17 +243,16 @@ University of Virginia
 
 ## LANGUAGES
 
-__English__: near native    
-__French__: near native  
-__Greek__: native  
+__English:__ near native    
+__French:__ near native  
+__Greek:__ native  
 
 ## DIGITAL LITERACY 
 
-__Microsoft & Google Suites__
-__Markdown, HTML & CSS__
-__Slack__
-__Asana, Trello, Basecamp__
-__WordPress, Digication, Drupal__ 
+__Office Suites:__ Microsoft & Google  
+__Web development:__ Markdown, HTML, CSS  
+__Content Management Systems:__ WordPress, Digication, Drupal 
+__Project Management & Communication:__ Slack, Asana, Trello, Basecamp  
 
 ## REFERENCES
 
