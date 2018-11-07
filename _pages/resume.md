@@ -248,6 +248,7 @@ __French__: near native
 __Greek__: native  
 
 ## DIGITAL LITERACY 
+
 __Microsoft & Google Suites__
 __Markdown, HTML & CSS__
 __Slack__
