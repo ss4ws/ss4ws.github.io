@@ -3,7 +3,7 @@ title: "vitæ"
 layout: default
 date: '2018-02-05'
 output: pdf_document
-modified: 2018-10-15 05:53:13
+modified: 2018-11-07 15:51:50
 toc: yes
 ---
 
@@ -247,6 +247,12 @@ __English__: near native
 __French__: near native  
 __Greek__: native  
 
+## DIGITAL LITERACY 
+__Microsoft & Google Suites__
+__Markdown, HTML & CSS__
+__Slack__
+__Asana, Trello, Basecamp__
+__WordPress, Digication, Drupal__ 
 
 ## REFERENCES
 
