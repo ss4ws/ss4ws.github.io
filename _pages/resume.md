@@ -28,7 +28,7 @@ Use this snippet code to add a link to download CV in pdf.
 <figcaption class="address p" style="float: right;">2013 - (in progress)</figcaption>
 __University of Virginia__   
 _PhD_ - French Contemporary Literature and Digital Media  
-_Dissertation_: _Dans les marges, l'espace littéraire numérique_  
+_Dissertation_: _Brouillon net: artisans du web, et écriture à l’ère numérique_  
 _Summary_: `insert summary here`
 
 
@@ -48,6 +48,7 @@ _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon
 - Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
 - Visual Studies.
 - Literature and new media.
+- Digital Publishing.
 - Materiality of the text.
 - History of the book and publishing.
 - Arts in digital space.
@@ -70,42 +71,46 @@ __“Past Life.”__
 
 ## CONFERENCES
 
+<figcaption class="address p" style="float: right;">2019</figcaption>
+__L’Incendie du Hilton de François Bon: face à «l’immense catastrophe ordinaire du monde»__  
+Annual 20th–21st Century French and Francophone Studies International Colloquium: Catastrophes, cataclysmes, s’adapter et survivre, University of Central Oklahoma | University of Oklahoma | University of Tulsa, Oklahoma City, OK.
+
 <figcaption class="address p" style="float: right;">2018</figcaption>
-__“Les graffiti oraux de François Bon”__  
+__Les graffiti oraux de François Bon__  
 Annual 20th–21st Century French and Francophone Studies International Colloquium: Sous les pavés..., Brown College, Providence, Rhode Island.
 
 <figcaption class="address p" style="float: right;">2017</figcaption>
-__“Désordre de Philippe de Jonckheere: Fracas visuel dans l’espace mémoire”__  
+__Désordre de Philippe de Jonckheere: Fracas visuel dans l’espace mémoire__  
 Annual 20th–21st Century French and Francophone Studies International Colloquium: Le sens et les sens, Bloomington, Indiana.
 
 <figcaption class="address p" style="float: right;">2016</figcaption>
-__“Entrées par ordre alphabétique dans l’espace du dedans”__  
+__Entrées par ordre alphabétique dans l’espace du dedans__  
 Annual 20th–21st Century French and Francophone Studies International Colloquium: Passages, Seuils, Portes, St-Louis, Missouri.
 
 <figcaption class="address p" style="float: right;">2015</figcaption>
-__“François Bon à haute voix dans les ronds points”__  
+__François Bon à haute voix dans les ronds points__  
 Annual graduate students’ conference: Writing out loud: Orality and Aurality in Literature, Princeton University, New Jersey.
 
 <figcaption class="address p" style="float: right;">2016</figcaption>
-__"E-portfolio's reliance on technology (digital literacy)”__  
+__E-portfolio's reliance on technology (digital literacy)__  
 AAEEBL Southeast Regional Conference, Virginia Tech.
 
 ## PRESENTATIONS & WORKSHOPS
 
 <figcaption class="address p" style="float: right;">2017</figcaption>
-__“Workshop on video making with a smartphone”__  
+__Workshop on video making with a smartphone__  
 Architecture School, University of Virginia.
 
 <figcaption class="address p" style="float: right;">2016</figcaption>
-__“Designing e-portfolio Assignments”__  
+__Designing e-portfolio Assignments__  
 Institute of World Languages Faculty Retreat, University of Virginia.
 
 <figcaption class="address p" style="float: right;">2016</figcaption>
-__“Un siècle de bruits, du studio d’essai à Justin Bieber”__  
+__Un siècle de bruits, du studio d’essai à Justin Bieber__  
 Quartier Français à la Maison Française, University of Virginia.
 
 <figcaption class="address p" style="float: right;">2014-2017</figcaption>
-__[“Teaching vocabulary in context”](https://ss4ws.github.io/blog/2018/VIC/#/)__  
+__[Teaching vocabulary in context](https://ss4ws.github.io/blog/2018/VIC/#/)__  
 Annual graduate students’ orientation week, University of Virginia.
 
 
