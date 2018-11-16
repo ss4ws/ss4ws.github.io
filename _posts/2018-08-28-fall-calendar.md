@@ -10,16 +10,7 @@ category: teaching
 ---
 
 TABLE OF CONTENTS:
-<!-- TOC -->
-
-- [Office Hours](#office-hours)
-- [E-porfolio](#e-porfolio)
-- [Oral Exams](#oral-exams)
-- [E-mail: How not to abuse it.](#e-mail-how-not-to-abuse-it)
-- [Lesson planning](#lesson-planning)
-- [Calendar](#calendar)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [Office Hours](#office-hours)auto- [E-porfolio](#e-porfolio)auto- [Oral Exams](#oral-exams)auto- [E-mail: How not to abuse it.](#e-mail-how-not-to-abuse-it)auto- [Lesson planning](#lesson-planning)auto- [Calendar](#calendar)autoauto<!-- /TOC -->
 ---
 
 #### Office Hours 
@@ -54,9 +45,9 @@ TABLE OF CONTENTS:
 | [Week 2](https://app.simplenote.com/publish/CTLRzX)   | [Week 10](https://app.simplenote.com/publish/C2pWwW)|
 | [Week 3](https://app.simplenote.com/publish/MyxJt8)   | [Week 11](https://app.simplenote.com/publish/WJ5FKh)|
 | [Week 4](https://app.simplenote.com/publish/nWV6q8)   | [Week 12](https://app.simplenote.com/publish/0n88GD)|
-| [Week 5](https://app.simplenote.com/publish/m8lNwq)   | [Week 13]()|
-| [Week 6](https://app.simplenote.com/publish/9ktzXq)   | [Week 14]()|
-| [Week 7](https://app.simplenote.com/publish/5XfkBN)  	| [Week 15]()|
+| [Week 5](https://app.simplenote.com/publish/m8lNwq)   | [Week 13](https://app.simplenote.com/publish/DbyzwH)|
+| [Week 6](https://app.simplenote.com/publish/9ktzXq)   | [Week 14](https://app.simplenote.com/publish/NXy15C)|
+| [Week 7](https://app.simplenote.com/publish/5XfkBN)  	| [Week 15](https://app.simplenote.com/publish/zdJmJ3)|
 | [Week 8](https://app.simplenote.com/publish/ScLlY2)   |            | 
 
 
