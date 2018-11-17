@@ -9,17 +9,14 @@ comments: true
 category: teaching
 ---
 
-TABLE OF CONTENTS:
-<!-- TOC -->autoauto- [Office Hours](#office-hours)auto- [E-porfolio](#e-porfolio)auto- [Oral Exams](#oral-exams)auto- [E-mail: How not to abuse it.](#e-mail-how-not-to-abuse-it)auto- [Lesson planning](#lesson-planning)auto- [Calendar](#calendar)autoauto<!-- /TOC -->
----
-
 #### Office Hours 
+
 - NCH 344, Mon & Wed: 12 - 1pm  
 
+#### E-portfolio
 
-#### E-porfolio
 - [FLLeP - Foreign Language Learning e-Portfolio Guidelines](http://simp.ly/publish/LhgQmV) 
-- [E-porfolio Activities & Reflection Prompts](http://simp.ly/publish/LtZD0m)
+- [E-portfolio Activities & Reflection Prompts](http://simp.ly/publish/LtZD0m)
 - [E-portfolio Items](https://app.simplenote.com/publish/BG7GwV) 
 - [Cultural Project](https://app.simplenote.com/publish/Y4C1XJ)
 - [Composition 1](https://app.simplenote.com/publish/nvwBpC) 
@@ -42,7 +39,7 @@ TABLE OF CONTENTS:
 #### Lesson planning 
 
 | Weeks 1-8 	                                        | Weeks 9-15	   |
-|:------------------------------------------------------|:-----------------|
+|:------------------------------------------------------|-----------------:|
 | [Week 1](https://app.simplenote.com/publish/ZGHPVp)   | [Week 9](https://app.simplenote.com/publish/K9GWcM) |
 | [Week 2](https://app.simplenote.com/publish/CTLRzX)   | [Week 10](https://app.simplenote.com/publish/C2pWwW)|
 | [Week 3](https://app.simplenote.com/publish/MyxJt8)   | [Week 11](https://app.simplenote.com/publish/WJ5FKh)|
