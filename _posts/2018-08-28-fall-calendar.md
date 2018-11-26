@@ -21,7 +21,7 @@ category: teaching
 - [Cultural Project](https://app.simplenote.com/publish/Y4C1XJ)
 - [Composition 1](https://app.simplenote.com/publish/nvwBpC) 
 - [Composition 2](https://app.simplenote.com/publish/PC7326)
-- [Composition 3](http://simp.ly/publish/tGG3QY) 
+- [Composition 3](https://app.simplenote.com/publish/NYhtRn) 
 - [Code de correction des compositions](https://app.simplenote.com/publish/95gYWN)  
 
 
