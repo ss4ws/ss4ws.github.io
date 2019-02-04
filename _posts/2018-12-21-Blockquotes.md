@@ -185,15 +185,24 @@ Vanessa Place and Robert Fitterman, Notes on Conceptualisms, 2013.
 
 - - - 
 
-### Michaux - alphabet 
+### Henri Michaux 
 
-> Une de mes joies de toujours, c’est dans un état détaché, souvent sorti d’un découragement, de contempler un entassement non panoramique des efforts de l’humanité. Je prends donc un dictionnaire. Tous ces bourgeons humains, dans leurs foule alphabétique (je ne lis aucune définition) bien plus qu’aucune grande idée, m’émeuvent et m’agrandissent tout en m’humiliant justement. 
+> Il serait bien extraordinaire que des milliers d’événements qui surviennent chaque année résultât une harmonie parfaite. Il y en a toujours qui ne se passent pas, et qu’on garde en soi, blessants.  
+Une des choses à faire : l’exorcisme.  
+> Toute situation est dépendance et centaines de dépendances. Il serait inouï qu’il en résultât une satisfaction sans ombre ou qu’un homme pût, si actif fût-il, les combattre toutes efficacement, dans la réalité.  
+Une des choses à faire : l’exorcisme.  
+> L’exorcisme, réaction en force, en attaque de bélier, est le véritable poème du prisonnier.  
+> Dans le lieu même de la souffrance et de l’idée fixe, on introduit une exaltation telle, une si magnifique violence, unies au martèlement des mots, que le mal progressivement dissous est remplacé par une boule aérienne et démoniaque – état merveilleux ! […]  
+> Cette montée verticale et explosive est un des grands moments de l’existence. On ne saurait assez en conseiller l’exercice à ceux qui vivent malgré eux en dépendance malheureuse. La plupart des textes qui suivent sont en quelque sorte des exorcismes par ruse. Leur raison d’être : tenir en échec les puissances environnantes du monde hostile.  
+Préface d' *Épreuves, Exorcismes* 
+
+> Une de mes joies de toujours, c’est dans un état détaché, souvent sorti d’un découragement, de contempler un entassement non panoramique des efforts de l’humanité. Je prends donc un dictionnaire. Tous ces bourgeons humains, dans leurs foule alphabétique (je ne lis aucune définition) bien plus qu’aucune grande idée, m’émeuvent et m’agrandissent tout en m’humiliant justement.  
 > Etincelles du monde du dehors et du dedans, j’y contemple le multitude d’être homme, la vie aux infinies impressions et vouloir être, et j’observe que ce n’est pas en vain que le monde humain existe. Même je succombe bientôt à ces myriades d’orbites. Passages,  Michaux    
 
 
 
-> J’ai le le sentiment de l’insuffisance, vous voyez, de la mienne, de celle des autres aussi.  
-> Il n’est pas trop de toute une vie pour s’apercevoir qu’on n’est pas original, qu’on ne l’a jamais été, qu’on ne pourrait pas l’être, que personne ne l’est, fait d’un bric-à-brac de meubles appartement à d’autres, à tant d’autres.  (Michaux, Entretien avec Robert Bréchon) 
+> J’ai le le sentiment de l’insuffisance, vous voyez, de la mienne, de celle des autres aussi.  
+> Il n’est pas trop de toute une vie pour s’apercevoir qu’on n’est pas original, qu’on ne l’a jamais été, qu’on ne pourrait pas l’être, que personne ne l’est, fait d’un bric-à-brac de meubles appartement à d’autres, à tant d’autres.  (Michaux, Entretien avec Robert Bréchon) 
 
 > Je ne cherche pas à établir des hierarchies et je ne m’attarde pas aux écrivains que j’ai aimés. La vie est une nutrition. Il faut sans cesse  consommer… et consumer. On  aime une pomme, mais on la digère. Un être humain aussi on l’épuise, et une œuvre humaine ; surtout on dérive petit à petit, appelé par son propre besoin, emporté par son courant à soi. —Entretien avec Robert Bréchon 
 
