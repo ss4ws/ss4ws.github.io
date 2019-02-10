@@ -17,6 +17,20 @@ category: blog, work in progress
     
 </div>
 
+### Antonin Artaud - Le théâtre et son double 
+
+> “Protestation contre le rétrécissement insensé que l’on impose à l’idée de culture en la réduisant à une sorte d’inconcevable Panthéon ; ce qui donne une idolâtrie de la culture, comme les religions idolâtres mettent des dieux dans leur Panthéon.
+> Protestation contre l’idée séparée que l’on se fait de la culture, comme s’il y avait la culture d’un côté et la vie de l’autre ; et comme si la vraie culture n’était pas un moyen raffiné de comprendre et d’exercer la vie.”
+
+> “On doit en finir avec cette superstition des textes et de la poésie écrite. La poésie écrite vaut une fois et ensuite qu’on la détruise. Que les poètes morts laissent la place aux autres. Et nous pourrions tout de même voir que c’est notre vénération devant ce qui a été déjà fait, si beau et si valable que ce soit, qui nous pétrifie, qui nous stabilise et nous empêche de prendre contact avec la force qui est dessous, qu’on l’appelle l’énergie pensante, la force vitale, le déterminisme des échanges, les menstrues de la lune ou tout ce qu’on voudra. Sous la poésie des textes, il y a la poésie tout court, sans forme et sans texte.”
+
+> “Assez de poèmes individuels et qui profitent à ceux qui les font beaucoup plus qu’à ceux qui les lisent.  
+Assez une fois pour toutes de ces manifestations d’art fermé, égoïste et personnel.  
+Notre anarchie et notre désordre d’esprit est fonction de l’anarchie du reste, – ou plutôt c’est le reste qui est fonction de cette anarchie.”  
+
+> “Ou nous ramènerons tous les arts à une attitude et à une nécessité centrales, trouvant une analogie entre un geste fait dans la peinture ou au théâtre, et un geste fait par la lave dans le désastre d’un volcan, ou nous devons cesser de peindre, de clabauder, d’écrire et de faire quoi que ce soit.”
+
+
 ### Bruce Bégout, _La Découverte Du Quotidien_ (Paris: Allia, 2005).
 
 > «Le monde quotidien est comme le motif dans le tapis de la nouvelle éponyme d’Henry James : si manifeste partout qu’il en devient invisible. Nous croyons toujours déjà savoir ce qu’il est, et c’est justement cette certitude préjudicative qui nous interdit d’en comprendre la profondeur et d’en saisir la complexité.» p. 21 
@@ -228,5 +242,3 @@ Préface d' *Épreuves, Exorcismes*
 > Although pataphysics is at root a literary phenomenon, it has, as we shall see, has an impact on music, cinema, the visual arts, theater, performance, and, more recently, digital media. It has also informed aspects of business, economics, politics, and, increasingly, science itself, especially computer science. (Pataphysics, A useless guide, Andrew Hugill)
 
 > …pataphysics has managed to sustain itself most effectively (than any other avant-guard mouvements), finding fertile ground in any mind that thinks the objective truths of empiricism at least demand a little playful tweaking, if not wholesale reevaluation. 
-
-
