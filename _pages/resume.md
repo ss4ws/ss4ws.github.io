@@ -24,12 +24,12 @@ Use this snippet code to add a link to download CV in pdf.
 -->
 ## EDUCATION	
 
- <figcaption class="address p" style="float: right;">2013 - (in progress)</figcaption>	
+ <figcaption class="address p" style="float: right;">2013 - (in progress)</figcaption>
  
-__University of Virginia__   	
-_PhD_ - French Contemporary Literature and Digital Media  	
-_Dissertation_: _Brouillon net: artisans du web, et écriture à l’ère numérique_  	
-_Summary_: `insert summary here`	
+__University of Virginia__  
+_PhD_ - French Contemporary Literature and Digital Media  
+_Dissertation_: _Brouillon net: artisans du web, et écriture à l’ère numérique_  
+_Abstract_: `insert summary here`	
 
 
 <figcaption class="address p" style="float: right;">2001-2002</figcaption>
