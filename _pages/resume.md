@@ -10,6 +10,7 @@ toc: yes
 <div class="header-bar">
   <h1>Curriculum Vitæ</h1>
   <!-- <h2>[Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})</h2> -->
+  <p><a href="https://ss4ws.github.io/markdown-cv/">Print friendly version</a></p>
 </div>
 
 <!--
@@ -29,7 +30,7 @@ Use this snippet code to add a link to download CV in pdf.
 __University of Virginia__  
 _PhD_ - French Contemporary Literature and Digital Media  
 _Dissertation_: _Brouillon net: artisans du web, et écriture à l’ère numérique_  
-_Abstract_: `insert summary here`	
+_Abstract_: `insert abstract here`
 
 
 <figcaption class="address p" style="float: right;">2001-2002</figcaption>
@@ -285,6 +286,9 @@ __Copywriter__
 Spot JWT, Athens, Greece.
 
 ## ACADEMIC SERVICE
+
+<figcaption class="address p" style="float: right;">2019</figcaption>
+Member of the _Contemplative Practices in Foreign Languages Instruction_ working group
 
 <figcaption class="address p" style="float: right;">2016-2017</figcaption>
 
