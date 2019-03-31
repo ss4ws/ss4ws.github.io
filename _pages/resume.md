@@ -47,14 +47,14 @@ _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon
 
 ## RESEARCH INTERESTS
 
-- 20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
-- Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
-- Visual Studies.
-- Literature and new media.
-- Digital Publishing.
-- Materiality of the text.
-- History of the book and publishing.
-- Arts in digital space.
+20th & 21st Century French literature and Cultural Studies from the Revolution to present.    
+Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
+Visual Studies.  
+Literature and new media.  
+Digital Publishing.  
+Materiality of the text.  
+History of the book and publishing.  
+Arts in digital space.  
 
 ## PUBLICATIONS
 
