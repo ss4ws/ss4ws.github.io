@@ -216,7 +216,7 @@ __South Atlantic Studies Graduate Fellowship__
 __Mellon Foundation Graduate Fellowship__  
 “Composing the Humanities in a Digital Age”   
 
-<figcaption class="address p" style="float: right;">2016-2018</figcaption>
+<figcaption class="address p" style="float: right;">2016-2019</figcaption>
 
 __Travel Grants__  
 Department of French, University of Virginia.   
