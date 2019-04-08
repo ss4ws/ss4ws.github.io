@@ -8,5 +8,5 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem "rubyzip", ">= 1.2.2"
-    gem "nokogiri", ">= 1.8.5"
+    gem "nokogiri", ">= 1.8.5" 
 end
