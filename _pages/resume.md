@@ -111,6 +111,12 @@ AAEEBL Southeast Regional Conference, Virginia Tech.
 
 <figcaption class="address p" style="float: right;">2019</figcaption>
 
+__Visualizing Students' Flourishing__  
+Contemplative Pedagogy Across the Languages: Towards a More Mindful Learning Experience  
+Institute of World Languages, University of Virginia. 
+
+<figcaption class="address p" style="float: right;">2019</figcaption>
+
 __Augmented Reality and Digital Space__    
 Augmented Reality and Language Learning, New Forms of “Immersion”  
 Institute of World Languages, University of Virginia.
