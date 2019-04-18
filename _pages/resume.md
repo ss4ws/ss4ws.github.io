@@ -19,16 +19,19 @@ toc: yes
 
 ## EDUCATION
 
-`2013 - (Fall 19 excpected)`
-__University of Virginia__, _PhD_, French Contemporary Literature and Digital Media  
+`2013 - (Fall 2019 excpected)`
+__University of Virginia__  
+_PhD_, French Contemporary Literature and Digital Media    
 _Dissertation_: Brouillon net: artisans du web, et écriture à l’ère numérique 
 
 `2001-2002`
-__University Paris 8__, _DEA (MA2)_, Texte, Imaginaire, Société       
+__University Paris 8__  
+_DEA (MA2)_, Texte, Imaginaire, Société       
 _Dissertation_: Vies d’artistes dans l’oeuvre de Pierre Michon
 
 `1999-2000`
-__University Paris 8__, _Maîtrise (MA1)_, Lettres Modernes     
+__University Paris 8__  
+_Maîtrise (MA1)_, Lettres Modernes     
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
 
@@ -190,7 +193,7 @@ __Copywriter__, Spot JWT, Athens.
 ## ACADEMIC SERVICE
 
 `2019`
-__Member of the _Contemplative Practices in Foreign Languages Instruction_ working group__, University of Virginia.
+__Member of the Contemplative Practices in Foreign Languages Instruction working group__, University of Virginia.
 
 `2016-2017`
 __Coordinator for Business French Training Course__, Department of French at the University of Virginia, the Cultural Services of the French Embassy in Washington and the Chamber of Commerce in Paris.
@@ -198,7 +201,7 @@ __Coordinator for Business French Training Course__, Department of French at the
 `2015–2016`
 __Committee member for First Pan-European Studies Graduate Students Conference__, University of Virginia.
 
-`2014–Present`
+`2014–2016`
 __Research Assistant__, FLLEP Grant, funded initiative for the implementation of e-portfolios in foreign language learning.
 
 `2013-2014`
@@ -235,6 +238,7 @@ __Rachel Geer__, Assistant Professor, French House Director, University of Virgi
 
 
 `Last updated: 2019-04-18`
+
 
 
 <!--
