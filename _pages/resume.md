@@ -10,7 +10,7 @@ toc: yes
 <div class="header-bar">
   <h1>Curriculum Vitæ</h1>
   <!-- <h2>[Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})</h2> -->
-  <p><a href="https://ss4ws.github.io/markdown-cv/">Print friendly version</a></p>
+  <p><a href="https://ss4ws.github.io/simotas-cv/">Print friendly version</a></p>
 </div>
 
 <!--
@@ -23,38 +23,33 @@ toc: yes
 Use this snippet code to add a link to download CV in pdf.
 [Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})
 -->
-## EDUCATION	
+<!-- ## EDUCATION	
 
  <figcaption class="address p" style="float: right;">2013 - (in progress)</figcaption>
  
-__University of Virginia__  
-_PhD_ - French Contemporary Literature and Digital Media  
+__University of Virginia__, _PhD_ French Contemporary Literature and Digital Media  
 _Dissertation_: _Brouillon net: artisans du web, et écriture à l’ère numérique_  
 _Abstract_: `insert abstract here`
 
 
 <figcaption class="address p" style="float: right;">2001-2002</figcaption>
 
-__University Paris 8__  
-_DEA (MA2)_ - Texte, Imaginaire, Société     
+__University Paris 8__, _DEA (MA2)_, Texte, Imaginaire, Société     
 _Dissertation_: Vies d’artistes dans l’oeuvre de Pierre Michon
 
 <figcaption class="address p" style="float: right;">1999-2000</figcaption>
 
-__University Paris 8__  
-_Maîtrise (MA1)_ - Lettres Modernes   
+__University Paris 8__, _Maîtrise (MA1)_, Lettres Modernes   
 _Dissertation_: L’invention de la biographie dans l’oeuvre de Pierre Michon  
 
 ## RESEARCH INTERESTS
 
-20th & 21st Century French literature and Cultural Studies from the Revolution to present.    
-Digital Humanities, teaching with technology, e-portfolios in second language acquisition.  
-Visual Studies.  
+20th & 21st Century French literature and Cultural Studies from the Revolution to present.  
+Digital Humanities, teaching with technology, e-portfolios & self-tracking in second language acquisition.  
+Audiovisual Studies.  
 Literature and new media.  
-Digital Publishing.  
 Materiality of the text.  
 History of the book and publishing.  
-Arts in digital space.  
 
 ## PUBLICATIONS
 
@@ -338,4 +333,4 @@ __Project Management:__ Slack, Asana, Trello, Basecamp
 
 Available upon request.
 
-<small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
+<small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small> -->
