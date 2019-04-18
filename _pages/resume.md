@@ -19,7 +19,7 @@ toc: yes
 
 ## EDUCATION
 
-`2013 - (Fall 2019 excpected)`
+`2013 - (Fall 2019 expected)`
 __University of Virginia__  
 _PhD_, French Contemporary Literature and Digital Media    
 _Dissertation_: Brouillon net: artisans du web, et écriture à l’ère numérique 
