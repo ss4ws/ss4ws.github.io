@@ -1,7 +1,22 @@
 <div class="news">
-  <h2>news</h2>
+  <h2 >news</h2>
   {% if site.news  %}
-    <table>
+  {% assign news = site.news | reverse %}
+  {% for item in news limit: site.news_limit %}
+  <div 
+        class="date" style="float: left;">
+        {{ item.date | date: "%b %-d, %Y" }} 
+      </div>
+      <div class="announcement" style="clear:left; margin: 1.5em;">
+        {% if item.inline %} 
+        {{ item.content | remove: '<p>' | remove: '</p>'| emojify }}
+      </div> 
+       {% else %}
+       <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+       {% endif %}
+  {% endfor %}
+    
+    <!-- <table>
     {% assign news = site.news | reverse %}
     {% for item in news limit: site.news_limit %}
       <tr>
@@ -15,7 +30,7 @@
         </td>
       </tr>
     {% endfor %}
-    </table>
+    </table> -->
   {% else %}
     <p>No news so far...</p>
   {% endif %}
