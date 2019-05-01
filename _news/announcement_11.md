@@ -5,6 +5,6 @@ inline: true
 ---
 
 <figure>
-<img src="assets/img/2019/05/FLOURISH_SMALL.gif">
+<img style="width:100%;" src="assets/img/2019/05/FLOURISH_SMALL.gif">
 <figcaption>Visualizing Students' Flourishing. Stay tuned.</figcaption>
 </figure> 
