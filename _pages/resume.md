@@ -45,11 +45,15 @@ History of the book and publishing.
   
 ## PUBLICATIONS
 
+`2018`
+Spyridon Simotas et al., __“Augmenting the University: Using Augmented Reality to Excavate University Spaces.,”__ in Digital Humanities 2018, Puentes-Bridges: Book of Abstracts. (Mexico City: Alliance of Digital Humanities Organizations, 2018), 600–601, https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf.
+
 `2017`
-__“Entrées Par Ordre Alphabétique Dans l’espace Du Dedans,”__ Contemporary French and Francophone Studies 21, no. 4 (August 8, 2017): 414–20, https://doi.org/10.1080/17409292.2017.1432336.
+Spyridon Simotas, __“Entrées Par Ordre Alphabétique Dans l’espace Du Dedans,”__ Contemporary French and Francophone Studies 21, no. 4 (August 8, 2017): 414–20, https://doi.org/10.1080/17409292.2017.1432336.
 
 `2003`
-__“Pierre Michon et la question de la filiation.”__, [_Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002_](https://www.peterlang.com/view/product/9301), Variations, v. 4 (Bern ; New York: Peter Lang, 2003). 57-76
+Spyridon Simotas, __“Pierre Michon et La Question de La Filiation,”__ in Pierre Michon, Entre Pinacothèque et Bibliothèque: Actes de La Journée D’étude Organisée À l’Université de Zurich Le 31 Janvier 2002, vol. 4, Variations (Bern, New York: Peter Lang, 2003), 57–76, https://www.peterlang.com/view/product/9301.
+
 
 ### Fiction
 
