@@ -8,7 +8,7 @@ toc: yes
 ---
 
 <div class="header-bar">
-  <h1>Curriculum Vitæ</h1>
+  <h1>Vitæ</h1>
   <!-- <h2>[Download PDF]({{ "/assets/docs/CV18.pdf" | absolute_url }})</h2> -->
   <p><a href="https://ss4ws.github.io/simotas-cv/">Print friendly version</a></p>
 </div>
