@@ -17,6 +17,12 @@ category: blog, work in progress
     
 </div>
 
+### Craig Mod 
+
+> — as it turns out steps add up, and if you throw enough of them down on the ground, they get you places. Even far away places. And so, just like that, the world turns and Kyoto appears. [^1] 
+
+[^1]: Taken from his [Ridgeline Newsletter 018](https://craigmod.com/ridgeline/018/)
+
 ### Antonin Artaud - Le théâtre et son double 
 
 > “Protestation contre le rétrécissement insensé que l’on impose à l’idée de culture en la réduisant à une sorte d’inconcevable Panthéon ; ce qui donne une idolâtrie de la culture, comme les religions idolâtres mettent des dieux dans leur Panthéon.
