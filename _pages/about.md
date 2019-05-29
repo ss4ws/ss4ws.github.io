@@ -6,7 +6,7 @@ description: PhD Student in French. Praxis Program Alumni at the Scholars' Lab.
 
 profile:
   align: right
-  image: /bio-photo.jpg
+  image: 
   address: >
    <p></p>
    <p></p>
