@@ -3,7 +3,7 @@ layout: post
 title: From ephemera to euphoria 
 excerpt: From the world of art to an art of living. 
 date: 2019-05-28 12:15:01
-modified: 2019-05-28 12:15:07  
+modified: 2019-05-29 11:30:25  
 categories: 
     - blog
     - art 
