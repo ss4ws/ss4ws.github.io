@@ -11,9 +11,6 @@ category: teaching
 
 <figcaption><em>After my first year of teaching at the University of Virginia, <a href="http://french.as.virginia.edu/people/profile/ksj7c">Professor Karen James</a> asked me to give this presentation to the incoming cohort of graduate students. Since then, I have presented it four times to four different cohorts. This is the latest iteration.</em></figcaption><br>
 
-Table of contents  
-<!-- TOC -->autoauto- [Introductions](#introductions)auto- [Vocabulary in Context](#vocabulary-in-context)auto    - [1. The dictionary](#1-the-dictionary)auto    - [2. Use of the dictionary](#2-use-of-the-dictionary)auto    - [3. Endangered Species](#3-endangered-species)auto    - [4. Les associations des mots](#4-les-associations-des-mots)auto    - [5. Claude Shannon’s experiment](#5-claude-shannons-experiment)auto    - [6. Predictability and Surprise](#6-predictability-and-surprise)auto    - [7. Word networks](#7-word-networks)auto    - [8. Definition of context.](#8-definition-of-context)auto    - [9. Importance of context.](#9-importance-of-context)auto    - [10. Brouiller l'ordre des mots](#10-brouiller-lordre-des-mots)auto    - [12. L'accouchement de pizza](#12-laccouchement-de-pizza)auto    - [13. Cacophonie](#13-cacophonie)auto    - [14. Vocabulary learning with Espace and Imaginez](#14-vocabulary-learning-with-espace-and-imaginez)auto    - [15. Example Avenir-Métiers](#15-example-avenir-métiers)auto    - [16. Example Espace vert](#16-example-espace-vert)auto    - [17. Inversez l'ordre du livre](#17-inversez-lordre-du-livre)auto    - [18. Approfondir le vocabulaire avec espaces cultures](#18-approfondir-le-vocabulaire-avec-espaces-cultures)auto    - [19. Summary](#19-summary)auto        - [Use the book!](#use-the-book)auto        - [Get inspired!](#get-inspired)auto        - [Be Creative!](#be-creative)auto        - [Share!](#share)auto- [Footnotes](#footnotes)autoauto<!-- /TOC -->
-
 ## Introductions 
 
 Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia. I am working on an (ahem) overdue dissertation on three contemporary French authors who publish online: François Bon, Éric Chevillard and Philippe De Jonckheere. 
@@ -154,20 +151,20 @@ We are not immune, however, to some [“accidental surrealism”](https://ss4ws.
 
 Every unit is based on a theme/topic.
 
-- Espace Context: dedicated to vocabulary
+#### Espace Context: dedicated to vocabulary
 
 This is the section of the book that I find the most difficult to teach. Flipping the classroom and asking students to come prepared, having studied the vocabulary of the unit at home, makes it much easier. How do you teach this section? Do you have any creative ideas? 
 
-- Espace Roman Photo: a simulation of a real-life situation where the vocabulary and grammar of the unit are used. 
+#### Espace Roman Photo: a simulation of a real-life situation where the vocabulary and grammar of the unit are used. 
 
 This is a section that I particularly appreciate. From the point of view of the native speaker it seems like a slowed down audio. Nevertheless, this is the model of oral French we want our students to replicate. 
 
-<mark>Tip<mark> Warm up idea: Have two students learn by heart a small section of the previous day Roman Photo and perform it in class the next day. By doing so, they will get the following benefits: 
+<mark>Warm up idea:</mark> Have two students learn by heart a small section of the previous day Roman Photo and perform it in class the next day. By doing so, they will get the following benefits: 
   - watch the Roman Photo again,
   - learn and repeat a few set expressions, 
   - be more prepared for the oral exam.  
 
-- Espace Culture: More vocabulary and cultural awareness. 
+#### Espace Culture: More vocabulary and cultural awareness. 
 
 Each unit has an assortment of texts related to the topic with various activities. 
  

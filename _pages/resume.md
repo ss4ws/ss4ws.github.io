@@ -103,6 +103,10 @@ __Teaching vocabulary in context__, annual graduate students’ orientation week
 
 ## TEACHING EXPERIENCE
 
+`2019-2020`
+__Lecturer__, University of Virginia
+Representative courses: beginner, intermediate, and accelerated French.
+
 `2013-2019`
 __Teaching Assistant__, University of Virginia
 Representative courses: beginner, intermediate, and accelerated French.
