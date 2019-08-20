@@ -15,7 +15,7 @@ category: teaching
 
 Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia working on an (ahem) overdue dissertation. 
 
-My research examines the creative mess three contemporary French writers have been publishing online since the early 2000. Entrenched in the literary tradition, they claimed the electronic turf as their own medium for experimentation, sharing their work with more emphasis on the making than the final product. This gave rise to a body of unfinished, often unpolished, non to mention unpublished by conventional means, work that I call Brouillon.net and I am looking the different ways in which each writer interprets this notion of brouillon. 
+My research examines the creative mess three contemporary French writers have been making on the web since the early 2000. Entrenched in the literary tradition, they claimed the electronic turf as their own medium for experimentation, sharing their work with more emphasis on the making than the final product. This gave rise to a body of unfinished, often unpolished, non to mention unpublished by conventional means, work that I call _Brouillon.net_ and I am looking the different ways in which each writer interprets this notion of _brouillon_. 
 
 My research happens on the intersection of critical theory (especially the late Roland Barthes),  avant-gardes movements (especially Oulipo, and, more specifically Georges Perec), and Digital Humanities. 
 
