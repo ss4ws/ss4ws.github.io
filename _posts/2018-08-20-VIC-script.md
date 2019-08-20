@@ -13,9 +13,9 @@ category: teaching
 
 ## Introductions 
 
-Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia. I am working on an (ahem) overdue dissertation on three contemporary French authors who publish online: François Bon, Éric Chevillard and Philippe De Jonckheere. 
- 
-Given that the web has completely eroded the boundaries between producer and consumer, between form and content, and also between artistic disciplines, I am looking the websites of these three authors, as an expression of new poetic hybrids. 
+Hi everybody! For those of you who don't know me, my name is Spyridon (Spyros) Simotas and I am a PhD student here at the University of Virginia working on an (ahem) overdue dissertation. 
+
+My research examines the creative mess three contemporary French writers have been publishing online since the early 2000. Entrenched in the literary tradition, they claimed the electronic turf as their own medium for experimentation, sharing their work with more emphasis on the making than the final product. This gave rise to a body of unfinished, often unpolished, non to mention unpublished by conventional means, work that I call Brouillon.net and I am looking the different ways in which each writer interprets this notion of brouillon. 
 
 My research happens on the intersection of critical theory (especially the late Roland Barthes),  avant-gardes movements (especially Oulipo, and, more specifically Georges Perec), and Digital Humanities. 
 
