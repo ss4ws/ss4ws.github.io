@@ -217,18 +217,16 @@ Approfondir le vocabulaire avec Espace Culture
  
 ### 19. Summary 
 
-#### Use the book!
+#### Use the book 📕 
 All the necessary resources to teach and learn vocabulary in context are in the book! Insist on that with your students. The use of wordreference.com often times leads to accidental surrealism! 
 
-#### Get inspired! 
-
+#### Get inspired 💡 
 French Instructors Collab sites provide a wide range of material for everybody to use! 
 
-#### Be Creative! 
-
+#### Be Creative ⚡️ 
 Come up your own authentic material.  
 
-#### Share! 
+#### Share ♻️ 
 Don’t forget: ideas are greater when shared. Share your class materials with your colleagues!
 
 <hr>
