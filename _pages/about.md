@@ -6,11 +6,11 @@ description: PhD Student & Lecturer in French. Praxis Program Alumni at the Scho
 
 profile:
   align: right
-  image: assets/img/office-small.gif
+  image: 
   address: >
-   <p>New Cabell Hall 369</p>
-   <p>Tuesday 3:30 - 4:00 & 6:00 - 6:30 pm</p>
-   <p>Thursday 3:30 - 4:00 & 6:00 - 6:30 pm</p>
+   <p></p>
+   <p></p>
+   <p></p>
     
 news: true
 social: true
