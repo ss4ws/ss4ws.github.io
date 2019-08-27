@@ -137,7 +137,7 @@ __Contemplative Sciences Center__, CDI award for integrating contemplative pract
 __All-University Graduate Teaching Award__, University of Virginia.
 
 `2018`
-__Huskey Graduate Research Exhibition__, 1rst place for Praxis Digital Humanities project: UVA Reveal, Augmenting the University, University of Virginia. 
+__Huskey Graduate Research Exhibition__, 1st place for Praxis Digital Humanities project: UVA Reveal, Augmenting the University, University of Virginia. 
 
 
 `2017-2018`
