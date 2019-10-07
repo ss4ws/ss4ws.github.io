@@ -1,11 +1,11 @@
 ---
 layout: default
-title: decks
-permalink: /decks/
+title: slides
+permalink: /slides/
 ---
 
 <div class="header-bar">
-  <h1>decks of slides</h1>
+  <h1>slides</h1>
   <h2>a collection of presentations</h2>
 </div>
 
