@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ART: Attention and Reflection Tracking. An approach to personal analytics with emphasis on mindfulness, metacognition, and making. 
+title: ART Attention and Reflection Tracking. An approach to personal analytics with emphasis on mindfulness, metacognition, and making. 
 excerpt: Revision and refinement of the ongoing ART project.    
 date: 2019-11-04  
 modified:  
