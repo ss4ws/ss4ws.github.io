@@ -9,7 +9,9 @@ comments: true
 category: dh-projects
 ---
 
-![Gif with all the graphs](https://ss4ws.github.io/assets/img/2019/05/FLOURISH_SMALL.gif)
+
+<img style="width=100%" src="https://ss4ws.github.io/assets/img/2019/05/FLOURISH_SMALL.gif">
+
 
 ### 1. ART & Mindfulness
 ART stands for Attention and Reflection Tracker and it is a digital tool conceived of and designed by Spyros Simotas, PhD candidate in UVA’s Department of French to help students track their learning progress. ART brings awareness to the minutiae of learning, and it operates on the following principles: 
