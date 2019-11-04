@@ -10,7 +10,7 @@ category: dh-projects
 ---
 
 <figure>
-<img style="width:100%;" src="assets/img/2019/05/FLOURISH_SMALL.gif">
+<img style="width:100%;" src="https://ss4ws.github.io/assets/img/2019/05/FLOURISH_SMALL.gif">
 <figcaption><small>Visualizing Students' Flourishing.</small></figcaption>
 </figure> 
 
