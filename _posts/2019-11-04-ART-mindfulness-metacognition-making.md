@@ -11,7 +11,7 @@ category: dh-projects
 
 <figure>
 <img style="width:100%;" src="assets/img/2019/05/FLOURISH_SMALL.gif">
-<figcaption><small><a href="https://ss4ws.github.io/blog/2019/VSF-PRES/#/">Visualizing Students' Flourishing.</a></small></figcaption>
+<figcaption><small>Visualizing Students' Flourishing.</small></figcaption>
 </figure> 
 
 
