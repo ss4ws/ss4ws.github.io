@@ -5,7 +5,7 @@ title: <strong>Spyridon</strong> Simotas
 description: PhD Student & Lecturer in French. Praxis Program Alumni at the Scholars' Lab. 
 
 profile:
-  align: right
+<!--  align: right -->
   image: 
   address: >
    <p></p>
