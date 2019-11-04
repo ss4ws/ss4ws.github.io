@@ -9,8 +9,7 @@ comments: true
 category: dh-projects
 ---
 
-
-<img style="width=100%" src="https://ss4ws.github.io/assets/img/2019/05/FLOURISH_SMALL.gif">
+![Gif with all the graphs](https://ss4ws.github.io/assets/img/2019/05/FLOURISH_SMALL.gif) 
 
 
 ### 1. ART & Mindfulness
