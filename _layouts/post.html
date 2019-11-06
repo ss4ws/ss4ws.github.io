@@ -8,8 +8,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
-    {{ content }}
+  <article class="post-conte{{ content }}
   </article>
   <div>
     <small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
@@ -30,7 +29,7 @@ layout: default
   {% endif %}
 
   <!-- Scroll to top button -->
-  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">↑</button>
   
   <script>
   // When the user scrolls down 20px from the top of the document, show the button
