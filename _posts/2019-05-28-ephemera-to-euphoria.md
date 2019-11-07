@@ -13,7 +13,7 @@ categories:
  
 Marcel Duchamp has been for many years an intellectual stimulation for me. I admire how he kicked the art world’s butt, without even lifting his foot off the ground. I also admire his  approach to life. He didn't need much to get by. He ate a little, he never owned a car, he spent most of his time playing chess and he rejected the bourgeois life cycle of a work of art: from the artist’s studio to the bourgeois’s apartment walls, via the art show. “I don’t believe in art,” he has reportedly said, “I believe in the artist.”[^1] He thought of art as some kind of inner current, like electricity. To be an artist then, is to have access to the switches. 
 
-[^1]: Thomas Girst, _The Duchamp dictionary_ (London ; New York: Thames & Hudson, 2014). 22
+[^1]: Thomas Girst, _The Duchamp dictionary_ (London; New York: Thames & Hudson, 2014). 22
 
 Most of us live our lives trying to either fit in or feeling as though we are misfits. We are either abiding by or fighting against the rules. Marcel Duchamp played Jenga with them, carefully subtracting them piece by piece, while testing the tipping point of the whole structure. At the end, he won. The tower did not collapse. On the contrary, his legacy solidified his ideas. The art world became full of emptiness, tuned in to the [_infrathin_](http://www.artandpopularculture.com/Infrathin). Instead of the familiar retinal art show, Marcel Duchamp’s legacy from John Cage[^2] to Andy Warhol[^3], forced us to watch the paint dry, so to speak. 
 
