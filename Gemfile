@@ -7,6 +7,6 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem "rubyzip", ">= 1.2.2"
+    gem "rubyzip", ">= 2.0.0"
     gem "nokogiri", ">= 1.10.5" 
 end
