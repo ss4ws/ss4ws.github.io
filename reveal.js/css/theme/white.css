@@ -15,8 +15,9 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 42px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  /* "Source Sans Pro", Helvetica, sans-serif; */
+  font-size: 24px;
   font-weight: normal;
   color: #222; }
 
@@ -46,7 +47,8 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #222;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+   /* "Source Sans Pro", Helvetica, sans-serif; */
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
@@ -55,15 +57,21 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 1.8em; }
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1.6em; }
 
 .reveal h4 {
+  font-size: 1.4em; }
+
+.reveal h5 {
+  font-size: 1.2em; }
+
+.reveal h6 {
   font-size: 1em; }
 
 .reveal h1 {
@@ -73,6 +81,7 @@ body {
  * OTHER
  *********************************************/
 .reveal p {
+  font-size: .5em;
   margin: 20px 0;
   line-height: 1.3; }
 
@@ -80,8 +89,8 @@ body {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 100%; }
+  max-width: 90%;
+  max-height: 90%; }
 
 .reveal strong,
 .reveal b {
@@ -125,7 +134,7 @@ body {
 .reveal blockquote {
   display: block;
   position: relative;
-  width: 70%;
+  width: 100%;
   margin: 20px auto;
   padding: 5px;
   font-style: italic;
@@ -202,6 +211,17 @@ body {
 
 .reveal small * {
   vertical-align: top; }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+    
+  padding: 10px; }
+.grid-item {
+    
+  padding: 20px;
+  font-size: 30px;
+  text-align: center; }
 
 /*********************************************
  * LINKS
