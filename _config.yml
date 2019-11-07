@@ -4,12 +4,12 @@
 title: Spyridon Simotas
 email: ss4ws@virginia.edu
 description: > # this means to ignore newlines until "url:"
- 
+
 # footer_text: >
-  
+
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 2018-07-19 
+last_updated: 2019-11-07
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -28,7 +28,7 @@ contact_note: say hi!
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: blog
-blog_description: thoughts, ideas, contributions, haikus, etc.
+blog_description:
 
 # Pagination
 paginate: 4
@@ -61,11 +61,11 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /scoops/:path/  
+    permalink: /scoops/:path/
   projects:
     output: true
     permalink: /projects/:path/
-  
+
 news_limit: 10
 
 # -----------------------------------------------------------------------------
@@ -90,7 +90,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: 
+  last_name:
 
   style: chicago-fullnote-bibliography
   locale: en
