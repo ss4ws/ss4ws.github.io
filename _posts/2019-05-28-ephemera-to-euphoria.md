@@ -27,12 +27,9 @@ His production was inversely proportional to the time spent on each piece. Aband
 
 > I think there is a great deal to the idea of not doing a thing, but that when you do a thing, you don't do it in five minutes or in five hours, but in five years. I think there's an element in the slowness of the execution that adds to the possibility of producing something that will be durable in its expression, that will be considered important five centuries later.[^5]
 
-
-
 ”Not doing a thing” was first played out with the readymade, the absolute shortcut between making and not making, art and non-art. Whereas _Étant donnés_ is the exact opposite, a process so long that it consumes the artist until the end. For Marcel Duchamp, art's value lay beyond its aesthetics, and its price in the stock market. Although he did make a modest living by investing in and selling some of his friends' sculptures –notably Brancusi's– he remained critical of the commodification of art. Art’s value, was not in the object production but in the self-actualization of the artist. “In the creative act, the artist goes from intention to realization through a chain of totally subjective reactions.”[^6] At the end, the series of reactions that went into the work spill over from the world of art to life. They do not only give a form to an object, they transform the artist himself.
 
-
-
+- - - 
 [^1]: Thomas Girst, _The Duchamp dictionary_ (London; New York: Thames & Hudson, 2014). 22
 [^2]: [4’33”](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)
 [^3]: [Empire](https://en.wikipedia.org/wiki/Empire_(1964_film))
