@@ -8,7 +8,8 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-conte{{ content }}
+  <article class="post-content
+  {{ content }}
   </article>
   <div>
     <small class="address p" style="float: right;">{% if page.modified %}Last updated on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</small>
@@ -30,11 +31,11 @@ layout: default
 
   <!-- Scroll to top button -->
   <button onclick="topFunction()" id="myBtn" title="Go to top">↑</button>
-  
+
   <script>
   // When the user scrolls down 20px from the top of the document, show the button
   window.onscroll = function() {scrollFunction()};
-  
+
   function scrollFunction() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
       document.getElementById("myBtn").style.display = "block";
@@ -42,12 +43,12 @@ layout: default
       document.getElementById("myBtn").style.display = "none";
     }
   }
-  
+
   // When the user clicks on the button, scroll to the top of the document
   function topFunction() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
   }
   </script>
-  
+
 </div>
