@@ -3,7 +3,8 @@
     border-bottom: 1px solid $grey-color-light;
     background-color: $grey-color-light;
     opacity: 0.95;
-    position:fixed;
+    position: static;
+    // position: fixed;
     left:0px;
     top:0px;
     width:100%;
