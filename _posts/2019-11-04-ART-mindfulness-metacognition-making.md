@@ -3,7 +3,7 @@ layout: post
 title: ART Attention and Reflection Tracking. An approach to personal analytics with emphasis on mindfulness, metacognition, and making.
 excerpt: Revision and refinement of the ongoing ART project.    
 date: 2019-11-04  
-modified:  
+modified: 2019-11-15
 tags: personal analytics, quantified self, tracking, mindfulness, metacognition, making, pedagogy
 comments: true
 category: dh-projects
