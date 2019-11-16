@@ -4,9 +4,17 @@ title: From distant reading to distant writing?
 excerpt: Some thoughts on Lisa Marie Rhody's talk at the Scholars' Lab.      
 date: 2019-11-09  
 modified: 2019-11-15 
-tags: [talk, thoughts, lisa marie rhody, digital humanities, text analysis, close reading]
 comments: true
-category:
+categories: 
+    - talk 
+    - thoughts 
+    - Lisa Marie Rhody 
+    - Feminist Killjoy
+    - digital humanities 
+    - text analysis
+    - distant reading 
+    - close reading
+    - distant writing
 ---
 
 Last Friday, I attended Lisa Marie Rhody's talk “Reading Against Models: Feminist Text Analysis in Theory & Practice” at UVA’s Scholars' Lab. Unlike the majority of other attendees, I was unfamiliar with her work. To be completely honest, I knew close to nothing about her scholarship, having only skimmed her article [“Why I Dig: Feminist Approaches to Text Analysis”](https://dhdebates.gc.cuny.edu/read/untitled/section/508c8664-15c8-4262-a72a-e49299873d11#ch46) on _Debates in the Digital Humanities 2016._ This weekend, amid house chores, groceries, and cooking, my mind kept returning to her talk [^1].
