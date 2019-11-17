@@ -2,13 +2,13 @@
 layout: post
 title: Hello World!
 excerpt: Where I break the ice and introduce myself.
-date: 06/09/2017, 9:00:24
+date: 2017-09-06, 9:00:24
 tags: [intro, beginner, praxis]
 comments: true
 category: blog, contribution
 ---
 
-<figcaption class="address p" style="float: right;">Cross posted in the Scholars' Lab blog</figcaption><br>
+<figcaption class="address p" style="float: right;">Crossposted to the Scholars' Lab blog</figcaption><br>
 
 My name is Spyros Simotas and I am a PhD candidate at the French Department at UVa. This year, I am also a Praxis fellow at the Scholars’ Lab. In this first blog post I would like to briefly introduce myself honoring [Brandon’s](http://scholarslab.org/people/brandon-walsh/) ice-breakers.
 
