@@ -10,8 +10,8 @@ category: dh-projects
 ---
 
 <figure>
-<img style="width:100%;" src="assets/img/2019/11/letterpress-poster.jpg">
-<figcaption><small>Letterpress printing poster.</small></figcaption>
+<img style="width:100%;" src="/assets/img/2019/11/letterpress-poster.jpg">
+<figcaption><small>Letterpress poster.</small></figcaption>
 </figure>
 
 ### 1. ART & Mindfulness
