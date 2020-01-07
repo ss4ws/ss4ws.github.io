@@ -1,10 +1,6 @@
 <footer>
-
-  
-    <div class="social">
-      <span class="wrapper">
-        
-      </span>
+  <div class="social">
+    <span class="wrapper">
       <div class="wrapper">
         {{ site.title }} {{ site.time | date: '%Y' }} | 
         <span class="entypo-cc"></span> Content licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY-SA 3.0</a> |
@@ -13,9 +9,10 @@
         {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
         {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>{% endif %}     
         {{ site.footer_text }}
-    <!-- {% if site.last_updated %}
+        {% if site.last_updated %}
         Last updated: {{ site.last_updated }}.
-    {% endif %} -->
+        {% endif %}
+      </div>  
+    </span>
   </div>
-
 </footer>
