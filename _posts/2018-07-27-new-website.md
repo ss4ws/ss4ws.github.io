@@ -3,7 +3,7 @@ layout: post
 title: New Website 
 excerpt: Where I decide to take more control of my website, by rebuidling it from scratch.     
 date: 2018-07-18
-modified: 2018-09-29 00:22:13
+modified: 2020-01-07 12:39:30
 tags: [website, jekyll, digital literacy skills]
 comments: true
 category: blog
@@ -21,7 +21,7 @@ Although it came with some functionalities I really appreciated, notably the res
 
 To various degrees, we all react to things based upon their appearance. When my father was a kid and didn't like his meal, he didn't blame the food directly. He refused to eat because "the plate was bent." In my refusal to update my website in its previous version,the ancestral “bent plate” hit me too. With this new overhaul, I am already far more satisfied with it, and ready to share it broader and wider than I did with its predecessor. Consequently, that will also make me more proactive in growing it into a place to gradually host all of my projects[^1].
 
-[^1]: Maybe at a later date, I will write about all of my previous blogs made on various CMS platforms since 2006!  
+[^1]: Maybe at a later date, I will write about all of my previous blogs made on various CMS platforms since 2005.  
 
 ### Features
 
@@ -35,10 +35,12 @@ Github is a version control management system, adopted by the open source and di
 That's the case with the template of this website. It is based upon [al-folio](https://github.com/alshedivat/al-folio) which is an iteration of [-folio](https://github.com/bogoli/-folio). On Github people share their expertise and help others improve their own technical skills by implementing and tweaking existing projects.
 
 **Customization**   
-Among a number of tweaks, which are too numerous to list here, the main two additions to this template are the resume page (vitaæ on the navigation menu) and the reveal.js framework for online presentations listed under [decks](https://ss4ws.github.io/decks/).
+Among a number of tweaks, which are too numerous to list here, the main two additions to this template are the resume page (vitaæ on the navigation menu) and the reveal.js framework for online presentations listed under ~~[decks](https://ss4ws.github.io/decks/)~~ [slides](https://ss4ws.github.io/slides/).
 
 **Future customizations and troubleshooting**   
-Due to some compatibility issues with Safari, the links are not highlighted in red as intended. I will have to figure that out at some point. Also, as the website grows, it will probably need more than one way to sort information. Maybe a projects page will be helpful, or a categories archive [like this one](https://mmistakes.github.io/so-simple-theme/categories/).
+- [X] Due to some compatibility issues with Safari, the links are not highlighted in red as intended. I will have to figure that out at some point. 
+
+ - [ ] Also, as the website grows, it will probably need more than one way to sort information. Maybe a projects page will be helpful, or a categories archive [like this one](https://mmistakes.github.io/so-simple-theme/categories/).
 
 <hr>
 ##### Footnote: 
