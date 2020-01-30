@@ -3,7 +3,7 @@ layout: post
 title: From distant reading to distant writing?
 excerpt: Some thoughts on Lisa Marie Rhody's talk at the Scholars' Lab.      
 date: 2019-11-09  
-modified: 2019-11-15 
+modified: 2019-11-16
 comments: true
 categories: 
     - talk 
