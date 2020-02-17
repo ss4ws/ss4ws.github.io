@@ -6,7 +6,7 @@ description: PhD Student & Lecturer in French. Praxis Program Alumni at the Scho
 
 profile:
   align: right
-  image: 
+  image: /assets/img/office.jpg
   address: >
    <p></p>
    <p></p>
