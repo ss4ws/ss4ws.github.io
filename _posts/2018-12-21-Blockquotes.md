@@ -15,7 +15,7 @@ The following is a collection of quotes from my readings. I have been gathering 
 </p>    
 </div>
 
-### Pascal Quignard^[Pascal Quignard, _Une gêne technique à l’égard des fragments_ (Saint-Clément-de-Rivière, France: Fata Morgana, 1986).] 
+### Pascal Quignard
 
 > La discontinuité de l’opération de penser est réelle. Elle confond suffisamment à chaque reprise le penseur, comme l’étrange fatigue non physique qui surprend son corps, à la longue l’accable et s’empêtre dans ses membres et dans ses nerfs jusqu’à l’angoisse. Que la brièveté de ce soudain et minuscule effort nerveux soit portée à s’exprimer sous la forme d’un petit spasme rhétorique – une manière de court-circuit, de brusque paradoxe ou d’ellipse –, cette considération paraît avoir pour elle un haut degré de vraisemblance. 
 
@@ -27,7 +27,7 @@ The following is a collection of quotes from my readings. I have been gathering 
 
 > […] les bienfaits du fragment sont au nombre de deux. L’un de ces bénéfices n’est que personnel; l’autre est purement littéraire: le fragment permet de renouveler sans cesse 1) la posture du narrateur, 2) l’éclat bouleversant de l’attaque. 
 
-
+[Pascal Quignard, _Une gêne technique à l’égard des fragments_ (Saint-Clément-de-Rivière, France: Fata Morgana, 1986).] 
 
 
 - - - 
@@ -36,9 +36,9 @@ The following is a collection of quotes from my readings. I have been gathering 
 
 > There’s a high to getting a good photo, to finding a certain shot out in the world, to extracting it from the landscape. A tangible chemical high. I love it. My pack suddenly weightless after a ten minute chat with a farmer or craftsperson, slanting morning light, soft light filtered through the shoji of some workshop, the mechanics of photography making “real” a moment, adding edges to something otherwise fleeting. A photo doesn’t capture everything, but it places a tiny anchor in the mind back to that place, that split second, the air, the dust, the tension or ease in the room. 
 
-> as it turns out steps add up, and if you throw enough of them down on the ground, they get you places. Even far away places. And so, just like that, the world turns and Kyoto appears. [^1]
+> as it turns out steps add up, and if you throw enough of them down on the ground, they get you places. Even far away places. And so, just like that, the world turns and Kyoto appears. 
 
-[^1]: Taken from his [Ridgeline Newsletter 018](https://craigmod.com/ridgeline/018/)
+<!-- Taken from his [Ridgeline Newsletter 018](https://craigmod.com/ridgeline/018/) -->
 
 ### Antonin Artaud - Le théâtre et son double
 
