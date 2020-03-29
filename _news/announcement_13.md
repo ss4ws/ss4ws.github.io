@@ -5,7 +5,7 @@ inline: true
 ---
 
 <figure>
-<img style="width:100%;" src="https://lh4.googleusercontent.com/vS0ST2BXhAorchd2NfJr_QOWVB5exrTNkLDpUgKgWOT2_uIkvwiVRnvNUUF7ePFIW4ZhdR3xC18ZUM42jol2jx8UM5rWKJ48vJiksHNq">
+<img style="width:100%;" src="/assets/img/2020/03/office-small.jpg">
 <figcaption><small>Social distancing office hours.</small></figcaption>
 </figure> 
 
