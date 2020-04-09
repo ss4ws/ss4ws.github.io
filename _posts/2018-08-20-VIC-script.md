@@ -43,7 +43,7 @@ Alright, and now to the presentation. My presentation is divided in two parts:
 
 ### 1. The dictionary 
 
-When I think of vocabulary, [I think of the dictionary](https://ss4ws.github.io/blog/2018/VIC/#/1). Why don’t we teach vocabulary _with_ the dictionary? Say, assign a few pages to students every day to learn by heart and then move to a few more pages and so on. Is vocabulary compatible with the dictionary? After all, a dictionary offers the most comprehensive view of any given language. Why we don't give a few pages each day to students to learn by heart? 
+When I think of vocabulary, [I think of the dictionary](https://ss4ws.github.io/blog/2018/VIC/#/1). Why don’t we teach vocabulary _with_ the dictionary? [Say, assign a few pages to students every day to learn by heart and then move to a few more pages and so on.](https://www.youtube.com/watch?v=Ep7DwEfjESk) Is vocabulary compatible with the dictionary? After all, a dictionary offers the most comprehensive view of any given language. Why we don't give a few pages each day to students to learn by heart? 
  
 ### 2. Use of the dictionary  
 
