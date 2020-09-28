@@ -6,12 +6,14 @@ excerpt: Après avoir regardé le film La loi du marché on analyse le discours 
 tags: []
 category: teaching
 ---
+ 
 
-# L’intervention de Mr Draux 
+Contexte: Suicide du personnel à la suite d' harcelement moral de l'entreprise dans le film _La loi du marché.[^1]_
 
-Contexte: Suicide du personnel à la suite d' harcelement moral de l'entreprise dans le film _La loi du marché._^[Stéphane Brizé, _La loi du marché_, Drama (Nord-Ouest Films,  Arte France Cinéma,  Canal+, 2015).] 
+[^1]: Stéphane Brizé, _La loi du marché_, Drama (Nord-Ouest Films,  Arte France Cinéma,  Canal+, 2015). 
 
-Après le suicide un directeur RH prend la parole pour devant les collègues proches de Mme Anselmi--la personne qui s'est donnée la mort. Voici son discours: 
+Après le suicide de Mme Anselmi, un directeur RH, Mr Draux, prend la parole devant les collègues proches de Mme Anselmi. Voici son discours: 
+
 
 > Mr Ouhib: Il nous arrive quelque chose de tout à fait exceptionnel qui nous concerne tous. Moi le premier. Et j’ai demandé à un directeur de ressources humaines du groupe de venir avec moi aujourd’hui parce je voudrais qu’on échange sur ce qui s’est passé, et si possible répondre à des questions qu’éventuellement vous avez. Voilà c’est Mr Draux. Je vais le laisser se présenter.
 
