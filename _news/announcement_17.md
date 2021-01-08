@@ -1,14 +1,14 @@
 ---
 
 layout: post
-date: 2020-09-03
+date: 2021-01-08
 inline: true
 
 ---
 
 
 
-This fall semester, I am teaching two sections of Intermediate French II and a Business French class, completely online.  
+Courses I am teaching in Spring 2021. 
 
 <html>
 <head>
@@ -43,9 +43,8 @@ This fall semester, I am teaching two sections of Intermediate French II and a B
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/2020/09/fren-2020-poster.jpg" alt="FREN 2020 Poster" style="width:100%">
+    <img src="/assets/img/2021/01/intermediate-french.png" alt="FREN 2010 Poster" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/img/2020/09/fren-3035-poster.jpg" alt="FREN 3035 Poster" style="width:100%">
+    <img src="/assets/img/2021/01/fren-3585-poster-small.png" alt="FREN 3585 Poster" style="width:100%">
   </div>
-
