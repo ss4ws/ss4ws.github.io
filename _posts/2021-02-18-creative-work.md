@@ -48,8 +48,56 @@ category: blog, creative work
 	<figcaption>Dada: a brief presentation. <a href="https://ss4ws.github.io/blog/2020/dada-podcast/">Click here for script.</a></figcaption>
 </figure>
 
+
 # Augmented reality 
 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%; /*use this width for 3 columns*/ 
+  /*width: 50%;*/ /*use this width for 2 columns*/
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/2018/05/Rabelais.jpg" alt="Rabelais Poster" style="width:100%">
+    <figcaption>Trigger image for the augmentation of <em>Le Quart Livre</em></figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/img/2018/05/Ferrari.jpg" alt="Ferrari Poster" style="width:100%">
+ 	 <figcaption>Trigger image for the augmentation of <em>Chantal, ou le portrait d'une villageoise</em></figcaption>
+  </div>
+
+<div class="column">
+	<img src="/assets/img/2018/05/Perec.jpg" alt="Perec Poster" style="width:100%">
+	<figcaption>Trigger image for the augmentation of <em>Tentative d'épuisement d'un lieu parisien</em></figcaption>
+</div>
+
+<!-- 
 <figure>
   <img src="/assets/img/2018/05/Rabelais.jpg" alt="Rabelais Poster">
   <figcaption>Trigger image for the augmentation of <em>Le Quart Livre</em></figcaption>
@@ -64,6 +112,6 @@ category: blog, creative work
 <figure>
   <img src="/assets/img/2018/05/Perec.jpg" alt="Perec Poster">
   <figcaption>Trigger image for the augmentation of <em>Tentative d'épuisement d'un lieu parisien</em></figcaption>
-</figure>
+</figure> -->
 
-The full project is also available [here](https://ss4ws.github.io/blog/2018/french-department-reveal/).
+The full UVA Reveal project is also available <a href="https://ss4ws.github.io/blog/2018/french-department-reveal/">here</a>.
