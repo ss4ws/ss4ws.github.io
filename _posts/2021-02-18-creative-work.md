@@ -12,33 +12,37 @@ category: blog, creative work
 # Videos 
 
 <figure>
-	<iframe src="https://player.vimeo.com/video/86726149" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/86726149" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>French Film Festival (2014)</figcaption>
 </figure>
 
 
 
 <figure>
-	<iframe src="https://player.vimeo.com/video/87368852" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/87368852" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>French Film Festival (2014)</figcaption>
 </figure>
 
 
 <figure>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/UFzkVT1sCH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="100%" height="360" src="https://www.youtube.com/embed/UFzkVT1sCH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>students speak (2020)</figcaption>
 </figure>
 
 <figure>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4l7eEwfgj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="100%" height="360" src="https://www.youtube.com/embed/Y4l7eEwfgj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>grad students speak (2021)</figcaption>
 </figure>
 
-# Course posters 
+# Posters 
+
+<iframe src="https://drive.google.com/file/d/1-CXzBM69pS01zxdWOn4JoisLoZCk9U09/preview" width="100%" height="800"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1vtd74i-Orqs0epgHy584yCjglG5R38QZ/preview" width="100%" height="800"></iframe>
 
 <iframe src="https://drive.google.com/file/d/135X5lXUzBLw_A8kb4_qi4B7sXR9eKUBL/preview" width="100%" height="800"></iframe>
+
+
 
 
 # Podcast
